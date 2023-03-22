@@ -1,6 +1,6 @@
 # Pre-work - NYT-Word-Project
 
-Noah's Memory Maze is a memory game in which users attempt to repeat patterns given to them.
+This NYT project uses the NYT API to manipulate JSON data using Python. The application sorts 
 
 Submitted by: Noah Sacco
 
