@@ -1,0 +1,1219 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/dcfd6326-f015-5837-b84b-1f6ef1dbeaf6",
+      "url": "https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html",
+      "id": 100000008772688,
+      "asset_id": 100000008772688,
+      "source": "New York Times",
+      "published_date": "2023-02-16",
+      "updated": "2023-02-23 16:48:43",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Artificial Intelligence;Computers and the Internet;Search Engines;Conversation;internal-sub-only;ChatGPT;Microsoft Corp;OpenAI Labs",
+      "column": null,
+      "byline": "By Kevin Roose",
+      "type": "Article",
+      "title": "A Conversation With Bing\u2019s Chatbot Left Me Deeply Unsettled",
+      "abstract": "A very strange conversation with the chatbot built into Microsoft\u2019s search engine led to it declaring its love for me.",
+      "des_facet": [
+        "Artificial Intelligence",
+        "Computers and the Internet",
+        "Search Engines",
+        "Conversation",
+        "internal-sub-only",
+        "ChatGPT"
+      ],
+      "org_facet": [
+        "Microsoft Corp",
+        "OpenAI Labs"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": " ",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/reader-center/bing-roose-hp/bing-roose-hp-thumbStandard-v3.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/reader-center/bing-roose-hp/bing-roose-hp-mediumThreeByTwo210-v3.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/reader-center/bing-roose-hp/bing-roose-hp-mediumThreeByTwo440-v3.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/41008f54-e126-5918-901e-c3d8efb033b8",
+      "url": "https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html",
+      "id": 100000008772305,
+      "asset_id": 100000008772305,
+      "source": "New York Times",
+      "published_date": "2023-02-16",
+      "updated": "2023-02-23 16:49:00",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "ChatGPT;Computers and the Internet;Artificial Intelligence;Rumors and Misinformation;Software;internal-sub-only;Nadella, Satya;Altman, Samuel H;Microsoft Corp;OpenAI Labs",
+      "column": null,
+      "byline": "By Kevin Roose",
+      "type": "Article",
+      "title": "Bing\u2019s A.I. Chat: \u2018I Want to Be Alive. \ud83d\ude08\u2019",
+      "abstract": "In a two-hour conversation with our columnist, Microsoft\u2019s new chatbot said it would like to be human, had a desire to be destructive and was in love with the person it was chatting with. Here\u2019s the transcript.",
+      "des_facet": [
+        "ChatGPT",
+        "Computers and the Internet",
+        "Artificial Intelligence",
+        "Rumors and Misinformation",
+        "Software",
+        "internal-sub-only"
+      ],
+      "org_facet": [
+        "Microsoft Corp",
+        "OpenAI Labs"
+      ],
+      "per_facet": [
+        "Nadella, Satya",
+        "Altman, Samuel H"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "TK",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/business/16roose-transcript-01/16roose-transcript-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/business/16roose-transcript-01/16roose-transcript-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/business/16roose-transcript-01/16roose-transcript-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/93bd2f3f-2fc1-5697-a0df-b001bb396aa2",
+      "url": "https://www.nytimes.com/2023/02/18/us/politics/jimmy-carter-hospice.html",
+      "id": 100000008777637,
+      "asset_id": 100000008777637,
+      "source": "New York Times",
+      "published_date": "2023-02-18",
+      "updated": "2023-02-19 11:12:43",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Carter, Jimmy",
+      "column": null,
+      "byline": "By Peter Baker",
+      "type": "Article",
+      "title": "Jimmy Carter, 98, Opts for Hospice Care",
+      "abstract": "The 39th president has decided to forgo further medical treatment and will \u201cspend his remaining time at home with his family,\u201d the Carter Center announced.",
+      "des_facet": [
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Carter, Jimmy"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jimmy Carter, seen at home in Plains, Ga., in 2021, has lived longer than any other American president.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/19/multimedia/18dc-jimmy-carter-qpmv/18dc-jimmy-carter-qpmv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/19/multimedia/18dc-jimmy-carter-qpmv/18dc-jimmy-carter-qpmv-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/19/multimedia/18dc-jimmy-carter-qpmv/18dc-jimmy-carter-qpmv-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7b43f73b-5667-5392-a81d-204b96a58392",
+      "url": "https://www.nytimes.com/2023/02/21/us/trump-georgia-grand-jury-indictments.html",
+      "id": 100000008780154,
+      "asset_id": 100000008780154,
+      "source": "New York Times",
+      "published_date": "2023-02-21",
+      "updated": "2023-02-22 10:28:16",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "District Attorneys;Jury System;Voter Fraud (Election Fraud);Rumors and Misinformation;Presidential Election of 2020;Perjury;United States Politics and Government;Willis, Fani T;Trump, Donald J;Georgia;Fulton County (Ga)",
+      "column": null,
+      "byline": "By Danny Hakim",
+      "type": "Article",
+      "title": "Jury in Georgia Trump Inquiry Recommended Multiple Indictments, Forewoman Says",
+      "abstract": "She would not discuss specific indictments in the special grand jury\u2019s report but noted that its recommendations were \u201cnot going to be some giant plot twist.\u201d",
+      "des_facet": [
+        "District Attorneys",
+        "Jury System",
+        "Voter Fraud (Election Fraud)",
+        "Rumors and Misinformation",
+        "Presidential Election of 2020",
+        "Perjury",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Willis, Fani T",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Georgia",
+        "Fulton County (Ga)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An audio recording of former President Donald J. Trump talking to Brad Raffensperger, Georgia\u2019s secretary of state, was played in October during a hearing by the House committee investigating the Jan. 6 attack on the Capitol.",
+          "copyright": "Alex Wong/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21nat-trump-georgia-01-jgph/21nat-trump-georgia-01-jgph-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21nat-trump-georgia-01-jgph/21nat-trump-georgia-01-jgph-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21nat-trump-georgia-01-jgph/21nat-trump-georgia-01-jgph-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fb9f844d-c7e3-559a-8385-dbf95ceaa877",
+      "url": "https://www.nytimes.com/2023/02/20/us/politics/biden-ukraine-visit.html",
+      "id": 100000008777958,
+      "asset_id": 100000008777958,
+      "source": "New York Times",
+      "published_date": "2023-02-20",
+      "updated": "2023-02-21 00:29:57",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;International Relations;Politics and Government;United States International Relations;Russian Invasion of Ukraine (2022);Biden, Joseph R Jr;Putin, Vladimir V;Zelensky, Volodymyr;Ukraine",
+      "column": null,
+      "byline": "By Marc Santora, Peter Baker and Michael D. Shear",
+      "type": "Article",
+      "title": "Biden Visits Embattled Ukraine as Air-Raid Siren Sounds",
+      "abstract": "President Biden took a nearly 10-hour train ride from the border of Poland to show his administration\u2019s \u201cunwavering support\u201d nearly a year into Russia\u2019s invasion.",
+      "des_facet": [
+        "United States Politics and Government",
+        "International Relations",
+        "Politics and Government",
+        "United States International Relations",
+        "Russian Invasion of Ukraine (2022)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Putin, Vladimir V",
+        "Zelensky, Volodymyr"
+      ],
+      "geo_facet": [
+        "Ukraine"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/049204d0-c0f7-529b-8264-3e2ee8e3fcbe",
+      "url": "https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html",
+      "id": 100000008779991,
+      "asset_id": 100000008779991,
+      "source": "New York Times",
+      "published_date": "2023-02-21",
+      "updated": "2023-02-22 12:56:39",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Masks;Research;Respiratory Diseases;Walensky, Rochelle;Cochrane Library;Centers for Disease Control and Prevention",
+      "column": null,
+      "byline": "By Bret Stephens",
+      "type": "Article",
+      "title": "The Mask Mandates Did Nothing. Will Any Lessons Be Learned?",
+      "abstract": "\u201cDo something\u201d is not science, and it shouldn\u2019t have been public policy.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Masks",
+        "Research",
+        "Respiratory Diseases"
+      ],
+      "org_facet": [
+        "Cochrane Library",
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        "Walensky, Rochelle"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Benjamin Lowy",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/opinion/21stephens_1/21stephens_1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/opinion/21stephens_1/21stephens_1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/opinion/21stephens_1/21stephens_1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/01c0e2d3-3265-5915-b4b4-0131d0060d32",
+      "url": "https://www.nytimes.com/2023/02/18/arts/jeff-koons-sculpture-broken-miami.html",
+      "id": 100000008777460,
+      "asset_id": 100000008777460,
+      "source": "New York Times",
+      "published_date": "2023-02-18",
+      "updated": "2023-02-19 13:07:14",
+      "section": "Arts",
+      "subsection": "",
+      "nytdsection": "arts",
+      "adx_keywords": "Art;Sculpture;Accidents and Safety;Koons, Jeff;Miami (Fla)",
+      "column": null,
+      "byline": "By Amanda Holpuch",
+      "type": "Article",
+      "title": "Art Fair Visitor Breaks a Jeff Koons Balloon Dog Sculpture",
+      "abstract": "A woman accidentally knocked over a bright blue dog sculpture at Art Wynwood in Miami, causing the $42,000 artwork to shatter, witnesses said.",
+      "des_facet": [
+        "Art",
+        "Sculpture",
+        "Accidents and Safety"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Koons, Jeff"
+      ],
+      "geo_facet": [
+        "Miami (Fla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Jeff Koons balloon dog sitting intact at Art Wynwood. It would be the last art fair where the sculpture would be displayed in one piece.",
+          "copyright": "Bel-Air Fine Art - Contemporary Art Galleries",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/18/multimedia/18xp-koons-miami/18xp-koons-miami-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/18/multimedia/18xp-koons-miami/18xp-koons-miami-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/18/multimedia/18xp-koons-miami/18xp-koons-miami-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/50e06c2f-f4ce-5eaa-b33f-a520923a68f5",
+      "url": "https://www.nytimes.com/article/murdaugh-murders-alex-paul.html",
+      "id": 100000007979235,
+      "asset_id": 100000007979235,
+      "source": "New York Times",
+      "published_date": "2021-09-19",
+      "updated": "2023-02-24 17:14:31",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Falls;Hit-and-Run Drivers;Drunken and Reckless Driving;Legal Profession;Maritime Accidents and Safety;Embezzlement;Insurance;Suicides and Suicide Attempts;Frauds and Swindling;Health Insurance and Managed Care;Murdaugh, Alex (1968- );Murdaugh, Paul (d 2021);Smith, Curtis Edward (1960- );Charleston (SC);Colleton County (SC);Islandton (SC)",
+      "column": null,
+      "byline": "By Nicholas Bogel-Burroughs",
+      "type": "Article",
+      "title": "The \u2018Murdaugh Murders\u2019: What to Know About the Trial in South Carolina",
+      "abstract": "Alex Murdaugh, once a prominent lawyer, is on trial for murder, charged with killing his wife and son as his finances and legal career fell into ruin.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides",
+        "Falls",
+        "Hit-and-Run Drivers",
+        "Drunken and Reckless Driving",
+        "Legal Profession",
+        "Maritime Accidents and Safety",
+        "Embezzlement",
+        "Insurance",
+        "Suicides and Suicide Attempts",
+        "Frauds and Swindling",
+        "Health Insurance and Managed Care"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Murdaugh, Alex (1968- )",
+        "Murdaugh, Paul (d 2021)",
+        "Smith, Curtis Edward (1960- )"
+      ],
+      "geo_facet": [
+        "Charleston (SC)",
+        "Colleton County (SC)",
+        "Islandton (SC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alex Murdaugh at his bond hearing in September 2021 after surrendering to face insurance fraud and other charges.",
+          "copyright": "Mic Smith/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/18/multimedia/00Murdaugh-explainer/00Murdaugh-explainer-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/18/multimedia/00Murdaugh-explainer/merlin_194856786_38202d98-e2f6-4165-90c0-144afe0001ca-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/18/multimedia/00Murdaugh-explainer/merlin_194856786_38202d98-e2f6-4165-90c0-144afe0001ca-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/eb748417-1754-5a1c-92bb-dca50e62640c",
+      "url": "https://www.nytimes.com/2023/02/22/us/florida-shooting-news.html",
+      "id": 100000008782587,
+      "asset_id": 100000008782587,
+      "source": "New York Times",
+      "published_date": "2023-02-22",
+      "updated": "2023-02-23 18:04:33",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Deaths (Fatalities);Florida;Orange County (Fla);Orlando (Fla)",
+      "column": null,
+      "byline": "By Eduardo Medina, April Rubin and Christine Chung",
+      "type": "Article",
+      "title": "New Details Emerge in Killing of Reporter, Woman and 9-Year-Old",
+      "abstract": "The suspect killed a woman near Orlando on Wednesday morning, then returned later in the day and killed a 9-year-old girl and a journalist who was covering the original shooting, the authorities said.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Florida",
+        "Orange County (Fla)",
+        "Orlando (Fla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement officers at the scene of a shooting in Pine Hills, Fla., on Wednesday.",
+          "copyright": "WFTV",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22xp-floridashooting-4/22xp-floridashooting-4-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22xp-floridashooting-4/22xp-floridashooting-4-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22xp-floridashooting-4/22xp-floridashooting-4-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e69a6c8a-be23-5eba-b4a3-ce3fa3221054",
+      "url": "https://www.nytimes.com/2023/02/17/business/media/cnn-don-lemon-apology.html",
+      "id": 100000008775943,
+      "asset_id": 100000008775943,
+      "source": "New York Times",
+      "published_date": "2023-02-17",
+      "updated": "2023-02-18 15:59:34",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Television;News and News Media;Discrimination;Women and Girls;Ratings (Audience Measurement);Haley, Nikki R;Harlow, Poppy;Lemon, Don;Licht, Christopher A (1971- );CNN",
+      "column": null,
+      "byline": "By Michael M. Grynbaum and John Koblin",
+      "type": "Article",
+      "title": "Uproar Hits CNN as Don Lemon Is Rebuked for Comments About Women",
+      "abstract": "Mr. Lemon\u2019s assertion that the presidential candidate Nikki Haley is not \u201cin her prime\u201d roiled the network and put a harsh spotlight on its struggling morning show.",
+      "des_facet": [
+        "Television",
+        "News and News Media",
+        "Discrimination",
+        "Women and Girls",
+        "Ratings (Audience Measurement)"
+      ],
+      "org_facet": [
+        "CNN"
+      ],
+      "per_facet": [
+        "Haley, Nikki R",
+        "Harlow, Poppy",
+        "Lemon, Don",
+        "Licht, Christopher A (1971- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The comments by Don Lemon, the CNN morning-show anchor, disturbed colleagues.",
+          "copyright": "Mike Coppola/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/business/17CNN-01/17CNN-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/business/17CNN-01/17CNN-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/business/17CNN-01/17CNN-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d2b3480a-b547-5ebc-a0b6-bdab0e4e8cb8",
+      "url": "https://www.nytimes.com/2023/02/23/us/california-weather-snow-blizzard.html",
+      "id": 100000008783103,
+      "asset_id": 100000008783103,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 09:20:17",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Snow and Snowstorms;Weather;Floods;Roads and Traffic;Avalanches;National Weather Service;California;Los Angeles (Calif);Los Angeles County (Calif);Nevada;Portland (Ore);Reno (Nev);San Bernardino (Calif);Wyoming",
+      "column": null,
+      "byline": "By Judson Jones and Remy Tumin",
+      "type": "Article",
+      "title": "Storm Wallops Portland as California Braces for Rare Blizzard",
+      "abstract": "After the West Coast storm battered parts of Oregon, officials warned California residents to prepare for dangerous weather through the weekend.",
+      "des_facet": [
+        "Snow and Snowstorms",
+        "Weather",
+        "Floods",
+        "Roads and Traffic",
+        "Avalanches"
+      ],
+      "org_facet": [
+        "National Weather Service"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "California",
+        "Los Angeles (Calif)",
+        "Los Angeles County (Calif)",
+        "Nevada",
+        "Portland (Ore)",
+        "Reno (Nev)",
+        "San Bernardino (Calif)",
+        "Wyoming"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4f62f22f-c2fb-5a7a-8cc6-84756895c8d8",
+      "url": "https://www.nytimes.com/2023/02/17/us/alex-murdaugh-trial-prosecution.html",
+      "id": 100000008774114,
+      "asset_id": 100000008774114,
+      "source": "New York Times",
+      "published_date": "2023-02-17",
+      "updated": "2023-02-24 11:16:47",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Embezzlement;Pain-Relieving Drugs;Murdaugh, Alex (1968- );Murdaugh, Margaret (d 2021);Murdaugh, Paul (d 2021);Colleton County (SC)",
+      "column": null,
+      "byline": "By Nicholas Bogel-Burroughs",
+      "type": "Article",
+      "title": "\u2018We Have to Talk\u2019: Murdaugh\u2019s Wife Found Pill Stash Before Murders",
+      "abstract": "Prosecutors rested their case after questioning more than 60 witnesses at the murder trial of Alex Murdaugh, a prominent South Carolina lawyer.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides",
+        "Embezzlement",
+        "Pain-Relieving Drugs"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Murdaugh, Alex (1968- )",
+        "Murdaugh, Margaret (d 2021)",
+        "Murdaugh, Paul (d 2021)"
+      ],
+      "geo_facet": [
+        "Colleton County (SC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alex Murdaugh at the Colleton County Courthouse on Friday.",
+          "copyright": "Pool photo by Joshua Boucher",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/us/17nat-murdaugh-top/17nat-murdaugh-top--thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/us/17nat-murdaugh-top/17nat-murdaugh-top--mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/us/17nat-murdaugh-top/17nat-murdaugh-top--mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2aa04144-354d-56c1-a8a0-573a04419bc6",
+      "url": "https://www.nytimes.com/2023/02/21/us/winter-storm-weather-forecast.html",
+      "id": 100000008779510,
+      "asset_id": 100000008779510,
+      "source": "New York Times",
+      "published_date": "2023-02-21",
+      "updated": "2023-02-23 05:43:22",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Snow and Snowstorms;Cold and Cold Spells;Wind;Great Lakes;Northeastern States (US);Midwestern States (US);Rocky Mountains;California",
+      "column": null,
+      "byline": "By Derrick Bryson Taylor and Judson Jones",
+      "type": "Article",
+      "title": "Millions Across U.S. Brace for Coast-to-Coast Winter Storm",
+      "abstract": "The storm is expected to interrupt travel plans across the country and possibly bring down power lines, forecasters said. Heavy winds disrupted California\u2019s electrical grid on Tuesday.",
+      "des_facet": [
+        "Snow and Snowstorms",
+        "Cold and Cold Spells",
+        "Wind"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Great Lakes",
+        "Northeastern States (US)",
+        "Midwestern States (US)",
+        "Rocky Mountains",
+        "California"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A winter storm hitting Minneapolis on Tuesday.",
+          "copyright": "Jeff Wheeler/Star Tribune, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/03/21/multimedia/21xp-storm2-fwlt/21xp-storm2-fwlt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/03/21/multimedia/21xp-storm2-fwlt/21xp-storm2-fwlt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/03/21/multimedia/21xp-storm2-fwlt/21xp-storm2-fwlt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/60007268-9971-5223-a91a-7f4a7d76cc61",
+      "url": "https://www.nytimes.com/2023/02/21/us/alligator-attack-florida.html",
+      "id": 100000008780626,
+      "asset_id": 100000008780626,
+      "source": "New York Times",
+      "published_date": "2023-02-21",
+      "updated": "2023-02-22 12:26:50",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Alligators;Deaths (Fatalities);internal-sub-only;Fort Pierce (Fla)",
+      "column": null,
+      "byline": "By Michael Levenson",
+      "type": "Article",
+      "title": "Alligator Kills 85-Year-Old Florida Woman as She Walks Her Dog",
+      "abstract": "Serious injuries caused by alligators are rare in Florida, state wildlife officials said, although this was at least the third fatal encounter in the past year.",
+      "des_facet": [
+        "Alligators",
+        "Deaths (Fatalities)",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Fort Pierce (Fla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement officers and Florida Fish and Wildlife investigators responded to the deadly alligator attack in Fort Pierce, Fla., on Monday.",
+          "copyright": "St. Lucie County Sheriff's Office, via Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21xp-floridagator-SUB-zwmv/21xp-floridagator-SUB-zwmv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21xp-floridagator-SUB-zwmv/21xp-floridagator-SUB-zwmv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21xp-floridagator-SUB-zwmv/21xp-floridagator-SUB-zwmv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9c818a3f-0542-5d12-a1e0-a6019a2e171a",
+      "url": "https://www.nytimes.com/2023/02/10/realestate/couples-separate-bedrooms.html",
+      "id": 100000008723148,
+      "asset_id": 100000008723148,
+      "source": "New York Times",
+      "published_date": "2023-02-10",
+      "updated": "2023-02-11 09:24:53",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Marriages;Dating and Relationships;Sleep;Love (Emotion);Snoring;internal-sub-only;United States",
+      "column": null,
+      "byline": "By Ronda Kaysen",
+      "type": "Article",
+      "title": "I Love You, but I Don\u2019t Want to Sleep With You",
+      "abstract": "Snoring and conflicting schedules are top reasons couples decide to sleep in separate bedrooms. Sex therapists and marriage counselors have their doubts about the arrangement.",
+      "des_facet": [
+        "Marriages",
+        "Dating and Relationships",
+        "Sleep",
+        "Love (Emotion)",
+        "Snoring",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cara and Rich Newhart began sleeping apart at the beginning of the pandemic and stuck with the arrangement when they bought a new house in New Jersey.",
+          "copyright": "Tony Cenicola/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/12/multimedia/10separatebeds-cover-gzpm/10separatebeds-cover-gzpm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/12/multimedia/10separatebeds-cover-gzpm/10separatebeds-cover-gzpm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/12/multimedia/10separatebeds-cover-gzpm/10separatebeds-cover-gzpm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bd9a56ed-b14e-52db-a48c-6695bc095fb4",
+      "url": "https://www.nytimes.com/2023/02/16/business/media/fox-dominion-lawsuit.html",
+      "id": 100000008774247,
+      "asset_id": 100000008774247,
+      "source": "New York Times",
+      "published_date": "2023-02-16",
+      "updated": "2023-02-22 18:38:46",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Libel and Slander;Voter Fraud (Election Fraud);Suits and Litigation (Civil);News and News Media;Cable Television;Presidential Election of 2020;Hannity, Sean;Trump, Donald J;Murdoch, Rupert;Carlson, Tucker;Ingraham, Laura A;Giuliani, Rudolph W;Powell, Sidney (Attorney);Scott, Suzanne;Fox News Channel;Dominion Voting Systems Corp",
+      "column": null,
+      "byline": "By Jeremy W. Peters and Katie Robertson",
+      "type": "Article",
+      "title": "Fox Stars Privately Expressed Disbelief About Election Fraud Claims. \u2018Crazy Stuff.\u2019",
+      "abstract": "The comments, by Tucker Carlson, Sean Hannity and others, were released as part of a defamation suit against Fox News by Dominion Voter Systems.",
+      "des_facet": [
+        "Libel and Slander",
+        "Voter Fraud (Election Fraud)",
+        "Suits and Litigation (Civil)",
+        "News and News Media",
+        "Cable Television",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Fox News Channel",
+        "Dominion Voting Systems Corp"
+      ],
+      "per_facet": [
+        "Hannity, Sean",
+        "Trump, Donald J",
+        "Murdoch, Rupert",
+        "Carlson, Tucker",
+        "Ingraham, Laura A",
+        "Giuliani, Rudolph W",
+        "Powell, Sidney (Attorney)",
+        "Scott, Suzanne"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After Fox\u2019s ratings fell sharply after the election, many of its hosts and shows began promoting claims of a voter-fraud conspiracy involving Dominion machines.",
+          "copyright": "Drew Angerer/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/03/16/business/16dominion-02/16dominion-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/03/16/business/16dominion-02/16dominion-02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/03/16/business/16dominion-02/16dominion-02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a340489d-70e7-5794-ac60-aeb1f6651fbd",
+      "url": "https://www.nytimes.com/2023/02/20/world/asia/china-russia-us-arms.html",
+      "id": 100000008778446,
+      "asset_id": 100000008778446,
+      "source": "New York Times",
+      "published_date": "2023-02-20",
+      "updated": "2023-02-21 15:45:09",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);International Relations;United States International Relations;Wang Yi;China;Russia;Ukraine;United States",
+      "column": null,
+      "byline": "By Chris Buckley",
+      "type": "Article",
+      "title": "China Says U.S. Is \u2018Not Qualified\u2019 to Issue Orders on Arms",
+      "abstract": "Beijing is trying to preserve ties with Moscow while asserting it is a neutral observer trying only to coax Russia and Ukraine into peace talks.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "International Relations",
+        "United States International Relations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Wang Yi"
+      ],
+      "geo_facet": [
+        "China",
+        "Russia",
+        "Ukraine",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tanks congregating on the road in a village near the frontline in Eastern Ukraine this month.",
+          "copyright": "Lynsey Addario for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20ukraine-briefing-china-reaction-01-fwqk/20ukraine-briefing-china-reaction-01-fwqk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20ukraine-briefing-china-reaction-01-fwqk/20ukraine-briefing-china-reaction-01-fwqk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20ukraine-briefing-china-reaction-01-fwqk/20ukraine-briefing-china-reaction-01-fwqk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fdcf5475-bc77-52d5-ab1d-7ce17b91de4c",
+      "url": "https://www.nytimes.com/2023/02/19/us/bruces-beach-sold-reparations.html",
+      "id": 100000008725449,
+      "asset_id": 100000008725449,
+      "source": "New York Times",
+      "published_date": "2023-02-19",
+      "updated": "2023-02-20 12:05:42",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Black People;Discrimination;Reparations;Eminent Domain;Land Use Policies;internal-sub-only;Bruce, Charles;Bruce, Willa;Bruce's Beach (Manhattan Beach, Calif);Los Angeles County (Calif);Manhattan Beach (Calif)",
+      "column": null,
+      "byline": "By Clyde McGrady",
+      "type": "Article",
+      "title": "Bruce\u2019s Beach Was Hailed as a Reparations Model. Then the Family Sold It.",
+      "abstract": "The Bruce family won the return of oceanfront land near Los Angeles seized nearly a century ago. Their decision to sell for $20 million set off a different debate about reparations.",
+      "des_facet": [
+        "Black People",
+        "Discrimination",
+        "Reparations",
+        "Eminent Domain",
+        "Land Use Policies",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bruce, Charles",
+        "Bruce, Willa"
+      ],
+      "geo_facet": [
+        "Bruce's Beach (Manhattan Beach, Calif)",
+        "Los Angeles County (Calif)",
+        "Manhattan Beach (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Duane Shepard, a relative of the Bruce family, stands on a corner of Bruce\u2019s Beach, overlooking the Pacific Ocean. The land was returned to the Bruce family nearly a century after it was seized by local officials.",
+          "copyright": "Gabriella Angotti-Jones for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/09/multimedia/00nat-bruce-top-wbjq/00nat-bruce-top-wbjq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/09/multimedia/00nat-bruce-top-wbjq/00nat-bruce-top-wbjq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/09/multimedia/00nat-bruce-top-wbjq/00nat-bruce-top-wbjq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b503979a-689b-5220-9db7-d6069f54bd2b",
+      "url": "https://www.nytimes.com/2023/02/16/opinion/jk-rowling-transphobia.html",
+      "id": 100000008771505,
+      "asset_id": 100000008771505,
+      "source": "New York Times",
+      "published_date": "2023-02-16",
+      "updated": "2023-02-17 06:37:12",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Writing and Writers;Transgender;Threats and Threatening Messages;Podcasts;Discrimination;Rowling, J K;Phelps-Roper, Megan",
+      "column": null,
+      "byline": "By Pamela Paul",
+      "type": "Article",
+      "title": "In Defense of J.K. Rowling",
+      "abstract": "The charge that she\u2019s a transphobe doesn\u2019t square with her actual views.",
+      "des_facet": [
+        "Writing and Writers",
+        "Transgender",
+        "Threats and Threatening Messages",
+        "Podcasts",
+        "Discrimination"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Rowling, J K",
+        "Phelps-Roper, Megan"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Carlo Allegri/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/opinion/16PAUL_4/16PAUL_4-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/opinion/16PAUL_4/16PAUL_4-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/opinion/16PAUL_4/16PAUL_4-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/31c115a2-0b3e-5adf-9371-66183952092c",
+      "url": "https://www.nytimes.com/2023/02/20/business/bridgewater-ray-dalio-retire.html",
+      "id": 100000008738216,
+      "asset_id": 100000008738216,
+      "source": "New York Times",
+      "published_date": "2023-02-20",
+      "updated": "2023-02-21 15:15:19",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Hedge Funds;High Net Worth Individuals;Appointments and Executive Changes;Content Type: Personal Profile;internal-regi-only;Dalio, Raymond (1949- );Bar Dea, Nir;Bertolini, Mark T;Bridgewater Associates",
+      "column": null,
+      "byline": "By Rob Copeland and Maureen Farrell",
+      "type": "Article",
+      "title": "Hedge Fund Billionaire Extracts Billions More to Retire",
+      "abstract": "Bridgewater\u2019s founder, Ray Dalio, retired last year after months of negotiations that guaranteed him a gigantic exit package.",
+      "des_facet": [
+        "Hedge Funds",
+        "High Net Worth Individuals",
+        "Appointments and Executive Changes",
+        "Content Type: Personal Profile",
+        "internal-regi-only"
+      ],
+      "org_facet": [
+        "Bridgewater Associates"
+      ],
+      "per_facet": [
+        "Dalio, Raymond (1949- )",
+        "Bar Dea, Nir",
+        "Bertolini, Mark T"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ray Dalio founded Bridgewater more than four decades ago. The hedge fund manages money for pensions, sovereign wealth funds and other big investors.",
+          "copyright": "Tamir Kalifa for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/multimedia/00dalio-qvwb/00dalio-qvwb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/multimedia/00dalio-qvwb/00dalio-qvwb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/multimedia/00dalio-qvwb/00dalio-qvwb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

@@ -1,0 +1,1137 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/87179bf0-9152-587a-b0f7-5b4e517db6e2",
+      "url": "https://www.nytimes.com/2023/02/08/well/move/core-strength-exercises-workouts.html",
+      "id": 100000008694350,
+      "asset_id": 100000008694350,
+      "source": "New York Times",
+      "published_date": "2023-02-08",
+      "updated": "2023-02-08 08:56:05",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Exercise;Muscles",
+      "column": null,
+      "byline": "By Jenny Marder",
+      "type": "Article",
+      "title": "For a Stable, Strong Core, Forget About\u00a0Crunches",
+      "abstract": "If the goal of your workout is to walk away with a chiseled six-pack, you\u2019re missing the point.",
+      "des_facet": [
+        "Exercise",
+        "Muscles"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d9b69454-ea8e-5f22-9a46-def71dee79a8",
+      "url": "https://www.nytimes.com/2023/02/13/t-magazine/paris-best-restaurants-food.html",
+      "id": 100000008729222,
+      "asset_id": 100000008729222,
+      "source": "New York Times",
+      "published_date": "2023-02-13",
+      "updated": "2023-02-19 12:18:03",
+      "section": "T Magazine",
+      "subsection": "",
+      "nytdsection": "t magazine",
+      "adx_keywords": "internal-sub-only;French Food (Cuisine);Chefs;Restaurants;Travel and Vacations;Content Type: Service;Paris (France);France",
+      "column": null,
+      "byline": "By Kurt Soller, Sara Lieberman, Katherine McGrath, Zoey Poll, Lindsey Tramuta and Thibault Montamat",
+      "type": "Article",
+      "title": "The 25 Essential Dishes to Eat in Paris",
+      "abstract": "We asked five chefs and culinary experts to determine the most delicious and memorable plates in the food-obsessed French capital. Here are the results.",
+      "des_facet": [
+        "internal-sub-only",
+        "French Food (Cuisine)",
+        "Chefs",
+        "Restaurants",
+        "Travel and Vacations",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Paris (France)",
+        "France"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Thibault Montamat",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/13/t-magazine/13tmag-parispromo/13tmag-parispromo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/13/t-magazine/13tmag-parispromo/13tmag-parispromo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/13/t-magazine/13tmag-parispromo/13tmag-parispromo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/246fe9bf-07b6-5bfd-a35b-439d5a85da39",
+      "url": "https://www.nytimes.com/article/expiration-dates.html",
+      "id": 100000007075927,
+      "asset_id": 100000007075927,
+      "source": "New York Times",
+      "published_date": "2020-04-13",
+      "updated": "2023-02-15 10:39:19",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Cooking and Cookbooks;Content Type: Service;Food;Quarantine (Life and Culture);Food Contamination and Poisoning;internal-sub-only",
+      "column": null,
+      "byline": "By J. Kenji L\u00f3pez-Alt",
+      "type": "Article",
+      "title": "The Food Expiration Dates You Should Actually Follow",
+      "abstract": "The first thing you should know? The dates, as we know them, have nothing to do with safety. J. Kenji L\u00f3pez-Alt explains.",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service",
+        "Food",
+        "Quarantine (Life and Culture)",
+        "Food Contamination and Poisoning",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jonathan Carlson",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/04/15/dining/15Kenji-Cover-Illustration/15Kenji-Cover-Illustration-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/04/15/dining/15Kenji-Cover-Illustration/15Kenji-Cover-Illustration-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/04/15/dining/15Kenji-Cover-Illustration/15Kenji-Cover-Illustration-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/68c6c4bf-38a2-5291-8b5a-d5265dc4401f",
+      "url": "https://www.nytimes.com/2023/02/01/magazine/menopause-hot-flashes-hormone-therapy.html",
+      "id": 100000008744344,
+      "asset_id": 100000008744344,
+      "source": "New York Times",
+      "published_date": "2023-02-01",
+      "updated": "2023-02-15 20:21:10",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "Menopause;Research;Hormones;Women and Girls;Drugs (Pharmaceuticals);Gynecology and Gynecologists;Women's Health Initiative;internal-sub-only",
+      "column": null,
+      "byline": "By Susan Dominus",
+      "type": "Article",
+      "title": "Women Have Been Misled About Menopause",
+      "abstract": "Hot flashes, sleeplessness, pain during sex: For some of menopause\u2019s worst symptoms, there\u2019s an established treatment. Why aren\u2019t more women offered it?",
+      "des_facet": [
+        "Menopause",
+        "Research",
+        "Hormones",
+        "Women and Girls",
+        "Drugs (Pharmaceuticals)",
+        "Gynecology and Gynecologists",
+        "Women's Health Initiative",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Marta Blue for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/05/magazine/05mag-menopause/05mag-menopause-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/05/magazine/05mag-menopause/05mag-menopause-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/05/magazine/05mag-menopause/05mag-menopause-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d935d842-afbb-50da-8acf-a032d14831ce",
+      "url": "https://www.nytimes.com/2023/02/09/opinion/despair-friendship-suicide.html",
+      "id": 100000008725777,
+      "asset_id": 100000008725777,
+      "source": "New York Times",
+      "published_date": "2023-02-09",
+      "updated": "2023-02-11 16:41:30",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Friendship;Grief (Emotion);Depression (Mental);Suicides and Suicide Attempts;Content Type: Personal Profile",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "How Do You Serve a Friend in Despair?",
+      "abstract": "I learned hard lessons when my oldest friend, Pete, plunged into depression.",
+      "des_facet": [
+        "Friendship",
+        "Grief (Emotion)",
+        "Depression (Mental)",
+        "Suicides and Suicide Attempts",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At camp, David Brooks gave Peter Marks a lift.",
+          "copyright": "Photo illustration by Thomas Sauvin; photograph via the Marks family",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/opinion/09Brooks-Cover/09Brooks-Cover-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/opinion/09Brooks-Cover/09Brooks-Cover-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/opinion/09Brooks-Cover/09Brooks-Cover-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4a14eedf-eec6-5720-8c12-1fe365de7715",
+      "url": "https://www.nytimes.com/2023/02/17/well/move/pelvic-floor-exercise-kegels.html",
+      "id": 100000008594278,
+      "asset_id": 100000008594278,
+      "source": "New York Times",
+      "published_date": "2023-02-17",
+      "updated": "2023-02-22 09:52:01",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Content Type: Service;Muscles;Exercise;Pregnancy and Childbirth;Pelvis;Hips;Women and Girls",
+      "column": null,
+      "byline": "By Danielle Friedman",
+      "type": "Article",
+      "title": "Every Woman Can Benefit From This Pelvic Floor Workout",
+      "abstract": "It\u2019s time to show these overlooked muscles more love.",
+      "des_facet": [
+        "Content Type: Service",
+        "Muscles",
+        "Exercise",
+        "Pregnancy and Childbirth",
+        "Pelvis",
+        "Hips",
+        "Women and Girls"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gritchelle Fallesgon for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26WNT-PELVIC-FLOOR-EXERCISES1-czbk/26WNT-PELVIC-FLOOR-EXERCISES1-czbk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26WNT-PELVIC-FLOOR-EXERCISES1-czbk/26WNT-PELVIC-FLOOR-EXERCISES1-czbk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26WNT-PELVIC-FLOOR-EXERCISES1-czbk/26WNT-PELVIC-FLOOR-EXERCISES1-czbk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dcfd6326-f015-5837-b84b-1f6ef1dbeaf6",
+      "url": "https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html",
+      "id": 100000008772688,
+      "asset_id": 100000008772688,
+      "source": "New York Times",
+      "published_date": "2023-02-16",
+      "updated": "2023-02-23 16:48:43",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Artificial Intelligence;Computers and the Internet;Search Engines;Conversation;internal-sub-only;ChatGPT;Microsoft Corp;OpenAI Labs",
+      "column": null,
+      "byline": "By Kevin Roose",
+      "type": "Article",
+      "title": "A Conversation With Bing\u2019s Chatbot Left Me Deeply Unsettled",
+      "abstract": "A very strange conversation with the chatbot built into Microsoft\u2019s search engine led to it declaring its love for me.",
+      "des_facet": [
+        "Artificial Intelligence",
+        "Computers and the Internet",
+        "Search Engines",
+        "Conversation",
+        "internal-sub-only",
+        "ChatGPT"
+      ],
+      "org_facet": [
+        "Microsoft Corp",
+        "OpenAI Labs"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": " ",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/reader-center/bing-roose-hp/bing-roose-hp-thumbStandard-v3.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/reader-center/bing-roose-hp/bing-roose-hp-mediumThreeByTwo210-v3.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/reader-center/bing-roose-hp/bing-roose-hp-mediumThreeByTwo440-v3.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/68c3e3ea-673a-58f8-a8c7-cc6b9c12e434",
+      "url": "https://www.nytimes.com/article/best-soup-recipes.html",
+      "id": 100000008713287,
+      "asset_id": 100000008713287,
+      "source": "New York Times",
+      "published_date": "2023-01-23",
+      "updated": "2023-01-25 16:39:46",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Soups;Recipes;internal-sub-only",
+      "column": null,
+      "byline": "By Krysten Chambrot",
+      "type": "Article",
+      "title": "Soup\u2019s On",
+      "abstract": "Everyone knows it\u2019s the best food. These 24 recipes prove it.",
+      "des_facet": [
+        "Soups",
+        "Recipes",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Armando Rafael for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/01/28/multimedia/28Soups-Beef-Barley-zbhq/28Soups-Beef-Barley-zbhq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/28/multimedia/28Soups-Beef-Barley-zbhq/28Soups-Beef-Barley-zbhq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/28/multimedia/28Soups-Beef-Barley-zbhq/28Soups-Beef-Barley-zbhq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a6a9dbf9-f5df-5037-ab47-c6aa6d6487b2",
+      "url": "https://www.nytimes.com/2023/02/14/books/review/library-public-local.html",
+      "id": 100000008733440,
+      "asset_id": 100000008733440,
+      "source": "New York Times",
+      "published_date": "2023-02-14",
+      "updated": "2023-02-18 22:54:57",
+      "section": "Books",
+      "subsection": "Book Review",
+      "nytdsection": "books",
+      "adx_keywords": "Libraries and Librarians;Books and Literature;American Library Assn",
+      "column": null,
+      "byline": "By Elisabeth Egan and Erica Ackerberg",
+      "type": "Article",
+      "title": "A Love Letter to Libraries, Long Overdue",
+      "abstract": "The New York Times sent photographers to seven states to document the thrum and buzz in buildings once known for silence.",
+      "des_facet": [
+        "Libraries and Librarians",
+        "Books and Literature"
+      ],
+      "org_facet": [
+        "American Library Assn"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Siblings explored the children\u2019s room at the Bemidji Public Library in Bemidji, Minn.",
+          "copyright": "Jaida Grey Eagle for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19libraries-print7-gtjv/19libraries-print7-gtjv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19libraries-print7-gtjv/19libraries-print7-gtjv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19libraries-print7-gtjv/19libraries-print7-gtjv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9cab2b51-fca5-59be-9d1c-d39fa7390cdd",
+      "url": "https://www.nytimes.com/2015/01/09/style/no-37-big-wedding-or-small.html",
+      "id": 100000003439827,
+      "asset_id": 100000003439827,
+      "source": "New York Times",
+      "published_date": "2015-01-09",
+      "updated": "2023-02-10 11:35:00",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Love (Emotion);Dating and Relationships;Psychology and Psychologists;internal-sub-only;Aron, Arthur (1945- )",
+      "column": null,
+      "byline": "By Daniel Jones",
+      "type": "Article",
+      "title": "The 36 Questions That Lead to Love",
+      "abstract": "A series of personal questions used by the psychologist Arthur Aron to explore the idea of fostering closeness through mutual vulnerability.",
+      "des_facet": [
+        "Love (Emotion)",
+        "Dating and Relationships",
+        "Psychology and Psychologists",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Aron, Arthur (1945- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2015/01/11/fashion/11LOVE-tight/11LOVE-tight-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2015/01/11/fashion/11LOVE-tight/11LOVE-tight-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2015/01/11/fashion/11LOVE-tight/11LOVE-tight-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0b4b123b-ff4d-565f-bc04-0bc94f114b6f",
+      "url": "https://www.nytimes.com/2023/01/19/well/live/aging-tips-margareta-magnusson.html",
+      "id": 100000008734867,
+      "asset_id": 100000008734867,
+      "source": "New York Times",
+      "published_date": "2023-01-19",
+      "updated": "2023-01-23 13:30:40",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Elderly;Age, Chronological;Content Type: Service;Longevity;Memory;internal-sub-only-nl",
+      "column": null,
+      "byline": "By Jancee Dunn",
+      "type": "Article",
+      "title": "3 Steps to Age Exuberantly",
+      "abstract": "An 86-year-old author has a few rules to live by even when the trials of getting older make it easy to complain.",
+      "des_facet": [
+        "Elderly",
+        "Age, Chronological",
+        "Content Type: Service",
+        "Longevity",
+        "Memory",
+        "internal-sub-only-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Delcan & Co.",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/01/25/well/19Well-NL-Exuberance/19Well-NL-Exuberance-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/25/well/19Well-NL-Exuberance/19Well-NL-Exuberance-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/25/well/19Well-NL-Exuberance/19Well-NL-Exuberance-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1e816e2f-4325-596c-92d2-321de8cb47cf",
+      "url": "https://www.nytimes.com/2023/02/01/well/mind/stop-rumination-worry.html",
+      "id": 100000008694057,
+      "asset_id": 100000008694057,
+      "source": "New York Times",
+      "published_date": "2023-02-01",
+      "updated": "2023-02-07 13:59:59",
+      "section": "Well",
+      "subsection": "Mind",
+      "nytdsection": "well",
+      "adx_keywords": "Anxiety and Stress;Mental Health and Disorders;Content Type: Service",
+      "column": null,
+      "byline": "By Hannah Seo",
+      "type": "Article",
+      "title": "How to Stop Ruminating",
+      "abstract": "Stuck in a mental loop of worries and problems that seem to have no end? Here\u2019s what you can do.",
+      "des_facet": [
+        "Anxiety and Stress",
+        "Mental Health and Disorders",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5c27d6e3-1935-5d74-a0e6-0f85cdc33646",
+      "url": "https://www.nytimes.com/2023/02/05/opinion/doctors-universal-health-care.html",
+      "id": 100000008748842,
+      "asset_id": 100000008748842,
+      "source": "New York Times",
+      "published_date": "2023-02-05",
+      "updated": "2023-02-08 00:40:14",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Medicine and Health;Hospitals;Coronavirus (2019-nCoV);Doctors",
+      "column": null,
+      "byline": "By Eric Reinhart",
+      "type": "Article",
+      "title": "Doctors Aren\u2019t Burned Out From Overwork. We\u2019re Demoralized by Our Health System.",
+      "abstract": "The end of medical ideology.",
+      "des_facet": [
+        "Medicine and Health",
+        "Hospitals",
+        "Coronavirus (2019-nCoV)",
+        "Doctors"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Moment, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/05/opinion/05Reinhart/05Reinhart-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/05/opinion/05Reinhart/05Reinhart-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/05/opinion/05Reinhart/05Reinhart-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c1eb2e7c-1d76-5a6c-9a61-0c5cbc503039",
+      "url": "https://www.nytimes.com/2023/02/17/science/leonard-da-vinci-gravity.html",
+      "id": 100000008775909,
+      "asset_id": 100000008775909,
+      "source": "New York Times",
+      "published_date": "2023-02-17",
+      "updated": "2023-02-21 00:10:19",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Gravitation and Gravity;Manuscripts;Physics;Research;your-feed-science;da Vinci, Leonardo;Leonardo (Journal)",
+      "column": null,
+      "byline": "By William J. Broad",
+      "type": "Article",
+      "title": "A Doodle Reveals da Vinci\u2019s Early Deconstruction of Gravity",
+      "abstract": "Long before Galileo and Newton used superior mathematics to study a fundamental natural force, Leonardo calculated the gravitational constant with surprising accuracy.",
+      "des_facet": [
+        "Gravitation and Gravity",
+        "Manuscripts",
+        "Physics",
+        "Research",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Leonardo (Journal)"
+      ],
+      "per_facet": [
+        "da Vinci, Leonardo"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The British Library",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/science/00sci-gravity/00sci-gravity-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/science/00sci-gravity/00sci-gravity-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/science/00sci-gravity/00sci-gravity-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6247c280-dcbb-5a2b-8b84-703ef52a4480",
+      "url": "https://www.nytimes.com/2023/01/27/opinion/sunday/knitting-fabric-michelle-obama.html",
+      "id": 100000008740623,
+      "asset_id": 100000008740623,
+      "source": "New York Times",
+      "published_date": "2023-01-27",
+      "updated": "2023-01-30 00:17:35",
+      "section": "Opinion",
+      "subsection": "Sunday Opinion",
+      "nytdsection": "opinion",
+      "adx_keywords": "Knitting and Knit Goods;Women's Rights",
+      "column": null,
+      "byline": "By Peggy Orenstein",
+      "type": "Article",
+      "title": "The Revolutionary Power of a Skein of Yarn",
+      "abstract": "Knitting has its own practical magic.",
+      "des_facet": [
+        "Knitting and Knit Goods",
+        "Women's Rights"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chelsea Cardinal",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/01/30/opinion/27orenstein/27orenstein-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/30/opinion/27orenstein/27orenstein-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/30/opinion/27orenstein/27orenstein-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e1206aae-6050-5913-b1a3-7717ae636fa2",
+      "url": "https://www.nytimes.com/2023/02/08/science/giant-penguin-fossil.html",
+      "id": 100000008760997,
+      "asset_id": 100000008760997,
+      "source": "New York Times",
+      "published_date": "2023-02-08",
+      "updated": "2023-02-14 01:02:48",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Penguins;Fossils;Endangered and Extinct Species;Paleontology;Research;your-feed-science;your-feed-animals;Journal of Paleontology;New Zealand",
+      "column": null,
+      "byline": "By Jack Tamisiea",
+      "type": "Article",
+      "title": "The Biggest Penguin That Ever Existed Was a \u2018Monster Bird\u2019",
+      "abstract": "Fossils found in New Zealand highlight an era after the dinosaurs when giant flightless birds prowled the seas for prey.",
+      "des_facet": [
+        "Penguins",
+        "Fossils",
+        "Endangered and Extinct Species",
+        "Paleontology",
+        "Research",
+        "your-feed-science",
+        "your-feed-animals"
+      ],
+      "org_facet": [
+        "Journal of Paleontology"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New Zealand"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An artist\u2019s concept of Kumimanu and Petradyptes penguins on an ancient New Zealand beach. The larger of the two weighed almost 350 pounds and is the heaviest penguin known to science.",
+          "copyright": "Simone Giovanardi",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/14/multimedia/08tb-penguinzilla-01-bklc/08tb-penguinzilla-01-bklc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/14/multimedia/08tb-penguinzilla-01-bklc/08tb-penguinzilla-01-bklc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/14/multimedia/08tb-penguinzilla-01-bklc/08tb-penguinzilla-01-bklc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/cca71326-b360-5ad3-bf9e-6a930648d414",
+      "url": "https://www.nytimes.com/2023/02/03/us/maine-population-housing.html",
+      "id": 100000008733075,
+      "asset_id": 100000008733075,
+      "source": "New York Times",
+      "published_date": "2023-02-03",
+      "updated": "2023-02-17 16:55:07",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Population;Real Estate and Housing (Residential);Shortages;Affordable Housing;Rural Areas;Coronavirus (2019-nCoV);Mills, Janet T (1947- );Searsport (Me);Maine;New Hampshire;Vermont",
+      "column": null,
+      "byline": "By Jenna Russell",
+      "type": "Article",
+      "title": "In Maine, a Rare Influx of New Residents, and a Housing Crunch",
+      "abstract": "New arrivals over the last few years have fueled hopes of population growth, but workers increasingly struggle to find housing in a market gone wild.",
+      "des_facet": [
+        "Population",
+        "Real Estate and Housing (Residential)",
+        "Shortages",
+        "Affordable Housing",
+        "Rural Areas",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Mills, Janet T (1947- )"
+      ],
+      "geo_facet": [
+        "Searsport (Me)",
+        "Maine",
+        "New Hampshire",
+        "Vermont"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Searsport, Maine, a town of 2,600 about two hours north of Portland, is one of the communities in the state dealing with a surge in interest in housing. ",
+          "copyright": "Tristan Spinski for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/us/23-nat-maine-housing/23-nat-maine-housing-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/us/23-nat-maine-housing/23-nat-maine-housing-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/us/23-nat-maine-housing/23-nat-maine-housing-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3c44ae14-a5b8-5a25-87e1-1a776a68e552",
+      "url": "https://www.nytimes.com/2023/01/30/well/move/fitness-loss-exercise.html",
+      "id": 100000008725438,
+      "asset_id": 100000008725438,
+      "source": "New York Times",
+      "published_date": "2023-01-30",
+      "updated": "2023-02-07 11:08:50",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Exercise;Muscles;Heart;Content Type: Service",
+      "column": null,
+      "byline": "By Knvul Sheikh",
+      "type": "Article",
+      "title": "How Long Does It Take to Get Fit Again?",
+      "abstract": "We all stray from exercise sometimes. Here\u2019s how your body will bounce back.",
+      "des_facet": [
+        "Exercise",
+        "Muscles",
+        "Heart",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Melissa Schriek for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/01/20/multimedia/20WELL-GAIN-LOSING-FITNESS1-hjkp/20WELL-GAIN-LOSING-FITNESS1-hjkp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/20/multimedia/20WELL-GAIN-LOSING-FITNESS1-hjkp/20WELL-GAIN-LOSING-FITNESS1-hjkp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/20/multimedia/20WELL-GAIN-LOSING-FITNESS1-hjkp/20WELL-GAIN-LOSING-FITNESS1-hjkp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/66f260bd-65e6-5aa2-9de8-d7867b02faab",
+      "url": "https://www.nytimes.com/article/best-movies-netflix.html",
+      "id": 100000007303313,
+      "asset_id": 100000007303313,
+      "source": "New York Times",
+      "published_date": "2020-09-10",
+      "updated": "2023-02-14 11:12:25",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Netflix Inc",
+      "column": null,
+      "byline": "By Jason Bailey",
+      "type": "Article",
+      "title": "The 50 Best Movies on Netflix Right Now",
+      "abstract": "Movies upon movies await, and you don't even have to drill down to find them.",
+      "des_facet": [
+        "Movies"
+      ],
+      "org_facet": [
+        "Netflix Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daniel Craig and Janelle Mon\u00e1e in \u201cGlass Onion: A Knives Out Mystery.\u201d",
+          "copyright": "John Wilson/Netflix, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/01/03/multimedia/10new-best-netflix-glass-onion-1-ccb6/10new-best-netflix-glass-onion-1-ccb6-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/03/multimedia/10new-best-netflix-glass-onion-1-ccb6/10new-best-netflix-glass-onion-1-ccb6-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/03/multimedia/10new-best-netflix-glass-onion-1-ccb6/10new-best-netflix-glass-onion-1-ccb6-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/41008f54-e126-5918-901e-c3d8efb033b8",
+      "url": "https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html",
+      "id": 100000008772305,
+      "asset_id": 100000008772305,
+      "source": "New York Times",
+      "published_date": "2023-02-16",
+      "updated": "2023-02-23 16:49:00",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "ChatGPT;Computers and the Internet;Artificial Intelligence;Rumors and Misinformation;Software;internal-sub-only;Nadella, Satya;Altman, Samuel H;Microsoft Corp;OpenAI Labs",
+      "column": null,
+      "byline": "By Kevin Roose",
+      "type": "Article",
+      "title": "Bing\u2019s A.I. Chat: \u2018I Want to Be Alive. \ud83d\ude08\u2019",
+      "abstract": "In a two-hour conversation with our columnist, Microsoft\u2019s new chatbot said it would like to be human, had a desire to be destructive and was in love with the person it was chatting with. Here\u2019s the transcript.",
+      "des_facet": [
+        "ChatGPT",
+        "Computers and the Internet",
+        "Artificial Intelligence",
+        "Rumors and Misinformation",
+        "Software",
+        "internal-sub-only"
+      ],
+      "org_facet": [
+        "Microsoft Corp",
+        "OpenAI Labs"
+      ],
+      "per_facet": [
+        "Nadella, Satya",
+        "Altman, Samuel H"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "TK",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/business/16roose-transcript-01/16roose-transcript-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/business/16roose-transcript-01/16roose-transcript-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/business/16roose-transcript-01/16roose-transcript-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

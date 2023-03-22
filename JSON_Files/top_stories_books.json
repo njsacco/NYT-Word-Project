@@ -1,0 +1,2024 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+  "section": "Books",
+  "last_updated": "2023-02-25T06:44:06-05:00",
+  "num_results": 34,
+  "results": [
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Unlikely Rebels With a Very Good Cause",
+      "abstract": "Kate Zernike\u2019s \u201cThe Exceptions\u201d tells the infuriating, inspiring story of the sexism faced by female scientists at M.I.T. \u2014 and how they fought back.",
+      "url": "https://www.nytimes.com/2023/02/25/books/review/the-exceptions-kate-zernike.html",
+      "uri": "nyt://article/cb589fc1-7d7e-5d6c-aaae-25c08c76e4f1",
+      "byline": "By Bonnie Garmus",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T06:42:48-05:00",
+      "created_date": "2023-02-25T05:00:15-05:00",
+      "published_date": "2023-02-25T05:00:15-05:00",
+      "material_type_facet": "",
+      "kicker": "nonfiction",
+      "des_facet": [
+        "Discrimination",
+        "Books and Literature",
+        "Affirmative Action",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Zernike, Kate"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/28/books/review/28ZERNIKE-REVIEW/28ZERNIKE-REVIEW-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 484,
+          "width": 726,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nancy Hopkins, the unlikely rebel at the head of a movement for women\u2019s equality, at M.I.T.\u2019s Center for Cancer Research, 1973.",
+          "copyright": "MIT Museum"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/28/books/review/28ZERNIKE-REVIEW/28ZERNIKE-REVIEW-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nancy Hopkins, the unlikely rebel at the head of a movement for women\u2019s equality, at M.I.T.\u2019s Center for Cancer Research, 1973.",
+          "copyright": "MIT Museum"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/28/books/review/28ZERNIKE-REVIEW/28ZERNIKE-REVIEW-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nancy Hopkins, the unlikely rebel at the head of a movement for women\u2019s equality, at M.I.T.\u2019s Center for Cancer Research, 1973.",
+          "copyright": "MIT Museum"
+        }
+      ],
+      "short_url": "https://nyti.ms/41nN0bp"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Sizzling Hot Books for Cold Winter Days",
+      "abstract": "Cozy up with one of the four new books recommended by our romance columnist.",
+      "url": "https://www.nytimes.com/2023/02/24/books/review/new-romance-novels.html",
+      "uri": "nyt://article/f598f173-5e07-556a-83d4-ba323c0e1526",
+      "byline": "By Olivia Waite",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T14:45:49-05:00",
+      "created_date": "2023-02-24T05:00:13-05:00",
+      "published_date": "2023-02-24T05:00:13-05:00",
+      "material_type_facet": "",
+      "kicker": "Romance",
+      "des_facet": [
+        "Books and Literature",
+        "genre-books-romance",
+        "The Neighbor Favor (Book)",
+        "Emily Wilde's Encyclopaedia of Faeries (Book)",
+        "Sixpenny Octavo (Book)",
+        "The Worst Woman in London (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Forest, Kristina (Author)",
+        "Fawcett, Heather",
+        "Trent, Annick",
+        "Bennet, Julia (Author)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/books/review/23ROMANCE/23ROMANCE-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1562,
+          "width": 1271,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michela Buttignol"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/books/review/23ROMANCE/23ROMANCE-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michela Buttignol"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/books/review/23ROMANCE/23ROMANCE-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michela Buttignol"
+        }
+      ],
+      "short_url": "https://nyti.ms/3KAKvwy"
+    },
+    {
+      "section": "books",
+      "subsection": "booksupdate",
+      "title": "How Well Do You Know These Page-Turners Set in Washington, D.C.?",
+      "abstract": "Along with its memorials and monuments, the nation\u2019s capital has been a frequent location for many spine-tingling novels. Take this week\u2019s quiz to see how many plots and places you recognize!",
+      "url": "https://www.nytimes.com/interactive/2023/02/24/books/booksupdate/washington-dc-novels-quiz.html",
+      "uri": "nyt://interactive/59886685-6ab7-5a60-ad7c-cc79fd8b9810",
+      "byline": "By J. D. Biersdorfer",
+      "item_type": "Interactive",
+      "updated_date": "2023-02-24T15:50:03-05:00",
+      "created_date": "2023-02-24T15:50:03-05:00",
+      "published_date": "2023-02-24T15:50:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Washington (DC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/books/review/24Quiz-DC/24Quiz-DC-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ben Hickey"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/books/review/24Quiz-DC/24Quiz-DC-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ben Hickey"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/books/review/24Quiz-DC/24Quiz-DC-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ben Hickey"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IlX6ko"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Fight or Make Nice? Two Books Consider How to Listen and Be Heard.",
+      "abstract": "\u201cWin Every Argument,\u201d by Mehdi Hasan, and \u201cSay the Right Thing,\u201d by Kenji Yoshino and David Glasgow, offer different approaches to talking to others.",
+      "url": "https://www.nytimes.com/2023/02/22/books/review/win-every-argument-mehdi-hasan-say-the-right-thing-kenji-yoshino-david-glasgow.html",
+      "uri": "nyt://article/230ab648-b827-5522-8a17-c547b74d54df",
+      "byline": "By Jennifer Szalai",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T22:32:11-05:00",
+      "created_date": "2023-02-22T05:00:21-05:00",
+      "published_date": "2023-02-22T05:00:21-05:00",
+      "material_type_facet": "",
+      "kicker": "Nonfiction",
+      "des_facet": [
+        "Books and Literature",
+        "Public Speaking",
+        "Conversation",
+        "Win Every Argument: The Art of Debating, Persuading, and Public Speaking (Book)",
+        "Say the Right Thing: How to Talk About Identity, Diversity, and Justice (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Hasan, Mehdi (1979- )",
+        "Yoshino, Kenji",
+        "Glasgow, David (Author)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22Hasan-Yoshino-Glasgow-review-cjzq/22Hasan-Yoshino-Glasgow-review-cjzq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1436,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eug\u00e8ne Criqui, a world featherweight champion, sparring with his wife in an undated photograph. ",
+          "copyright": "Fotograms"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22Hasan-Yoshino-Glasgow-review-cjzq/22Hasan-Yoshino-Glasgow-review-cjzq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eug\u00e8ne Criqui, a world featherweight champion, sparring with his wife in an undated photograph. ",
+          "copyright": "Fotograms"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22Hasan-Yoshino-Glasgow-review-cjzq/22Hasan-Yoshino-Glasgow-review-cjzq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eug\u00e8ne Criqui, a world featherweight champion, sparring with his wife in an undated photograph. ",
+          "copyright": "Fotograms"
+        }
+      ],
+      "short_url": "https://nyti.ms/3KuSXNU"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Grief, Pain and the Lingering Impact of Trauma on Black Women\u2019s Bodies",
+      "abstract": "In her new novel, \u201cAn Autobiography of Skin,\u201d Lakiesha Carr tells the stories of three contemporary Black women, each struggling with different manifestations of trauma.",
+      "url": "https://www.nytimes.com/2023/02/23/books/review/an-autobiography-of-skin-lakiesha-carr.html",
+      "uri": "nyt://article/2c0e8328-a2e8-5407-b5f9-280914a320ed",
+      "byline": "By Ladee Hubbard",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T09:36:11-05:00",
+      "created_date": "2023-02-23T05:00:09-05:00",
+      "published_date": "2023-02-23T05:00:09-05:00",
+      "material_type_facet": "",
+      "kicker": "Fiction",
+      "des_facet": [
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Carr, Lakiesha"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/books/review/28CARR/28CARR-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1197,
+          "width": 1645,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Najeebah Al-Ghadban"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/books/review/28CARR/28CARR-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Najeebah Al-Ghadban"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/books/review/28CARR/28CARR-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Najeebah Al-Ghadban"
+        }
+      ],
+      "short_url": "https://nyti.ms/3INK7sZ"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Rupert Holmes Can\u2019t Read While Music Is Playing",
+      "abstract": "\u201cThe resulting cacophony interferes with the author\u2019s rhythms and rests,\u201d says the musician and crime novelist, whose latest book is \u201cMurder Your Employer.\u201d \u201cLike listening to Beethoven in one ear and \u2018Roll Over Beethoven\u2019 in the other.\u201d",
+      "url": "https://www.nytimes.com/2023/02/23/books/review/rupert-holmes-cant-read-while-music-is-playing.html",
+      "uri": "nyt://article/13b132cd-9649-5e87-b046-23a3aa7f88de",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T05:00:14-05:00",
+      "created_date": "2023-02-23T05:00:14-05:00",
+      "published_date": "2023-02-23T05:00:14-05:00",
+      "material_type_facet": "",
+      "kicker": "By the Book",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Holmes, Rupert"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/books/review/26ByTheBook-HOLMES/26ByTheBook-HOLMES-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1864,
+          "width": 1914,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rebecca Clarke"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/books/review/26ByTheBook-HOLMES/26ByTheBook-HOLMES-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rebecca Clarke"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/books/review/26ByTheBook-HOLMES/26ByTheBook-HOLMES-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rebecca Clarke"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IN4zKB"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "An Extraordinary Memoir of a Black American Boyhood",
+      "abstract": "Joseph Earl Thomas\u2019s remarkable debut, \u201cSink,\u201d recounts the coming-of-age of a young man for whom poverty, violence, drug abuse and racism were simply facts of daily life.",
+      "url": "https://www.nytimes.com/2023/02/21/books/review/sink-joseph-earl-thomas.html",
+      "uri": "nyt://article/587b64d2-185e-5cd3-9b42-f8768e05183d",
+      "byline": "By Bryan Washington",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T09:42:24-05:00",
+      "created_date": "2023-02-21T05:00:11-05:00",
+      "published_date": "2023-02-21T05:00:11-05:00",
+      "material_type_facet": "",
+      "kicker": "Nonfiction",
+      "des_facet": [
+        "Books and Literature",
+        "Sink: A Memoir (Book)",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Thomas, Joseph Earl (Author)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/21/books/review/21joseph-earl-thomas-author/21joseph-earl-thomas-author-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph Earl Thomas",
+          "copyright": "Drake Masters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/12/21/books/review/21joseph-earl-thomas-author/21joseph-earl-thomas-author-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph Earl Thomas",
+          "copyright": "Drake Masters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/12/21/books/review/21joseph-earl-thomas-author/21joseph-earl-thomas-author-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph Earl Thomas",
+          "copyright": "Drake Masters"
+        }
+      ],
+      "short_url": "https://nyti.ms/41aGG75"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "QAnon and the Fear and Loathing of an American Conspiracy Theory",
+      "abstract": "\u201cTrust the Plan,\u201d by Will Sommer, tracks the emergence of a bizarre movement from the wastewaters of the internet.",
+      "url": "https://www.nytimes.com/2023/02/20/books/will-sommer-trust-the-plan-qanon.html",
+      "uri": "nyt://article/1dc8cb0e-ceb5-58dd-9e05-fc9db9bba27d",
+      "byline": "By Dwight Garner",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T09:36:58-05:00",
+      "created_date": "2023-02-20T05:00:12-05:00",
+      "published_date": "2023-02-20T05:00:12-05:00",
+      "material_type_facet": "",
+      "kicker": "Nonfiction",
+      "des_facet": [
+        "Books and Literature",
+        "QAnon",
+        "Conspiracy Theories",
+        "Trust the Plan: The Rise of QAnon and the Conspiracy that Unhinged America (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sommer, Will (1988- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/books/21will-sommer-cover/21will-sommer-cover-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1472,
+          "width": 1350,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/books/21will-sommer-cover/21will-sommer-cover-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/books/21will-sommer-cover/21will-sommer-cover-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3lEKwF6"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "\u2018Libraries, You Are My Heroes\u2019: Readers Share Memories of a Favorite Haven",
+      "abstract": "A photo essay celebrating the versatility of public libraries prompted an outpouring of enthusiasm from card-carrying book lovers.",
+      "url": "https://www.nytimes.com/2023/02/19/books/library-memories.html",
+      "uri": "nyt://article/57d043da-e4fa-5c3f-afc7-b8ba03dcefae",
+      "byline": "By Elisabeth Egan and Erica Ackerberg",
+      "item_type": "Article",
+      "updated_date": "2023-02-19T05:00:09-05:00",
+      "created_date": "2023-02-19T05:00:09-05:00",
+      "published_date": "2023-02-19T05:00:09-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Libraries and Librarians",
+        "Books and Literature",
+        "Children and Childhood",
+        "Grandparents",
+        "Reading and Writing Skills (Education)"
+      ],
+      "org_facet": [
+        "American Library Assn"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19Libraries-bookmobile-02-wgkc/19Libraries-bookmobile-02-wgkc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The bookmobile has been a fixture of the library system in Cass County, Minn., since 1966. Here, a kindergarten class took stock of the offerings.",
+          "copyright": "Jaida Grey Eagle for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19Libraries-bookmobile-02-wgkc/19Libraries-bookmobile-02-wgkc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The bookmobile has been a fixture of the library system in Cass County, Minn., since 1966. Here, a kindergarten class took stock of the offerings.",
+          "copyright": "Jaida Grey Eagle for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19Libraries-bookmobile-02-wgkc/19Libraries-bookmobile-02-wgkc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The bookmobile has been a fixture of the library system in Cass County, Minn., since 1966. Here, a kindergarten class took stock of the offerings.",
+          "copyright": "Jaida Grey Eagle for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3YTty4i"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Self-Study, Becoming American and the Art of Translation",
+      "abstract": "An editor recommends old and new books",
+      "url": "https://www.nytimes.com/2023/02/25/books/read-like-wind-book-recommendations.html",
+      "uri": "nyt://article/5bdeee24-1a4d-5b38-93a4-dcc06218ea3c",
+      "byline": "By Gregory Cowles",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T07:50:02-05:00",
+      "created_date": "2023-02-25T07:50:02-05:00",
+      "published_date": "2023-02-25T07:50:02-05:00",
+      "material_type_facet": "",
+      "kicker": "Read Like the Wind",
+      "des_facet": [
+        "Books and Literature",
+        "internal-sub-only-nl",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1901,
+          "width": 1576,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cLezende jongen,\u201d by Frans Hals",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cLezende jongen,\u201d by Frans Hals",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cLezende jongen,\u201d by Frans Hals",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3KHMDTj"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Exploring the Wilds: Magical Marshlands, Nascent Planets",
+      "abstract": "New books by Frances Hardinge, Annalee Newitz and Freya Marske.",
+      "url": "https://www.nytimes.com/2023/02/25/books/review/hardinge-newitz-marske.html",
+      "uri": "nyt://article/40bc4d67-52c5-5fdc-aecd-891468cb8f67",
+      "byline": "By Amal El-Mohtar",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T11:49:26-05:00",
+      "created_date": "2023-02-25T05:00:05-05:00",
+      "published_date": "2023-02-25T05:00:05-05:00",
+      "material_type_facet": "",
+      "kicker": "Science Fiction and Fantasy",
+      "des_facet": [
+        "Books and Literature",
+        "Unraveller (Book)",
+        "A Restless Truth (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Hardinge, Frances",
+        "Newitz, Annalee",
+        "Marske, Freya"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/12/books/review/12OTHERWORLDLY/12OTHERWORLDLY-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 949,
+          "width": 630,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alva Skog"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/12/books/review/12OTHERWORLDLY/12OTHERWORLDLY-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alva Skog"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/12/books/review/12OTHERWORLDLY/12OTHERWORLDLY-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alva Skog"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kkHHsM"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "6 New Paperbacks to Read This Week",
+      "abstract": "This week\u2019s suggestions include a reprint of Nora Ephron\u2019s first novel, Tolkien\u2019s final writings on the world of \u201cThe Lord of the Rings\u201d and more.",
+      "url": "https://www.nytimes.com/interactive/2023/02/24/books/review/new-paperbacks.html",
+      "uri": "nyt://interactive/369fa6fd-cc77-5b7b-b408-ddea143108e0",
+      "byline": "By Miguel Salazar",
+      "item_type": "Interactive",
+      "updated_date": "2023-02-24T16:05:57-05:00",
+      "created_date": "2023-02-24T14:45:01-05:00",
+      "published_date": "2023-02-24T14:45:01-05:00",
+      "material_type_facet": "",
+      "kicker": "Paperback Row",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/books/26PAPERBACK-BURST-PROMO/26PAPERBACK-BURST-PROMO-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/books/26PAPERBACK-BURST-PROMO/26PAPERBACK-BURST-PROMO-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/books/26PAPERBACK-BURST-PROMO/26PAPERBACK-BURST-PROMO-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3xR8FeA"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "On Reading \u2018A Wrinkle in Time\u2019",
+      "abstract": "Sarah Lyall discusses reading Madeleine L\u2019Engle\u2019s classic novel at a pivotal moment in her childhood, and the lessons she has extracted from the book throughout her life.",
+      "url": "https://www.nytimes.com/2023/02/24/books/review/on-reading-a-wrinkle-in-time.html",
+      "uri": "nyt://article/3bc4b50f-d146-5206-85ba-5be23231f4ee",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T10:48:57-05:00",
+      "created_date": "2023-02-24T10:48:57-05:00",
+      "published_date": "2023-02-24T10:48:57-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": null,
+      "short_url": "https://nyti.ms/3SHioOl"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Letting Go of Her Ballet Dream",
+      "abstract": "A writer confronts her \u201cNutcracker\u201d childhood and the unforgiving culture that went with it.",
+      "url": "https://www.nytimes.com/2023/02/24/style/letting-go-of-her-ballet-dream.html",
+      "uri": "nyt://article/ac6b1829-2749-5a40-80c6-01203f7f2149",
+      "byline": "By Alex Vadukul",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T17:15:49-05:00",
+      "created_date": "2023-02-24T06:00:11-05:00",
+      "published_date": "2023-02-24T06:00:11-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Books and Literature",
+        "Dancing",
+        "Don't Think, Dear: On Loving and Leaving Ballet (Book)"
+      ],
+      "org_facet": [
+        "New York City Ballet",
+        "School of American Ballet"
+      ],
+      "per_facet": [
+        "Robb, Alice (Author)",
+        "Balanchine, George"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/00BALLERINA-01-htbj/00BALLERINA-01-htbj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author Alice Robb at Steps on Broadway, a dance studio on the Upper West Side of Manhattan.",
+          "copyright": "Laurel Golio for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/00BALLERINA-01-htbj/00BALLERINA-01-htbj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author Alice Robb at Steps on Broadway, a dance studio on the Upper West Side of Manhattan.",
+          "copyright": "Laurel Golio for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/00BALLERINA-01-htbj/00BALLERINA-01-htbj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author Alice Robb at Steps on Broadway, a dance studio on the Upper West Side of Manhattan.",
+          "copyright": "Laurel Golio for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xPG4pP"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "A Publishing Superstar Whose Memoir Shuns Glitz to Explore Private Torment",
+      "abstract": "In \u201cThe Absent Moon,\u201d Luiz Schwarcz, a legendary Brazilian publisher and global tastemaker, shares little of the glamorous life, focusing instead on the lifelong pain of clinical depression.",
+      "url": "https://www.nytimes.com/2023/02/24/books/memoir-depression-luiz-schwarcz.html",
+      "uri": "nyt://article/28b44514-2e2f-5492-8284-0324663e9308",
+      "byline": "By Sadie Stein",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T10:20:31-05:00",
+      "created_date": "2023-02-24T05:00:24-05:00",
+      "published_date": "2023-02-24T05:00:24-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "Book Trade and Publishing",
+        "Content Type: Personal Profile",
+        "Depression (Mental)",
+        "The Absent Moon: A Memoir of a Short Childhood and a Long Depression (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Schwarcz, Luiz"
+      ],
+      "geo_facet": [
+        "Brazil"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15schwarcz-kvmf/15schwarcz-kvmf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1367,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWhen I wrote the book, I said that it was for helping others,\u201d says Luiz Schwarcz of his memoir. \u201cThen I realized it\u2019s mainly for me.\u201d",
+          "copyright": "Victor Moriyama for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15schwarcz-kvmf/15schwarcz-kvmf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWhen I wrote the book, I said that it was for helping others,\u201d says Luiz Schwarcz of his memoir. \u201cThen I realized it\u2019s mainly for me.\u201d",
+          "copyright": "Victor Moriyama for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15schwarcz-kvmf/15schwarcz-kvmf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWhen I wrote the book, I said that it was for helping others,\u201d says Luiz Schwarcz of his memoir. \u201cThen I realized it\u2019s mainly for me.\u201d",
+          "copyright": "Victor Moriyama for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xL6glH"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Want to Put Something in Writing? Read These Books.",
+      "abstract": "Getting words onto a page can be a painful process. Authors of all abilities, help is within reach!",
+      "url": "https://www.nytimes.com/2023/02/24/books/review/books-on-how-to-write.html",
+      "uri": "nyt://article/70b80efc-3045-5013-875e-e0b7c7df6392",
+      "byline": "By Judith Newman",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T05:00:20-05:00",
+      "created_date": "2023-02-24T05:00:20-05:00",
+      "published_date": "2023-02-24T05:00:20-05:00",
+      "material_type_facet": "",
+      "kicker": "Self-Help",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "The Bezos Blueprint: Communication Secrets of the World's Greatest Salesman (Book)",
+        "Smart Brevity: The Power of Saying More With Less (Book)",
+        "Yours Truly: An Obituary Writer's Guide to Telling Your Story (Book)",
+        "On Writing (and Writers): A Miscellany of Advice and Opinions (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Gallo, Carmine (1965- )",
+        "Allen, Michael (1964- )",
+        "VandeHei, Jim",
+        "Schwartz, Roy (Media Executive)",
+        "Hagerty, James R (Journalist)",
+        "Lewis, C S"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/books/review/05HelpDesk-WRITING/05HelpDesk-WRITING-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1358,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nishant Choksi"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/books/review/05HelpDesk-WRITING/05HelpDesk-WRITING-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nishant Choksi"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/books/review/05HelpDesk-WRITING/05HelpDesk-WRITING-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nishant Choksi"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xQ9XGM"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Two Caldecott Medal-Winning Illustrators Tell Their Own Stories",
+      "abstract": "Dan Santat and the late Jerry Pinkney draw from life (literally) in their memoirs for young readers.",
+      "url": "https://www.nytimes.com/2023/02/24/books/review/jerry-pinkney-dan-santat-graphic-memoirs.html",
+      "uri": "nyt://article/e77f8fc7-3508-5c25-b957-431cfdbe49d0",
+      "byline": "By David Small",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T10:05:14-05:00",
+      "created_date": "2023-02-24T05:00:19-05:00",
+      "published_date": "2023-02-24T05:00:19-05:00",
+      "material_type_facet": "",
+      "kicker": "Children\u2019s Books",
+      "des_facet": [
+        "genre-books-childrens",
+        "genre-books-graphic-novels-comic-books",
+        "Books and Literature",
+        "Children and Childhood",
+        "Content Type: Personal Profile",
+        "Art",
+        "Just Jerry: How Drawing Shaped My Life (Book)",
+        "A First Time for Everything (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Pinkney, Jerry",
+        "Santat, Dan"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/books/review/26KIDS3/26KIDS3-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2039,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cJust Jerry.\u201d",
+          "copyright": "Jerry Pinkney"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/books/review/26KIDS3/26KIDS3-threeByTwoSmallAt2X-v3.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cJust Jerry.\u201d",
+          "copyright": "Jerry Pinkney"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/books/review/26KIDS3/26KIDS3-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cJust Jerry.\u201d",
+          "copyright": "Jerry Pinkney"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xL6gCd"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Linda King Newell, Feminist Scholar of Mormon History, Dies at 82",
+      "abstract": "Her work exploring the idea of female subservience within the church won acclaim. But it also led to her being blacklisted by Mormon leaders.",
+      "url": "https://www.nytimes.com/2023/02/23/books/linda-king-newell-dead.html",
+      "uri": "nyt://article/7e2311ee-a531-5ed4-b737-a4ae8c6f5dea",
+      "byline": "By Clay Risen",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T12:06:54-05:00",
+      "created_date": "2023-02-23T18:11:49-05:00",
+      "published_date": "2023-02-23T18:11:49-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Mormons (Church of Jesus Christ of Latter-Day Saints)",
+        "Women's Rights",
+        "Books and Literature",
+        "Writing and Writers"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Newell, Linda King (1941-2023)",
+        "Smith, Joseph (1805-44)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/obituaries/23newell-03/23newell-03-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1552,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Linda King Newell in 1985. She argued that Mormon women had once held significant power, but that they were sidelined as the church became more bureaucratic.",
+          "copyright": "via Newell family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/obituaries/23newell-03/23newell-03-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Linda King Newell in 1985. She argued that Mormon women had once held significant power, but that they were sidelined as the church became more bureaucratic.",
+          "copyright": "via Newell family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/obituaries/23newell-03/23newell-03-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Linda King Newell in 1985. She argued that Mormon women had once held significant power, but that they were sidelined as the church became more bureaucratic.",
+          "copyright": "via Newell family"
+        }
+      ],
+      "short_url": "https://nyti.ms/3m5YmR1"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Dream Bigger With Virtual Reality! (Some Anxiety May Follow.)",
+      "abstract": "Colin Winnette\u2019s new novel, \u201cUsers,\u201d examines the innovations and fears of our tech-driven age.",
+      "url": "https://www.nytimes.com/2023/02/23/books/review/colin-winnette-users.html",
+      "uri": "nyt://article/312fff8a-c83a-5247-ad66-edd94f5dc1b5",
+      "byline": "By Jessamine Chan",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T11:27:06-05:00",
+      "created_date": "2023-02-23T15:25:09-05:00",
+      "published_date": "2023-02-23T15:25:09-05:00",
+      "material_type_facet": "",
+      "kicker": "Fiction",
+      "des_facet": [
+        "Books and Literature",
+        "Users (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Winnette, Colin"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/books/21colin-winnette-cover/21colin-winnette-cover-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1517,
+          "width": 1308,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/books/21colin-winnette-cover/21colin-winnette-cover-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/books/21colin-winnette-cover/21colin-winnette-cover-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3XXATyV"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "John Macrae III, Eclectic Publisher and Rights Champion, Dies at 91",
+      "abstract": "In addition to having a roster of authors that included Gail Sheehy, David Levering Lewis and Lech Walesa, he spoke out for the rights of writers worldwide.",
+      "url": "https://www.nytimes.com/2023/02/23/books/john-macrae-iii-dead.html",
+      "uri": "nyt://article/26b3f4ab-7475-5034-8e5d-8979d9170ee1",
+      "byline": "By Sam Roberts",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T15:21:18-05:00",
+      "created_date": "2023-02-23T13:52:14-05:00",
+      "published_date": "2023-02-23T13:52:14-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Book Trade and Publishing",
+        "Books and Literature",
+        "Writing and Writers",
+        "Human Rights and Human Rights Violations"
+      ],
+      "org_facet": [
+        "HOLT, HENRY, & CO",
+        "Dutton Books"
+      ],
+      "per_facet": [
+        "Macrae, John 3D"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/22macrae-01-zwlj-print1/22macrae-01-zwlj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1352,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Macrae III in 1972, when he was president and publisher of E.P. Dutton. He held that post from 1968 to 1981.",
+          "copyright": "Robert Walker/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/22macrae-01-zwlj-print1/22macrae-01-zwlj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Macrae III in 1972, when he was president and publisher of E.P. Dutton. He held that post from 1968 to 1981.",
+          "copyright": "Robert Walker/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/22macrae-01-zwlj-print1/22macrae-01-zwlj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Macrae III in 1972, when he was president and publisher of E.P. Dutton. He held that post from 1968 to 1981.",
+          "copyright": "Robert Walker/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/41k0pRL"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "75 Years Ago, a \u2018Love Letter to Manhattan\u2019 Topped the Book Charts",
+      "abstract": "Marcia Davenport\u2019s novel \u201cEast Side, West Side\u201d was edited by the legendary Max Perkins, who once told her, \u201cJust get it down on paper, and then we\u2019ll see what to do with it.\u201d",
+      "url": "https://www.nytimes.com/2023/02/23/books/review/23inside-the-list-marcia-davenport.html",
+      "uri": "nyt://article/2d869d58-4f3a-5f45-a675-36af6fa04146",
+      "byline": "By Tina Jordan",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T17:01:03-05:00",
+      "created_date": "2023-02-23T12:23:13-05:00",
+      "published_date": "2023-02-23T12:23:13-05:00",
+      "material_type_facet": "",
+      "kicker": "Inside the Best-Seller List",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "East Side, West Side (Book)",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Davenport, Marcia",
+        "Perkins, Maxwell"
+      ],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/books/review/23INSIDETHELIST-WEB/23INSIDETHELIST-WEB-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1575,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kandelar Ladislav/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/books/review/23INSIDETHELIST-WEB/23INSIDETHELIST-WEB-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kandelar Ladislav/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/books/review/23INSIDETHELIST-WEB/23INSIDETHELIST-WEB-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kandelar Ladislav/Alamy"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IQB6PS"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "9 New Books We Recommend This Week",
+      "abstract": "Suggested reading from critics and editors at The New York Times.",
+      "url": "https://www.nytimes.com/2023/02/23/books/review/new-book-recommendations.html",
+      "uri": "nyt://article/c7dab3e0-146f-5b8a-aa14-759e0680397a",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T12:19:01-05:00",
+      "created_date": "2023-02-23T11:00:07-05:00",
+      "published_date": "2023-02-23T11:00:07-05:00",
+      "material_type_facet": "",
+      "kicker": "Editors\u2019 choice",
+      "des_facet": [
+        "Books and Literature",
+        "Content Type: Service",
+        "Lives of the Wives: Five Literary Marriages (Book)",
+        "Couplets: A Love Story (Book)",
+        "Against the World: Anti-Globalism and Mass Politics Between the World Wars (Book)",
+        "The Aftermath: The Last Days of the Baby Boom and the Future of Power in America (Book)",
+        "Pirate Enlightenment, or the Real Libertalia (Book)",
+        "No Home for Killers (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Connelly, Matthew (1967- )",
+        "Haynes, Natalie (1974- )",
+        "Ciuraru, Carmela",
+        "Millner, Maggie",
+        "Zahra, Tara",
+        "Bump, Philip",
+        "Graeber, David",
+        "Aymar, EA",
+        "Winer, Laurie"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/07/books/07MATTHEW-CONNELLY-COVER/07MATTHEW-CONNELLY-COVER-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1418,
+          "width": 1102,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/07/books/07MATTHEW-CONNELLY-COVER/07MATTHEW-CONNELLY-COVER-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/07/books/07MATTHEW-CONNELLY-COVER/07MATTHEW-CONNELLY-COVER-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3XR93V3"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Science Fiction Magazines Battle a Flood of Chatbot-Generated Stories",
+      "abstract": "While the deluge has become a nuisance, the stories are easy to spot. The writing is \u201cbad in spectacular ways,\u201d one editor said.",
+      "url": "https://www.nytimes.com/2023/02/23/technology/clarkesworld-submissions-ai-sci-fi.html",
+      "uri": "nyt://article/2a0cb034-4cb6-5db3-b59d-999a8edf2d8c",
+      "byline": "By Michael Levenson",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T11:15:10-05:00",
+      "created_date": "2023-02-23T09:16:57-05:00",
+      "published_date": "2023-02-23T09:16:57-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "ChatGPT",
+        "Books and Literature",
+        "Magazines",
+        "Artificial Intelligence",
+        "Writing and Writers",
+        "Science Fiction",
+        "Science and Technology"
+      ],
+      "org_facet": [
+        "OpenAI Labs"
+      ],
+      "per_facet": [
+        "Clarke, Neil (1966- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22xp-clarkesworld-magcover/22xp-clarkesworld-magcover-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1326,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cover of Issue 193 of Clarkesworld magazine. The publication recently halted open submissions because of a large increase in work created by A.I. bots.",
+          "copyright": "Daniel Conway, via Clarkesworld"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22xp-clarkesworld-magcover/22xp-clarkesworld-magcover-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cover of Issue 193 of Clarkesworld magazine. The publication recently halted open submissions because of a large increase in work created by A.I. bots.",
+          "copyright": "Daniel Conway, via Clarkesworld"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22xp-clarkesworld-magcover/22xp-clarkesworld-magcover-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cover of Issue 193 of Clarkesworld magazine. The publication recently halted open submissions because of a large increase in work created by A.I. bots.",
+          "copyright": "Daniel Conway, via Clarkesworld"
+        }
+      ],
+      "short_url": "https://nyti.ms/3m2JNOj"
+    },
+    {
+      "section": "magazine",
+      "subsection": "",
+      "title": "Poem: In Defense of Nothing",
+      "abstract": "Anyone familiar with the concept of the \u201c1990s\u201d might recognize the cunning of this poem\u2019s slacker mood.",
+      "url": "https://www.nytimes.com/2023/02/23/magazine/poem-in-defense-of-nothing.html",
+      "uri": "nyt://article/17500587-86e1-5949-a90a-5c891bfe4a38",
+      "byline": "By Peter Gizzi and Anne Boyer",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T05:00:10-05:00",
+      "created_date": "2023-02-23T05:00:10-05:00",
+      "published_date": "2023-02-23T05:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Poetry and Poets",
+        "Nineteen Hundred Nineties"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/magazine/26mag-poem/26mag-poem-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by R. O. Blechman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/magazine/26mag-poem/26mag-poem-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by R. O. Blechman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/magazine/26mag-poem/26mag-poem-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by R. O. Blechman"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ItJvYe"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "36 Hours in Miami",
+      "abstract": "Discover the best of both new and old Miami, from a salsa club in Little Havana to a rooftop bar with striking views of downtown to Cuban American bakeries.",
+      "url": "https://www.nytimes.com/interactive/2023/02/23/travel/things-to-do-miami.html",
+      "uri": "nyt://interactive/05e88738-4ac5-5edb-97dd-79181a193b20",
+      "byline": "By Christina Morales",
+      "item_type": "Interactive",
+      "updated_date": "2023-02-23T11:08:41-05:00",
+      "created_date": "2023-02-23T05:00:04-05:00",
+      "published_date": "2023-02-23T05:00:04-05:00",
+      "material_type_facet": "",
+      "kicker": "36 Hours",
+      "des_facet": [
+        "Restaurants",
+        "Bars and Nightclubs",
+        "Museums",
+        "Beaches",
+        "Books and Literature",
+        "internal-sub-only"
+      ],
+      "org_facet": [
+        "Rubell Museum (Miami, Fla)",
+        "Books & Books (Key West, Fla, Retailer)",
+        "Breadman Miami (Miami, Fla, Restaurant)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Coral Gables (Fla)",
+        "Everglades National Park",
+        "Florida",
+        "Miami (Fla)",
+        "Miami-Dade County (Fla)",
+        "Surfside (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23hours-miami-lede-tvcw/23hours-miami-lede-tvcw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23hours-miami-lede-tvcw/23hours-miami-lede-tvcw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23hours-miami-lede-tvcw/23hours-miami-lede-tvcw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3SmeaeL"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Jessica Chastain Returns to the Stage With Nothing to Prove",
+      "abstract": "In a pared-down Broadway revival of \u201cA Doll\u2019s House,\u201d the Oscar-winning actress doesn\u2019t have props, period costumes or much of a set. To her surprise, she likes it.",
+      "url": "https://www.nytimes.com/2023/02/22/theater/jessica-chastain-dolls-house-broadway.html",
+      "uri": "nyt://article/de6da148-7252-5a3d-ae6c-98bb0de7c765",
+      "byline": "By Alexandra Alter",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T01:36:40-05:00",
+      "created_date": "2023-02-22T05:00:41-05:00",
+      "published_date": "2023-02-22T05:00:41-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Actors and Actresses",
+        "Theater (Broadway)",
+        "Content Type: Personal Profile",
+        "A Doll's House (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Chastain, Jessica",
+        "Ibsen, Henrik",
+        "Lloyd, Jamie"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26chastain-01-kfwt/26chastain-01-kfwt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1389,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cIn the beginning, when I got all that attention so quickly,\u201d Jessica Chastain said, \u201cit just felt like this isn\u2019t going to last. I felt so scared. It felt so unearned.\u201d",
+          "copyright": "Thea Traff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26chastain-01-kfwt/26chastain-01-kfwt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cIn the beginning, when I got all that attention so quickly,\u201d Jessica Chastain said, \u201cit just felt like this isn\u2019t going to last. I felt so scared. It felt so unearned.\u201d",
+          "copyright": "Thea Traff for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26chastain-01-kfwt/26chastain-01-kfwt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cIn the beginning, when I got all that attention so quickly,\u201d Jessica Chastain said, \u201cit just felt like this isn\u2019t going to last. I felt so scared. It felt so unearned.\u201d",
+          "copyright": "Thea Traff for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xIcpPh"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Newly Published, From Press Freedom to the History of Ignorance",
+      "abstract": "A selection of recently published books.",
+      "url": "https://www.nytimes.com/2023/02/22/books/review/new-this-week.html",
+      "uri": "nyt://article/300bd373-c19c-5f07-b030-bf92019d19eb",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T05:00:05-05:00",
+      "created_date": "2023-02-22T05:00:05-05:00",
+      "published_date": "2023-02-22T05:00:05-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/books/review/26newlypubpics/26newlypubpics-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 607,
+          "width": 1235,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/books/review/26newlypubpics/26newlypubpics-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/books/review/26newlypubpics/26newlypubpics-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3m1ctHh"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "6 Paperbacks to Read This Week",
+      "abstract": "This week\u2019s selection includes Richard Zenith\u2019s biography of Fernando Pessoa, a collection of interviews with notable Black women writers and more.",
+      "url": "https://www.nytimes.com/interactive/2023/02/21/books/review/new-paperbacks.html",
+      "uri": "nyt://interactive/52611e81-b972-5bdb-b70f-ba1d5a6496fe",
+      "byline": "By Miguel Salazar",
+      "item_type": "Interactive",
+      "updated_date": "2023-02-21T18:09:30-05:00",
+      "created_date": "2023-02-21T17:45:01-05:00",
+      "published_date": "2023-02-21T17:45:01-05:00",
+      "material_type_facet": "",
+      "kicker": "Paperback Row",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/19/books/19PAPERBACK-BURST-COMBO/19PAPERBACK-BURST-COMBO-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/19/books/19PAPERBACK-BURST-COMBO/19PAPERBACK-BURST-COMBO-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/19/books/19PAPERBACK-BURST-COMBO/19PAPERBACK-BURST-COMBO-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3m0gUSH"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Unionized HarperCollins Employees Are Back to Work After a 3-Month Strike",
+      "abstract": "The return, after an agreement that brought a raise in pay for the lowest earners at the publisher, represented a victory to many of the more than 250 workers involved.",
+      "url": "https://www.nytimes.com/2023/02/21/books/harpercollins-strike-ends.html",
+      "uri": "nyt://article/1b3f10d5-1b0e-5dad-aae1-53f7b052831a",
+      "byline": "By Kate Dwyer and Elizabeth A. Harris",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T11:55:48-05:00",
+      "created_date": "2023-02-21T14:43:29-05:00",
+      "published_date": "2023-02-21T14:43:29-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Strikes",
+        "Wages and Salaries",
+        "Organized Labor",
+        "Book Trade and Publishing"
+      ],
+      "org_facet": [
+        "HarperCollins Publishers"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/obituaries/21HCstrike-01/21HCstrike-01-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1354,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "HarperCollins is one of the five biggest publishers in the United States.",
+          "copyright": "Mark Lennihan, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/obituaries/21HCstrike-01/21HCstrike-01-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "HarperCollins is one of the five biggest publishers in the United States.",
+          "copyright": "Mark Lennihan, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/obituaries/21HCstrike-01/21HCstrike-01-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "HarperCollins is one of the five biggest publishers in the United States.",
+          "copyright": "Mark Lennihan, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ZdxVaG"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "He Taught Americans to Cook Indian Food. Now He\u2019s on His Final Chapter.",
+      "abstract": "Raghavan Iyer, whose books and spirited teaching spread the cuisine, is using his last days to get familiar comfort foods to patients like himself.",
+      "url": "https://www.nytimes.com/2023/02/21/dining/raghavan-iyer-indian-food-cancer.html",
+      "uri": "nyt://article/81475e43-16b3-58e0-a5c3-50194b67a32d",
+      "byline": "By Kim Severson",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T16:22:31-05:00",
+      "created_date": "2023-02-21T11:08:03-05:00",
+      "published_date": "2023-02-21T11:08:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Recipes",
+        "Indian Food (Cuisine)",
+        "Content Type: Personal Profile",
+        "Colon and Colorectal Cancer",
+        "internal-sub-only",
+        "audio-neutral-informative"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Iyer, Raghavan"
+      ],
+      "geo_facet": [
+        "Minneapolis (Minn)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22iyer-01-mpgb/21iyer-01-mpgb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As the end of his life nears, Raghavan Iyer is publishing a new book and promoting the importance of feeding patients foods that speak to their origins and conditions.",
+          "copyright": "Nate Ryan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22iyer-01-mpgb/22iyer-01-mpgb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As the end of his life nears, Raghavan Iyer is publishing a new book and promoting the importance of feeding patients foods that speak to their origins and conditions.",
+          "copyright": "Nate Ryan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22iyer-01-mpgb/22iyer-01-mpgb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As the end of his life nears, Raghavan Iyer is publishing a new book and promoting the importance of feeding patients foods that speak to their origins and conditions.",
+          "copyright": "Nate Ryan for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3XRltw5"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "The Cousins Who Ruled 19th-Century Europe, Miserably",
+      "abstract": "\u201cEmpty Theatre,\u201d a novel by Jac Jemc, reimagines the lives of two eccentric royals, King Ludwig II of Bavaria and Empress Elisabeth of Austria.",
+      "url": "https://www.nytimes.com/2023/02/21/books/review/jac-jemc-empty-theatre.html",
+      "uri": "nyt://article/5c48a5f7-9f1d-5365-83c1-8e97fb3e0795",
+      "byline": "By Katy Simpson Smith",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T09:15:22-05:00",
+      "created_date": "2023-02-21T10:07:55-05:00",
+      "published_date": "2023-02-21T10:07:55-05:00",
+      "material_type_facet": "",
+      "kicker": "Fiction",
+      "des_facet": [
+        "Books and Literature",
+        "Empty Theatre (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Jemc, Jac"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/books/review/21Jemc/21Jemc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 675,
+          "width": 1410,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Resmini"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/books/review/21Jemc/21Jemc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 399,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Resmini"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/books/review/21Jemc/21Jemc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Resmini"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Eog3Sg"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "The Marquis de Sade\u2019s Filthy, Pricey 40-Foot Scroll of Depravity",
+      "abstract": "A new book by Joel Warner traces the fate of the parchment on which the infamous author wrote \u201c120 Days of Sodom,\u201d a trail involving scholars, aristocrats and thieves \u2014 and lots of money.",
+      "url": "https://www.nytimes.com/2023/02/21/books/review/the-curse-of-the-marquis-de-sade-joel-warner.html",
+      "uri": "nyt://article/8e9cb0ea-91ef-50e3-bcb3-f6c7a9d19db7",
+      "byline": "By Kevin Birmingham",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T09:49:14-05:00",
+      "created_date": "2023-02-21T05:00:25-05:00",
+      "published_date": "2023-02-21T05:00:25-05:00",
+      "material_type_facet": "",
+      "kicker": "Nonfiction",
+      "des_facet": [
+        "Books and Literature",
+        "The 120 Days of Sodom (Book)",
+        "Content Type: Personal Profile",
+        "Writing and Writers",
+        "Sex",
+        "Manuscripts"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Warner, Joel (Author)",
+        "Marquis de Sade"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21Warner-review-01-tqgh/21Warner-review-01-tqgh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1974,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Marquis de Sade in a drawing by Charles Am\u00e9d\u00e9e Philippe Van Loo, 1760.",
+          "copyright": "adoc-photos/Corbis, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21Warner-review-01-tqgh/21Warner-review-01-tqgh-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Marquis de Sade in a drawing by Charles Am\u00e9d\u00e9e Philippe Van Loo, 1760.",
+          "copyright": "adoc-photos/Corbis, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21Warner-review-01-tqgh/21Warner-review-01-tqgh-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Marquis de Sade in a drawing by Charles Am\u00e9d\u00e9e Philippe Van Loo, 1760.",
+          "copyright": "adoc-photos/Corbis, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3YMh5jd"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "An Unlikely College Bromance That Has Lasted a Lifetime",
+      "abstract": "In his new memoir, Will Schwalbe \u2014 theater nerd and bookworm \u2014 describes the bond he continues to share with a former Navy SEAL turned eco-warrior.",
+      "url": "https://www.nytimes.com/2023/02/21/books/review-will-schwalbe-we-should-not-be-friends.html",
+      "uri": "nyt://article/8ce54542-f667-5dbc-8277-2011f724f3fe",
+      "byline": "By Alexandra Jacobs",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T09:59:10-05:00",
+      "created_date": "2023-02-21T05:00:21-05:00",
+      "published_date": "2023-02-21T05:00:21-05:00",
+      "material_type_facet": "",
+      "kicker": "Nonfiction",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "Content Type: Personal Profile",
+        "Friendship",
+        "We Should Not Be Friends: The Story of a Friendship (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Schwalbe, Will"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/books/21will-schwalbe-cover/21will-schwalbe-cover-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1459,
+          "width": 1365,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/books/21will-schwalbe-cover/21will-schwalbe-cover-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/books/21will-schwalbe-cover/21will-schwalbe-cover-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3lGO4qn"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "A Poet Whose Tone Was Personal and Whose Vision Was Vast",
+      "abstract": "\u201cTrue Life,\u201d a collection of verse by the Polish poet Adam Zagajewski, arrives in English translation almost exactly two years after his death.",
+      "url": "https://www.nytimes.com/2023/02/21/books/review/adam-zagajewski-true-life-poems.html",
+      "uri": "nyt://article/f21bc2ca-4ac7-58d2-a9cd-980a6694cda1",
+      "byline": "By Robert Pinsky",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T11:23:25-05:00",
+      "created_date": "2023-02-21T05:00:15-05:00",
+      "published_date": "2023-02-21T05:00:15-05:00",
+      "material_type_facet": "",
+      "kicker": "Poetry",
+      "des_facet": [
+        "Poetry and Poets",
+        "Books and Literature",
+        "True Life (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Zagajewski, Adam",
+        "Cavanagh, Clare"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/books/review/21Zagajewski/21Zagajewski-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1212,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Matt Willey"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/books/review/21Zagajewski/21Zagajewski-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Matt Willey"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/books/review/21Zagajewski/21Zagajewski-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Matt Willey"
+        }
+      ],
+      "short_url": "https://nyti.ms/41bQ5Ly"
+    }
+  ]
+}

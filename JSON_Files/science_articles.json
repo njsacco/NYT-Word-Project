@@ -1,0 +1,1676 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+  "section": "Science",
+  "last_updated": "2023-02-22T14:51:17-05:00",
+  "num_results": 27,
+  "results": [
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Sign Up for the Science Times Newsletter",
+      "abstract": "Every week, we\u2019ll bring you stories that capture the wonders of the human body, nature and the cosmos.",
+      "url": "null",
+      "uri": "nyt://embeddedinteractive/daba9d03-29b8-5cfc-8cbd-74b8abf54a07",
+      "byline": "",
+      "item_type": "EmbeddedInteractive",
+      "updated_date": "2018-04-07T13:23:25-04:00",
+      "created_date": "2016-02-05T18:18:53-05:00",
+      "published_date": "2016-02-05T18:18:53-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1534,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "NASA, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "NASA, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "NASA, via Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "admin",
+      "subsection": "",
+      "title": "",
+      "abstract": "",
+      "url": "",
+      "uri": "nyt://embeddedinteractive/6cb185ed-65ac-50a5-ace3-5bab81934245",
+      "byline": "",
+      "item_type": "EmbeddedInteractive",
+      "updated_date": "2015-07-20T13:45:03-04:00",
+      "created_date": "2015-04-16T14:13:18-04:00",
+      "published_date": "2015-04-16T14:13:18-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": null,
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "The U.S. Has Billions for Wind and Solar Projects. Good Luck Plugging Them In.",
+      "abstract": "An explosion in proposed clean energy ventures has overwhelmed the system for connecting new power sources to homes and businesses.",
+      "url": "https://www.nytimes.com/2023/02/23/climate/renewable-energy-us-electrical-grid.html",
+      "uri": "nyt://article/d27c4e38-536c-5f4b-a737-459c2e57affd",
+      "byline": "By Brad Plumer",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T12:37:54-05:00",
+      "created_date": "2023-02-23T10:12:01-05:00",
+      "published_date": "2023-02-23T10:12:01-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Alternative and Renewable Energy",
+        "Wind Power",
+        "Solar Energy",
+        "Energy and Power",
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Regulation and Deregulation of Industry",
+        "Infrastructure (Public Works)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/00cli-bottlenecks-01-gvkt/00cli-bottlenecks-01-gvkt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pouring concrete for a wind turbine in Nebraska. More than 8,100 energy projects were waiting for permission to connect to electric grids at the end of 2021.",
+          "copyright": "Walker Pickering for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/00cli-bottlenecks-01-gvkt/00cli-bottlenecks-01-gvkt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pouring concrete for a wind turbine in Nebraska. More than 8,100 energy projects were waiting for permission to connect to electric grids at the end of 2021.",
+          "copyright": "Walker Pickering for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/00cli-bottlenecks-01-gvkt/00cli-bottlenecks-01-gvkt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pouring concrete for a wind turbine in Nebraska. More than 8,100 energy projects were waiting for permission to connect to electric grids at the end of 2021.",
+          "copyright": "Walker Pickering for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ZbR90N"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "What\u2019s Inside the Earth\u2019s Core?",
+      "abstract": "Seismic waves measuring earthquakes reveal more about the deepest layers of the planet, a new study suggests.",
+      "url": "https://www.nytimes.com/2023/02/23/science/earth-core-seismic-waves.html",
+      "uri": "nyt://article/2b35f9a8-3d37-5952-a4b5-e8aea65d5a80",
+      "byline": "By Kenneth Chang",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T05:00:19-05:00",
+      "created_date": "2023-02-23T05:00:19-05:00",
+      "published_date": "2023-02-23T05:00:19-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Earthquakes",
+        "Research",
+        "Earth"
+      ],
+      "org_facet": [
+        "Australian National University",
+        "Nature Communications (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Solomon Islands"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/science/22tb-core/22tb-core-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Two Australian scientists argue in a new paper that within the Earth\u2019s core, based on measurements of waves reverberating along the Earth\u2019s diameter, is an innermost inner core, about 800 miles wide.",
+          "copyright": "Drew Whitehouse, National Computational Infrastructure\u2019s Vizlab, Australian National University"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/science/22tb-core/22tb-core-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Two Australian scientists argue in a new paper that within the Earth\u2019s core, based on measurements of waves reverberating along the Earth\u2019s diameter, is an innermost inner core, about 800 miles wide.",
+          "copyright": "Drew Whitehouse, National Computational Infrastructure\u2019s Vizlab, Australian National University"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/science/22tb-core/22tb-core-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Two Australian scientists argue in a new paper that within the Earth\u2019s core, based on measurements of waves reverberating along the Earth\u2019s diameter, is an innermost inner core, about 800 miles wide.",
+          "copyright": "Drew Whitehouse, National Computational Infrastructure\u2019s Vizlab, Australian National University"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ILexwa"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Global Declines in Maternal Mortality Have Stalled",
+      "abstract": "Death rates in the United States have increased in recent years, as they have in Europe, the W.H.O. reported.",
+      "url": "https://www.nytimes.com/2023/02/22/health/pregnancy-complications-death-who.html",
+      "uri": "nyt://article/c09a1002-9285-56c1-b395-e178bfbb6dc3",
+      "byline": "By Roni Caryn Rabin",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T20:06:55-05:00",
+      "created_date": "2023-02-22T20:06:55-05:00",
+      "published_date": "2023-02-22T20:06:55-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Deaths (Fatalities)",
+        "Maternal Mortality",
+        "Pregnancy and Childbirth",
+        "Coronavirus (2019-nCoV)",
+        "Developing Countries",
+        "Birth Rates",
+        "Abortion",
+        "Black People",
+        "Native Americans"
+      ],
+      "org_facet": [
+        "World Health Organization"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "North America",
+        "Australia",
+        "Europe",
+        "Far East, South and Southeast Asia and Pacific Areas",
+        "New Zealand",
+        "South Asia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/science/22maternal-health/22maternal-health-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A pregnant woman with Covid on her way to a hospital in Senegal. While the pandemic may have contributed to maternal deaths, experts said that didn\u2019t fully explain trends that predated its onset.",
+          "copyright": "Leo Correa/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/science/22maternal-health/22maternal-health-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A pregnant woman with Covid on her way to a hospital in Senegal. While the pandemic may have contributed to maternal deaths, experts said that didn\u2019t fully explain trends that predated its onset.",
+          "copyright": "Leo Correa/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/science/22maternal-health/22maternal-health-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A pregnant woman with Covid on her way to a hospital in Senegal. While the pandemic may have contributed to maternal deaths, experts said that didn\u2019t fully explain trends that predated its onset.",
+          "copyright": "Leo Correa/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3XTm547"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Visits East Palestine, Seeking to Draw Contrast With Biden",
+      "abstract": "The former president has attacked the administration\u2019s handling of the train derailment, even as his own environmental policies while in office have been criticized.",
+      "url": "https://www.nytimes.com/2023/02/22/us/politics/trump-east-palestine-ohio-visit.html",
+      "uri": "nyt://article/2e4d591c-66d2-5e55-b342-8bb90b84bf18",
+      "byline": "By Jazmine Ulloa, Maggie Haberman and Mark Walker",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T11:16:23-05:00",
+      "created_date": "2023-02-22T12:20:38-05:00",
+      "published_date": "2023-02-22T12:20:38-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Railroad Accidents and Safety",
+        "Hazardous and Toxic Substances",
+        "Chemicals",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "East Palestine (Ohio)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22pol-trump-ohio-ghvp/22pol-trump-ohio-ghvp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump visited East Palestine, Ohio, on Wednesday, after days of criticizing President Biden over a train derailment there.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22pol-trump-ohio-ghvp/22pol-trump-ohio-ghvp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump visited East Palestine, Ohio, on Wednesday, after days of criticizing President Biden over a train derailment there.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22pol-trump-ohio-ghvp/22pol-trump-ohio-ghvp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump visited East Palestine, Ohio, on Wednesday, after days of criticizing President Biden over a train derailment there.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lXLVH7"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Mpox Often Leads to Severe Illness, Even Death, in People With Advanced H.I.V.",
+      "abstract": "The death rate among these patients is about 15 percent, researchers reported. The virus should be added to the list of opportunistic infections seen in patients with advanced H.I.V., scientists said.",
+      "url": "https://www.nytimes.com/2023/02/21/health/mpox-hiv.html",
+      "uri": "nyt://article/4f94f9b1-4b3b-5d04-b505-cb7fb2cfd67d",
+      "byline": "By Apoorva Mandavilli",
+      "item_type": "Article",
+      "updated_date": "2023-02-21T23:29:26-05:00",
+      "created_date": "2023-02-21T14:32:07-05:00",
+      "published_date": "2023-02-21T14:32:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Acquired Immune Deficiency Syndrome",
+        "Monkeypox",
+        "Research",
+        "Immune System",
+        "Deaths (Fatalities)",
+        "Viruses"
+      ],
+      "org_facet": [
+        "Lancet, The (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21mpox-gcht/21mpox-gcht-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colorized transmission electron micrograph of mpox particles, in red, in an infected cell. Although the number of cases has slowed in most regions, mpox has so far affected roughly 86,000 people in 110 countries and killed 92.",
+          "copyright": "National Institute of Allergy and Infectious Diseases, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21mpox-gcht/21mpox-gcht-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 399,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colorized transmission electron micrograph of mpox particles, in red, in an infected cell. Although the number of cases has slowed in most regions, mpox has so far affected roughly 86,000 people in 110 countries and killed 92.",
+          "copyright": "National Institute of Allergy and Infectious Diseases, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21mpox-gcht/21mpox-gcht-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colorized transmission electron micrograph of mpox particles, in red, in an infected cell. Although the number of cases has slowed in most regions, mpox has so far affected roughly 86,000 people in 110 countries and killed 92.",
+          "copyright": "National Institute of Allergy and Infectious Diseases, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3YSWytc"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Parched California Misses a Chance to Store More Rain Underground",
+      "abstract": "Torrential rains could have helped to replenish depleted aquifers, but some say state bureaucracy, designed to distribute water fairly, has stood in the way.",
+      "url": "https://www.nytimes.com/2023/02/21/climate/california-storms-groundwater-aquifer-recharge.html",
+      "uri": "nyt://article/7b23b11a-d687-5a43-9fd4-3ff1951f0849",
+      "byline": "By Raymond Zhong",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T11:42:14-05:00",
+      "created_date": "2023-02-21T12:17:55-05:00",
+      "published_date": "2023-02-21T12:17:55-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Water",
+        "Drought",
+        "Aquifers",
+        "Floods",
+        "Agriculture and Farming",
+        "Reservoirs",
+        "Irrigation",
+        "Infrastructure (Public Works)",
+        "Rivers"
+      ],
+      "org_facet": [
+        "California State Water Resources Control Board"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "California"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/00cli-recharge-01-bcqg/00cli-recharge-01-bcqg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1485,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The overflowing Russian River in mid-January. Next time there\u2019s a storm, a group of vineyards and local agencies hopes to capture more floodwater.",
+          "copyright": "Fred Greaves/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/00cli-recharge-01-bcqg/00cli-recharge-01-bcqg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The overflowing Russian River in mid-January. Next time there\u2019s a storm, a group of vineyards and local agencies hopes to capture more floodwater.",
+          "copyright": "Fred Greaves/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/00cli-recharge-01-bcqg/00cli-recharge-01-bcqg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The overflowing Russian River in mid-January. Next time there\u2019s a storm, a group of vineyards and local agencies hopes to capture more floodwater.",
+          "copyright": "Fred Greaves/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ErQRKP"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "A Sudden Rush to Make Sustainable Aviation Fuel Mainstream",
+      "abstract": "United Airlines and other companies have started a $100 million fund to invest in jet fuel that produces fewer greenhouse gases.",
+      "url": "https://www.nytimes.com/2023/02/21/climate/united-sustainable-aviation-fuel.html",
+      "uri": "nyt://article/41d0120c-2cfa-5b15-868b-08511514791f",
+      "byline": "By David Gelles",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T11:24:48-05:00",
+      "created_date": "2023-02-21T08:01:08-05:00",
+      "published_date": "2023-02-21T08:01:08-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Airlines and Airplanes",
+        "Fuel Emissions (Transportation)",
+        "Sustainable Living",
+        "Global Warming",
+        "Carbon Dioxide"
+      ],
+      "org_facet": [
+        "United Airlines"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21cli-aviationfuel-sub-qtgc/21cli-aviationfuel-sub-qtgc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aircraft at San Francisco International Airport in 2021. Making sustainable aviation fuel mainstream will be difficult and costly to achieve.",
+          "copyright": "Gabriela Bhaskar/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21cli-aviationfuel-sub-qtgc/21cli-aviationfuel-sub-qtgc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aircraft at San Francisco International Airport in 2021. Making sustainable aviation fuel mainstream will be difficult and costly to achieve.",
+          "copyright": "Gabriela Bhaskar/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21cli-aviationfuel-sub-qtgc/21cli-aviationfuel-sub-qtgc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aircraft at San Francisco International Airport in 2021. Making sustainable aviation fuel mainstream will be difficult and costly to achieve.",
+          "copyright": "Gabriela Bhaskar/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/41gnlBy"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Big Soda\u2019s Alcohol Drinks Worry Health Experts",
+      "abstract": "PepsiCo and Coca-Cola enter hard soda markets, causing concerns among regulators and researchers.",
+      "url": "https://www.nytimes.com/2023/02/21/health/alcohol-soft-drinks-health-risk.html",
+      "uri": "nyt://article/db53353c-4bcc-5815-ae74-9b136a1d5c28",
+      "byline": "By Ted Alcorn",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T09:09:15-05:00",
+      "created_date": "2023-02-21T03:00:15-05:00",
+      "published_date": "2023-02-21T03:00:15-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Soft Drinks",
+        "Alcoholic Beverages",
+        "Regulation and Deregulation of Industry",
+        "Coronavirus (2019-nCoV)",
+        "Containers and Packaging",
+        "Deaths (Fatalities)",
+        "Research",
+        "Cocktails and Mixed Drinks"
+      ],
+      "org_facet": [
+        "Alcohol and Tobacco Tax and Trade Bureau",
+        "Centers for Disease Control and Prevention",
+        "Coca-Cola Company",
+        "Environmental Science & Technology (Journal)",
+        "Monster Beverage Corp",
+        "Pepsico Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Tennessee"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/10/multimedia/00HARD-SODA-promo-kvcf/00HARD-SODA-promo-kvcf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Mike Belleme for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/10/multimedia/00HARD-SODA-promo-kvcf/00HARD-SODA-promo-kvcf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Mike Belleme for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/10/multimedia/00HARD-SODA-promo-kvcf/00HARD-SODA-promo-kvcf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Mike Belleme for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Sk7BJI"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Helping Stroke Patients Regain Movement in Their Hands",
+      "abstract": "The results of an innovative study suggest electrical stimulation of the spinal cord could eventually help some of the many people disabled by strokes.",
+      "url": "https://www.nytimes.com/2023/02/20/health/stroke-treatment-stimulation.html",
+      "uri": "nyt://article/4bdaae35-05ae-5309-b147-b9815d9f131f",
+      "byline": "By Pam Belluck",
+      "item_type": "Article",
+      "updated_date": "2023-02-21T12:22:45-05:00",
+      "created_date": "2023-02-20T11:00:09-05:00",
+      "published_date": "2023-02-20T11:00:09-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Hands",
+        "Research",
+        "Stroke",
+        "Paralysis",
+        "Therapy and Rehabilitation",
+        "Disabilities",
+        "your-feed-science",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Carnegie Mellon University",
+        "University of Pittsburgh",
+        "Nature Medicine (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20SCI-stroke-02-pvcq/20SCI-stroke-02-pvcq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kristian Thacker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20SCI-stroke-02-pvcq/20SCI-stroke-02-pvcq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kristian Thacker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20SCI-stroke-02-pvcq/20SCI-stroke-02-pvcq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kristian Thacker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3XEwVeo"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "A Fraught New Frontier in Telehealth: Ketamine",
+      "abstract": "With loosened rules around remote prescriptions, a psychedelic-like drug has\u00a0become a\u00a0popular treatment for mental health conditions. But a boom in at-home use has outpaced evidence of safety.",
+      "url": "https://www.nytimes.com/2023/02/20/us/ketamine-telemedicine.html",
+      "uri": "nyt://article/5763ab50-65b5-5eb6-a1ef-0e73b1c342fb",
+      "byline": "By Chris Hamby",
+      "item_type": "Article",
+      "updated_date": "2023-02-21T10:33:13-05:00",
+      "created_date": "2023-02-20T03:00:06-05:00",
+      "published_date": "2023-02-20T03:00:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Ketamine (Drug)",
+        "Telemedicine",
+        "Drug Abuse and Traffic",
+        "Psychedelic and Hallucinogenic Drugs",
+        "Computers and the Internet",
+        "Mental Health and Disorders",
+        "Regulation and Deregulation of Industry",
+        "Depression (Mental)",
+        "Psychiatry and Psychiatrists",
+        "Start-ups",
+        "Coronavirus (2019-nCoV)",
+        "internal-sub-only"
+      ],
+      "org_facet": [
+        "Food and Drug Administration",
+        "Joyous Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/us/ketamine-staticpromo/ketamine-staticpromo-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Keith Negley"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/us/ketamine-staticpromo/ketamine-staticpromo-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Keith Negley"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/us/ketamine-staticpromo/ketamine-staticpromo-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Keith Negley"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Kmi59s"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "In a First, a Woman Issues a Thunderstorm Watch, Officials Say",
+      "abstract": "The National Weather Service has issued thunderstorm and tornado watches for decades, but one had never been sent by a woman, until Wednesday.",
+      "url": "https://www.nytimes.com/2023/02/18/us/elizabeth-leitman-storm-watch.html",
+      "uri": "nyt://article/c1270189-e483-5faa-882b-b4731caf01a2",
+      "byline": "By Judson Jones",
+      "item_type": "Article",
+      "updated_date": "2023-02-19T09:18:04-05:00",
+      "created_date": "2023-02-18T09:00:11-05:00",
+      "published_date": "2023-02-18T09:00:11-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Weather",
+        "Women and Girls",
+        "Content Type: Personal Profile",
+        "Tornadoes",
+        "Rain"
+      ],
+      "org_facet": [
+        "National Weather Service"
+      ],
+      "per_facet": [
+        "Leitman, Elizabeth (1982- )"
+      ],
+      "geo_facet": [
+        "Norman (Okla)",
+        "Oklahoma"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/18/multimedia/18xp-stormwatch-leitman-mfqw/18xp-stormwatch-leitman-mfqw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elizabeth Leitman at the Storm Prediction Center in Norman, Okla. On Wednesday, she became the first female forecaster to issue a thunderstorm watch in the center\u2019s history, officials said.",
+          "copyright": "Nick Oxford for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/18/multimedia/18xp-stormwatch-leitman-mfqw/18xp-stormwatch-leitman-mfqw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elizabeth Leitman at the Storm Prediction Center in Norman, Okla. On Wednesday, she became the first female forecaster to issue a thunderstorm watch in the center\u2019s history, officials said.",
+          "copyright": "Nick Oxford for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/18/multimedia/18xp-stormwatch-leitman-mfqw/18xp-stormwatch-leitman-mfqw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elizabeth Leitman at the Storm Prediction Center in Norman, Okla. On Wednesday, she became the first female forecaster to issue a thunderstorm watch in the center\u2019s history, officials said.",
+          "copyright": "Nick Oxford for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/414gmvh"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "How Climate Change Is Making Tampons (and Lots of Other Stuff) More Expensive",
+      "abstract": "Cotton farmers in Texas suffered record losses amid heat and drought last year, new data shows. It\u2019s an example of how global warming is a \u201csecret driver of inflation.\u201d",
+      "url": "https://www.nytimes.com/2023/02/18/climate/climate-change-cotton-tampons.html",
+      "uri": "nyt://article/d5f77dcd-219f-54c5-abb4-7735478755f2",
+      "byline": "By Coral Davenport",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T17:15:02-05:00",
+      "created_date": "2023-02-18T05:00:26-05:00",
+      "published_date": "2023-02-18T05:00:26-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Drought",
+        "Heat and Heat Waves",
+        "Cotton",
+        "Agriculture and Farming",
+        "Prices (Fares, Fees and Rates)",
+        "Inflation (Economics)",
+        "Textiles",
+        "Irrigation",
+        "Menstruation",
+        "Cosmetics and Toiletries",
+        "Diapers",
+        "Greenhouse Gas Emissions"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Ogallala Aquifer",
+        "Texas"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/00cli-cotton-01-mljf/00cli-cotton-01-mljf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A few cotton bolls leftover after the harvest in Meadow, Texas.",
+          "copyright": "Jordan Vonderhaar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/00cli-cotton-01-mljf/00cli-cotton-01-mljf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A few cotton bolls leftover after the harvest in Meadow, Texas.",
+          "copyright": "Jordan Vonderhaar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/00cli-cotton-01-mljf/00cli-cotton-01-mljf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A few cotton bolls leftover after the harvest in Meadow, Texas.",
+          "copyright": "Jordan Vonderhaar for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Z3daxY"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "With Two Key Picks, Biden Weaves Climate Into Economy and Regulations",
+      "abstract": "The president adds climate champions Lael Brainard as his top economic adviser and Richard Revesz as his regulations chief.",
+      "url": "https://www.nytimes.com/2023/02/18/climate/biden-brainard-revesz-climate.html",
+      "uri": "nyt://article/b9f722d4-347b-564f-abfc-27228d7e98a2",
+      "byline": "By Coral Davenport and Jeanna Smialek",
+      "item_type": "Article",
+      "updated_date": "2023-02-21T14:59:33-05:00",
+      "created_date": "2023-02-18T05:00:19-05:00",
+      "published_date": "2023-02-18T05:00:19-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Appointments and Executive Changes",
+        "Banking and Financial Institutions"
+      ],
+      "org_facet": [
+        "National Economic Council (US)"
+      ],
+      "per_facet": [
+        "Brainard, Lael",
+        "Revesz, Richard L"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/18/multimedia/18Cli-biden-climate-ftmw/18Cli-biden-climate-ftmw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lael Brainard is President Biden\u2019s new director of the National Economic Council. As vice chair of the Federal Reserve, she became known for warning of the risks climate change poses to the financial system. ",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/18/multimedia/18Cli-biden-climate-ftmw/18Cli-biden-climate-ftmw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lael Brainard is President Biden\u2019s new director of the National Economic Council. As vice chair of the Federal Reserve, she became known for warning of the risks climate change poses to the financial system. ",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/18/multimedia/18Cli-biden-climate-ftmw/18Cli-biden-climate-ftmw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lael Brainard is President Biden\u2019s new director of the National Economic Council. As vice chair of the Federal Reserve, she became known for warning of the risks climate change poses to the financial system. ",
+          "copyright": "Al Drago for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/40ZSokV"
+    },
+    {
+      "section": "business",
+      "subsection": "energy-environment",
+      "title": "Norfolk Southern\u2019s Profits and Accident Rates Rose in Recent Years",
+      "abstract": "Safety experts say a focus on financial returns may be partly to blame for derailments and accidents like the one in Ohio.",
+      "url": "https://www.nytimes.com/2023/02/17/business/energy-environment/norfolk-southern-derailment-safety.html",
+      "uri": "nyt://article/f34770dd-709b-5700-8e98-d22bb6920a1b",
+      "byline": "By Peter Eavis and Mark Walker",
+      "item_type": "Article",
+      "updated_date": "2023-02-18T12:33:15-05:00",
+      "created_date": "2023-02-17T16:55:59-05:00",
+      "published_date": "2023-02-17T16:55:59-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Railroads",
+        "Railroad Accidents and Safety",
+        "Freight (Cargo)",
+        "Hazardous and Toxic Substances",
+        "Chemicals",
+        "Regulation and Deregulation of Industry",
+        "Company Reports",
+        "Organized Labor",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Norfolk Southern Corporation"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "East Palestine (Ohio)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/17dc-train-hqpj/17dc-train-hqpj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The accident rate at Norfolk Southern, which operated the train that derailed in East Palestine, Ohio, increased in each of the last four years, a company presentation said.",
+          "copyright": "Gene J. Puskar/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/17dc-train-hqpj/17dc-train-hqpj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The accident rate at Norfolk Southern, which operated the train that derailed in East Palestine, Ohio, increased in each of the last four years, a company presentation said.",
+          "copyright": "Gene J. Puskar/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/17dc-train-hqpj/17dc-train-hqpj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The accident rate at Norfolk Southern, which operated the train that derailed in East Palestine, Ohio, increased in each of the last four years, a company presentation said.",
+          "copyright": "Gene J. Puskar/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lFppT7"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Sandra Trehub, Pioneer in the Psychology of Music, Dies at 84",
+      "abstract": "She showed that basic musical ability is present in infants across cultures, laying a foundation for a growing field of study.",
+      "url": "https://www.nytimes.com/2023/02/16/science/sandra-trehub-dead.html",
+      "uri": "nyt://article/4103a3d4-911a-5a06-a566-02b88fbd6333",
+      "byline": "By Oliver Whang",
+      "item_type": "Article",
+      "updated_date": "2023-02-16T23:38:03-05:00",
+      "created_date": "2023-02-16T15:29:08-05:00",
+      "published_date": "2023-02-16T15:29:08-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Babies and Infants",
+        "Music",
+        "Psychology and Psychologists",
+        "Research",
+        "Language and Languages"
+      ],
+      "org_facet": [
+        "University of Toronto"
+      ],
+      "per_facet": [
+        "Trehub, Sandra"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/obituaries/16Trehub-print1-SUB/16Trehub-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1011,
+          "width": 927,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sandra Trehub in an undated photo. \u201cEvery bit of research in the psychology of music over the past 40 years can be traced back to Sandra Trehub,\u201d a fellow psychologist said.",
+          "copyright": "via Andrew Cohen"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/obituaries/16Trehub-print1-SUB/16Trehub-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sandra Trehub in an undated photo. \u201cEvery bit of research in the psychology of music over the past 40 years can be traced back to Sandra Trehub,\u201d a fellow psychologist said.",
+          "copyright": "via Andrew Cohen"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/obituaries/16Trehub-print1-SUB/16Trehub-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sandra Trehub in an undated photo. \u201cEvery bit of research in the psychology of music over the past 40 years can be traced back to Sandra Trehub,\u201d a fellow psychologist said.",
+          "copyright": "via Andrew Cohen"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lGvAqa"
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Spain Allows Legal Gender Change Without a Medical Evaluation",
+      "abstract": "A new law will allow people 16 and older to change their registered gender without undergoing psychological and medical evaluations to show gender dysphoria.",
+      "url": "https://www.nytimes.com/2023/02/16/world/europe/spain-gender-change.html",
+      "uri": "nyt://article/279de0d5-c9c8-52c6-959c-2b9021c94a5d",
+      "byline": "By Emma Bubola and Jos\u00e9 Bautista",
+      "item_type": "Article",
+      "updated_date": "2023-02-17T06:06:48-05:00",
+      "created_date": "2023-02-16T14:23:30-05:00",
+      "published_date": "2023-02-16T14:23:30-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Gender",
+        "Transgender",
+        "Law and Legislation"
+      ],
+      "org_facet": [
+        "Spanish Socialist Workers' Party"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Spain"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/17SPAINprint/16SPAIN-lqfh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "L.G.B.T.Q. activists in Madrid on Thursday celebrated the final approval of a law making it easier for people to legally change their gender.",
+          "copyright": "Susana Vera/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/17SPAINprint/16SPAIN-lqfh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "L.G.B.T.Q. activists in Madrid on Thursday celebrated the final approval of a law making it easier for people to legally change their gender.",
+          "copyright": "Susana Vera/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/17SPAINprint/16SPAIN-lqfh-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "L.G.B.T.Q. activists in Madrid on Thursday celebrated the final approval of a law making it easier for people to legally change their gender.",
+          "copyright": "Susana Vera/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xudKta"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "New Auroras Found Glowing in the Skies of Jupiter\u2019s Moons",
+      "abstract": "Researchers reported auroras around Jupiter\u2019s two largest Galilean moons for the first time and found new features in the auroras of volcanic Io and icy Europa.",
+      "url": "https://www.nytimes.com/2023/02/16/science/auroras-jupiter-moons.html",
+      "uri": "nyt://article/24b8f985-8088-5d26-b046-5658c218e652",
+      "byline": "By Robin George Andrews",
+      "item_type": "Article",
+      "updated_date": "2023-02-16T14:16:46-05:00",
+      "created_date": "2023-02-16T10:00:08-05:00",
+      "published_date": "2023-02-16T10:00:08-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Jupiter (Planet)",
+        "Io (Jupiter Moon)",
+        "Europa (Moon of Jupiter)",
+        "Ganymede (Jupiter Moon)",
+        "Callisto (Jovian Moon)",
+        "Research"
+      ],
+      "org_facet": [
+        "The Planetary Science Journal"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/nyregion/16sci-auroras/16sci-auroras-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1372,
+          "width": 1466,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The auroras are visible on the moons during an eclipse, said an author of the studies.",
+          "copyright": "NASA"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/nyregion/16sci-auroras/16sci-auroras-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The auroras are visible on the moons during an eclipse, said an author of the studies.",
+          "copyright": "NASA"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/nyregion/16sci-auroras/16sci-auroras-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The auroras are visible on the moons during an eclipse, said an author of the studies.",
+          "copyright": "NASA"
+        }
+      ],
+      "short_url": "https://nyti.ms/3k4xyQG"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Higher Bills Are Leading Americans to Delay Medical Care",
+      "abstract": "Inflation and pressing household expenses are forcing some people to postpone health needs, an emerging trend that has health experts worried that conditions may only worsen.",
+      "url": "https://www.nytimes.com/2023/02/16/health/inflation-delayed-health-care.html",
+      "uri": "nyt://article/ed178364-3bbf-5f95-912d-e9282da5f87d",
+      "byline": "By Reed Abelson",
+      "item_type": "Article",
+      "updated_date": "2023-02-17T10:53:31-05:00",
+      "created_date": "2023-02-16T05:00:26-05:00",
+      "published_date": "2023-02-16T05:00:26-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Inflation (Economics)",
+        "Health Insurance and Managed Care",
+        "Prices (Fares, Fees and Rates)",
+        "Coronavirus (2019-nCoV)",
+        "Layoffs and Job Reductions",
+        "Medicaid"
+      ],
+      "org_facet": [
+        "Commonwealth Fund"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/07/multimedia/00delaycare-01b-wpzf/00delaycare-01b-wpzf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Megan Swanson with her daughter Jojo.",
+          "copyright": "Melanie Metz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/07/multimedia/00delaycare-01b-wpzf/00delaycare-01b-wpzf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Megan Swanson with her daughter Jojo.",
+          "copyright": "Melanie Metz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/07/multimedia/00delaycare-01b-wpzf/00delaycare-01b-wpzf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Megan Swanson with her daughter Jojo.",
+          "copyright": "Melanie Metz for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3YyI6qk"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Scientists Wondered if Warming Caused Argentina\u2019s Drought. The Answer: No.",
+      "abstract": "Climate change didn\u2019t make the dry spell more likely, researchers found, though extreme heat probably made it hurt more.",
+      "url": "https://www.nytimes.com/2023/02/16/climate/argentina-drought.html",
+      "uri": "nyt://article/bbdd5d7a-57d5-59a8-b326-bc4b64d5ece7",
+      "byline": "By Henry Fountain",
+      "item_type": "Article",
+      "updated_date": "2023-02-18T09:01:15-05:00",
+      "created_date": "2023-02-16T04:00:07-05:00",
+      "published_date": "2023-02-16T04:00:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Drought",
+        "Heat and Heat Waves",
+        "Global Warming",
+        "Research"
+      ],
+      "org_facet": [
+        "World Weather Attribution"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Argentina",
+        "Uruguay"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16cli-argentinadrought-lzpm/16cli-argentinadrought-lzpm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1431,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A cornfield outside Buenos Aires in January. The drought became especially severe in the last three months of 2022.",
+          "copyright": "Agustin Marcarian/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16cli-argentinadrought-lzpm/16cli-argentinadrought-lzpm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A cornfield outside Buenos Aires in January. The drought became especially severe in the last three months of 2022.",
+          "copyright": "Agustin Marcarian/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16cli-argentinadrought-lzpm/16cli-argentinadrought-lzpm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A cornfield outside Buenos Aires in January. The drought became especially severe in the last three months of 2022.",
+          "copyright": "Agustin Marcarian/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xtmtLY"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Narcan Is Safe to Sell Over the Counter, Advisers to the F.D.A. Conclude",
+      "abstract": "The overdose reversal drug has been administered mostly by emergency responders and outreach workers. If the agency approves a nonprescription version, it could become as easily available as aspirin.",
+      "url": "https://www.nytimes.com/2023/02/15/health/narcan-nalaxone-drug-stores.html",
+      "uri": "nyt://article/0499e26b-5605-5eb3-8ff5-34e19949d817",
+      "byline": "By Jan Hoffman",
+      "item_type": "Article",
+      "updated_date": "2023-02-16T09:00:40-05:00",
+      "created_date": "2023-02-15T18:32:22-05:00",
+      "published_date": "2023-02-15T18:32:22-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Drugs (Pharmaceuticals)",
+        "Naloxone (Drug)",
+        "Drug Abuse and Traffic",
+        "United States Politics and Government",
+        "Opioids and Opiates",
+        "Drugstores",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Emergent BioSolutions Inc",
+        "Food and Drug Administration"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15opiods-Narcan-htbm/15opiods-Narcan-htbm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "If the Food and Drug Administration accepts the panel\u2019s recommendation, as is expected, the lifesaving medication could be widely available this summer in convenience shops, supermarkets and even vending machines.",
+          "copyright": "Mary Altaffer/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15opiods-Narcan-htbm/15opiods-Narcan-htbm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "If the Food and Drug Administration accepts the panel\u2019s recommendation, as is expected, the lifesaving medication could be widely available this summer in convenience shops, supermarkets and even vending machines.",
+          "copyright": "Mary Altaffer/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15opiods-Narcan-htbm/15opiods-Narcan-htbm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "If the Food and Drug Administration accepts the panel\u2019s recommendation, as is expected, the lifesaving medication could be widely available this summer in convenience shops, supermarkets and even vending machines.",
+          "copyright": "Mary Altaffer/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3I6bqNS"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "World Bank President, Dogged by Climate Questions, Will Step Down Early",
+      "abstract": "David Malpass, under fire for months by critics who accused him of climate denialism, said he would resign in June, a year before his term ends.",
+      "url": "https://www.nytimes.com/2023/02/15/climate/david-malpass-world-bank.html",
+      "uri": "nyt://article/cbd97c3a-f64b-5752-8d7f-8779b2bdb495",
+      "byline": "By David Gelles",
+      "item_type": "Article",
+      "updated_date": "2023-02-16T00:13:07-05:00",
+      "created_date": "2023-02-15T15:08:08-05:00",
+      "published_date": "2023-02-15T15:08:08-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Greenhouse Gas Emissions"
+      ],
+      "org_facet": [
+        "World Bank"
+      ],
+      "per_facet": [
+        "Malpass, David"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15cli-malpass-hbwp/15cli-malpass-hbwp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Malpass was nominated in 2019 by President Donald J. Trump.",
+          "copyright": "Patrick Semansky/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15cli-malpass-hbwp/15cli-malpass-hbwp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Malpass was nominated in 2019 by President Donald J. Trump.",
+          "copyright": "Patrick Semansky/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15cli-malpass-hbwp/15cli-malpass-hbwp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Malpass was nominated in 2019 by President Donald J. Trump.",
+          "copyright": "Patrick Semansky/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3E9N0lt"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "What Toxic Chemicals Were Aboard the Derailed Train in Ohio?",
+      "abstract": "The train was carrying industrial materials used in plastics, paint thinners and other products, according to information provided to the federal government.",
+      "url": "https://www.nytimes.com/2023/02/15/climate/ohio-train-fire-toxic-chemicals.html",
+      "uri": "nyt://article/bc2355b7-f903-5116-a990-384e559477cd",
+      "byline": "By Raymond Zhong",
+      "item_type": "Article",
+      "updated_date": "2023-02-16T12:58:48-05:00",
+      "created_date": "2023-02-15T14:22:07-05:00",
+      "published_date": "2023-02-15T14:22:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Hazardous and Toxic Substances",
+        "Railroad Accidents and Safety",
+        "Chemicals",
+        "Ethylene Glycol",
+        "Air Pollution"
+      ],
+      "org_facet": [
+        "Agency for Toxic Substances and Disease Registry",
+        "Norfolk Southern Corporation"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "East Palestine (Ohio)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15cli-ohiochemicals-pbwm/15cli-ohiochemicals-pbwm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workers prepare to enter the area where the disaster took place.",
+          "copyright": "Ohio National Guard, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15cli-ohiochemicals-pbwm/15cli-ohiochemicals-pbwm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workers prepare to enter the area where the disaster took place.",
+          "copyright": "Ohio National Guard, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15cli-ohiochemicals-pbwm/15cli-ohiochemicals-pbwm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workers prepare to enter the area where the disaster took place.",
+          "copyright": "Ohio National Guard, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3YVbW7U"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Scientists Get a Close-Up Look Beneath a Troubling Ice Shelf in Antarctica",
+      "abstract": "A robot lowered through the ice reveals how the Thwaites shelf is melting, which will help forecast its effect on global sea level.",
+      "url": "https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html",
+      "uri": "nyt://article/381f6d4b-dcbd-5f54-bd49-8c5e8167aa38",
+      "byline": "By Henry Fountain",
+      "item_type": "Article",
+      "updated_date": "2023-02-16T12:47:20-05:00",
+      "created_date": "2023-02-15T11:00:13-05:00",
+      "published_date": "2023-02-15T11:00:13-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Glaciers",
+        "Ice",
+        "Global Warming",
+        "Research",
+        "Oceans and Seas"
+      ],
+      "org_facet": [
+        "British Antarctic Survey"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Antarctic Regions"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/autossell/15cli-antarctica-vidcover1/15cli-antarctica-vidcover1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1524,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paul Anker/British Antarctic Survey"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/autossell/15cli-antarctica-vidcover1/15cli-antarctica-vidcover1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paul Anker/British Antarctic Survey"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/autossell/15cli-antarctica-vidcover1/15cli-antarctica-vidcover1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paul Anker/British Antarctic Survey"
+        }
+      ],
+      "short_url": "https://nyti.ms/3KdwN2j"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "A Manifesto for Loving the Darkness, and Not Metaphorically",
+      "abstract": "Light pollution is disruptive to many species, from corals to bats to the humans who put up all those lights. \u201cThe Darkness Manifesto\u201d urges us to reconsider our drive to dispel the dark.",
+      "url": "https://www.nytimes.com/2023/02/15/books/light-pollution-impact-darkness-manifesto.html",
+      "uri": "nyt://article/5521a880-2788-54f1-8187-7b5dff2ad01f",
+      "byline": "By Lisa Abend",
+      "item_type": "Article",
+      "updated_date": "2023-02-21T00:20:27-05:00",
+      "created_date": "2023-02-15T05:00:34-05:00",
+      "published_date": "2023-02-15T05:00:34-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Lighting",
+        "Pollution",
+        "Animal Behavior",
+        "Books and Literature",
+        "Research",
+        "The Darkness Manifesto: On Light Pollution, Night Ecology, and the Ancient Rhythms that Sustain Life (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Eklof, Johan"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/00DARKENESS1-zwhf/00DARKENESS1-zwhf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Losing a connection to the night sky is losing our connection to nature, said Johan Ekl\u00f6f, but it is also losing some of our history. \u201cWhat we see now is the same sky as our ancestors were looking at and making up stories about.\u201d",
+          "copyright": "Nora Lorek for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/00DARKENESS1-zwhf/00DARKENESS1-zwhf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Losing a connection to the night sky is losing our connection to nature, said Johan Ekl\u00f6f, but it is also losing some of our history. \u201cWhat we see now is the same sky as our ancestors were looking at and making up stories about.\u201d",
+          "copyright": "Nora Lorek for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/00DARKENESS1-zwhf/00DARKENESS1-zwhf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Losing a connection to the night sky is losing our connection to nature, said Johan Ekl\u00f6f, but it is also losing some of our history. \u201cWhat we see now is the same sky as our ancestors were looking at and making up stories about.\u201d",
+          "copyright": "Nora Lorek for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3E59TXe"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "A Link Between Hearing Voices and Hearing Your Own Voice",
+      "abstract": "An experiment with bone-conduction headphones suggests a way for neuroscientists to better understand some hallucinations.",
+      "url": "https://www.nytimes.com/2023/02/14/science/sound-own-voice-bone-conduction.html",
+      "uri": "nyt://article/0c14f3d0-804b-5bf7-bec6-4f86e677f4f7",
+      "byline": "By Veronique Greenwood",
+      "item_type": "Article",
+      "updated_date": "2023-02-21T00:11:48-05:00",
+      "created_date": "2023-02-14T19:01:07-05:00",
+      "published_date": "2023-02-14T19:01:07-05:00",
+      "material_type_facet": "",
+      "kicker": "Trilobites",
+      "des_facet": [
+        "Voice and Speech",
+        "Brain",
+        "Audio Recordings, Downloads and Streaming",
+        "Hallucinations",
+        "Mental Health and Disorders",
+        "Headphones and Headsets",
+        "Research",
+        "your-feed-science",
+        "your-feed-health"
+      ],
+      "org_facet": [
+        "Royal Society Open Science (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/science/14tb-hearing-voices/14tb-hearing-voices-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People using bone-conduction headphones in a study were more likely to correctly identify their own voices from a recording in which they were blended with other voices.",
+          "copyright": "Michael Sohn/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/science/14tb-hearing-voices/14tb-hearing-voices-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People using bone-conduction headphones in a study were more likely to correctly identify their own voices from a recording in which they were blended with other voices.",
+          "copyright": "Michael Sohn/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/science/14tb-hearing-voices/14tb-hearing-voices-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People using bone-conduction headphones in a study were more likely to correctly identify their own voices from a recording in which they were blended with other voices.",
+          "copyright": "Michael Sohn/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Yu1dla"
+    }
+  ]
+}

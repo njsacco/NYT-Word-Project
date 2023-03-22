@@ -1,0 +1,2334 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+  "section": "Food",
+  "last_updated": "2023-02-24T16:01:05-05:00",
+  "num_results": 40,
+  "results": [
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "\u2018Party Down\u2019 Gets It: Food Service Is No Party",
+      "abstract": "The Starz sitcom about the mundane lives of L.A. cater waiters is a smart, funny antidote to the shows and films that focus on chefs and glamorize the business.",
+      "url": "https://www.nytimes.com/2023/02/24/dining/party-down-season-3.html",
+      "uri": "nyt://article/752c43f6-2cc4-5e20-bb98-faa6d51706b9",
+      "byline": "By Tejal Rao",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T12:18:01-05:00",
+      "created_date": "2023-02-24T05:00:23-05:00",
+      "published_date": "2023-02-24T05:00:23-05:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Food",
+        "Television",
+        "Party Down (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24party-down01-vcjw/24party-down01-vcjw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1200,
+          "width": 1800,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cParty Down\u201d returns after 13 years to celebrate the in-between moments of food service and life.",
+          "copyright": "Leroy and Rose Agency, via Starz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24party-down01-vcjw/24party-down01-vcjw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cParty Down\u201d returns after 13 years to celebrate the in-between moments of food service and life.",
+          "copyright": "Leroy and Rose Agency, via Starz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24party-down01-vcjw/24party-down01-vcjw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cParty Down\u201d returns after 13 years to celebrate the in-between moments of food service and life.",
+          "copyright": "Leroy and Rose Agency, via Starz"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xRgErS"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Spring Comes Early With This Bright, Cozy Dinner",
+      "abstract": "A mustardy beet salad, a creamy chicken main and a warm lemon pudding: This menu from David Tanis looks ahead in all the right ways.",
+      "url": "https://www.nytimes.com/2023/02/24/dining/beet-salad-chicken-lemon-pudding.html",
+      "uri": "nyt://article/19e6db47-1bdc-5d9b-a7ff-ad8233739659",
+      "byline": "By David Tanis",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T15:56:34-05:00",
+      "created_date": "2023-02-24T15:56:34-05:00",
+      "published_date": "2023-02-24T15:56:34-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/01/multimedia/24Tanis3-mjzk/24Tanis3-mjzk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This creamy chicken, which celebrates fresh spring vegetables and herbs, takes its cues from the French preparation known as blanquette.",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/01/multimedia/24Tanis3-mjzk/24Tanis3-mjzk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This creamy chicken, which celebrates fresh spring vegetables and herbs, takes its cues from the French preparation known as blanquette.",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/01/multimedia/24Tanis3-mjzk/24Tanis3-mjzk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This creamy chicken, which celebrates fresh spring vegetables and herbs, takes its cues from the French preparation known as blanquette.",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        }
+      ],
+      "short_url": "https://nyti.ms/3koN0an"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "He Taught Americans to Cook Indian Food. Now He\u2019s on His Final Chapter.",
+      "abstract": "Raghavan Iyer, whose books and spirited teaching spread the cuisine, is using his last days to get familiar comfort foods to patients like himself.",
+      "url": "https://www.nytimes.com/2023/02/21/dining/raghavan-iyer-indian-food-cancer.html",
+      "uri": "nyt://article/81475e43-16b3-58e0-a5c3-50194b67a32d",
+      "byline": "By Kim Severson",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T16:22:31-05:00",
+      "created_date": "2023-02-21T11:08:03-05:00",
+      "published_date": "2023-02-21T11:08:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Recipes",
+        "Indian Food (Cuisine)",
+        "Content Type: Personal Profile",
+        "Colon and Colorectal Cancer",
+        "internal-sub-only",
+        "audio-neutral-informative"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Iyer, Raghavan"
+      ],
+      "geo_facet": [
+        "Minneapolis (Minn)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22iyer-01-mpgb/21iyer-01-mpgb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As the end of his life nears, Raghavan Iyer is publishing a new book and promoting the importance of feeding patients foods that speak to their origins and conditions.",
+          "copyright": "Nate Ryan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22iyer-01-mpgb/22iyer-01-mpgb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As the end of his life nears, Raghavan Iyer is publishing a new book and promoting the importance of feeding patients foods that speak to their origins and conditions.",
+          "copyright": "Nate Ryan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22iyer-01-mpgb/22iyer-01-mpgb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As the end of his life nears, Raghavan Iyer is publishing a new book and promoting the importance of feeding patients foods that speak to their origins and conditions.",
+          "copyright": "Nate Ryan for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3XRltw5"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "11 Winter Weeknight Vegetarian Recipes to Try Before the Season Ends",
+      "abstract": "Summer produce may get all of the glory, but these cool-weather recipes make winter vegetables exciting and bright.",
+      "url": "https://www.nytimes.com/article/winter-vegetables-recipes.html",
+      "uri": "nyt://article/f907ab65-dc83-5772-b5cf-a74cc8e481b2",
+      "byline": "By Tanya Sichynsky",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T14:33:59-05:00",
+      "created_date": "2023-02-23T14:19:44-05:00",
+      "published_date": "2023-02-23T14:19:44-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Vegetables",
+        "Cooking and Cookbooks",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/27/dining/22WinterVeg-Roundup-Pasta-Lede/merlin_169350135_e79fcb6e-cda0-4d5b-87d6-787b4870fbd1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexa Weibel\u2019s creamy Swiss chard pasta with leeks, tarragon and lemon zest.",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/01/27/dining/22WinterVeg-Roundup-Pasta-Lede/merlin_169350135_e79fcb6e-cda0-4d5b-87d6-787b4870fbd1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexa Weibel\u2019s creamy Swiss chard pasta with leeks, tarragon and lemon zest.",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/01/27/dining/22WinterVeg-Roundup-Pasta-Lede/27Pasta-Swiss-Chard-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexa Weibel\u2019s creamy Swiss chard pasta with leeks, tarragon and lemon zest.",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Kz0UBx"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "This Buttery Fish Is Weeknight Easy and Julia Child Fancy",
+      "abstract": "Fish almondine is a nutty variation on a classic French dish, sole meuni\u00e8re.",
+      "url": "https://www.nytimes.com/2023/02/22/dining/buttery-roasted-fish-recipe.html",
+      "uri": "nyt://article/c7350681-3115-58ed-b11e-e2181108827f",
+      "byline": "By Melissa Clark",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T12:15:34-05:00",
+      "created_date": "2023-02-22T12:14:44-05:00",
+      "published_date": "2023-02-22T12:14:44-05:00",
+      "material_type_facet": "",
+      "kicker": "A Good Appetite",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service",
+        "Seafood"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/01/multimedia/22appetite-almondine-promo-fbmg/22appetite-almondine-promo-fbmg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Julia Gartland for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/01/multimedia/22appetite-almondine-promo-fbmg/22appetite-almondine-promo-fbmg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Julia Gartland for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/01/multimedia/22appetite-almondine-promo-fbmg/22appetite-almondine-promo-fbmg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Julia Gartland for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/41icwyI"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Restaurant Review: Korean and Cajun Flavors Rock Together at Kjun",
+      "abstract": "At the chef Jae Jung\u2019s tiny spot in the East 30s, a good-times-roll spirit prevails.",
+      "url": "https://www.nytimes.com/2023/02/21/dining/kjun-review-korean-cajun-food.html",
+      "uri": "nyt://article/8c710180-a12d-509c-8b20-326389ba11bb",
+      "byline": "By Pete Wells",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T15:48:29-05:00",
+      "created_date": "2023-02-21T15:20:15-05:00",
+      "published_date": "2023-02-21T15:20:15-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Restaurants",
+        "Korean Food (Cuisine)",
+        "Chefs"
+      ],
+      "org_facet": [
+        "Kjun (Manhattan, NY, Restaurant)"
+      ],
+      "per_facet": [
+        "Jung, Jae (Chef)"
+      ],
+      "geo_facet": [
+        "Murray Hill (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22rest-kjun-01-tmvg/21rest-kjun-01-tmvg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kjun is a freewheeling party where dishes from Korea mix and mingle with dishes from New Orleans. ",
+          "copyright": "Lanna Apisukh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22rest-kjun-01-tmvg/21rest-kjun-01-tmvg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kjun is a freewheeling party where dishes from Korea mix and mingle with dishes from New Orleans. ",
+          "copyright": "Lanna Apisukh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22rest-kjun-01-tmvg/21rest-kjun-01-tmvg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kjun is a freewheeling party where dishes from Korea mix and mingle with dishes from New Orleans. ",
+          "copyright": "Lanna Apisukh for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Z88VkW"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "For Perfectly Cooked Rice Every Time, Try Your Microwave",
+      "abstract": "It may seem sacrilegious to stovetop loyalists, but when it comes to consistency, this household appliance is a\u00a0weeknight meal\u2019s best friend.",
+      "url": "https://www.nytimes.com/2023/02/21/dining/how-to-cook-perfect-rice-in-microwave.html",
+      "uri": "nyt://article/90d5c34e-02bb-5bee-a25e-c3ad5b026d5e",
+      "byline": "By Priya Krishna",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T11:49:55-05:00",
+      "created_date": "2023-02-21T11:12:39-05:00",
+      "published_date": "2023-02-21T11:12:39-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Rice",
+        "Microwave Ovens",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/20Microwave-Rice1-pjwh/20Microwave-Rice1-pjwh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cooking rice in the microwave can yield uniformly cooked grains without much effort.",
+          "copyright": "Julia Gartland for The New York Times. Food Stylist: Barrett Washburne."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/20Microwave-Rice1-pjwh/20Microwave-Rice1-pjwh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cooking rice in the microwave can yield uniformly cooked grains without much effort.",
+          "copyright": "Julia Gartland for The New York Times. Food Stylist: Barrett Washburne."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/20Microwave-Rice1-pjwh/20Microwave-Rice1-pjwh-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cooking rice in the microwave can yield uniformly cooked grains without much effort.",
+          "copyright": "Julia Gartland for The New York Times. Food Stylist: Barrett Washburne."
+        }
+      ],
+      "short_url": "https://nyti.ms/3XKCRCE"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "A Vegetable Soup That Delicately Balances Sweet and Sour",
+      "abstract": "Full of lemongrass, tamarind and tofu, this light winter dish is a little different each time you make it \u2014 and that\u2019s part of the allure, Yewande Komolafe writes.",
+      "url": "https://www.nytimes.com/2023/02/17/dining/sweet-sour-vegetable-soup-recipe.html",
+      "uri": "nyt://article/b38810f3-e00b-51eb-b7c6-5bd19b4756db",
+      "byline": "By Yewande Komolafe",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T10:53:50-05:00",
+      "created_date": "2023-02-17T13:02:31-05:00",
+      "published_date": "2023-02-17T13:02:31-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Soups",
+        "Vegetables",
+        "Recipes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22Komolafe1-fcwt/22Komolafe1-fcwt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In this light soup, tofu (soft or silken) absorbs the essence of the fragrant broth and melts in your mouth with every spoonful. ",
+          "copyright": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22Komolafe1-fcwt/22Komolafe1-fcwt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In this light soup, tofu (soft or silken) absorbs the essence of the fragrant broth and melts in your mouth with every spoonful. ",
+          "copyright": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22Komolafe1-fcwt/22Komolafe1-fcwt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In this light soup, tofu (soft or silken) absorbs the essence of the fragrant broth and melts in your mouth with every spoonful. ",
+          "copyright": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill."
+        }
+      ],
+      "short_url": "https://nyti.ms/3I78e4p"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "A Fast Way to Orange Rolls, the Citrusy Sister of Cinnamon Rolls",
+      "abstract": "Whether or not you have nostalgia for these breakfast treats, you\u2019ll want to bake these homemade ones from Genevieve Ko.",
+      "url": "https://www.nytimes.com/2023/02/16/dining/orange-rolls-recipe.html",
+      "uri": "nyt://article/829345a4-1a7f-566a-99d5-9cb1e23db2e3",
+      "byline": "By Genevieve Ko",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T00:16:58-05:00",
+      "created_date": "2023-02-16T12:07:35-05:00",
+      "published_date": "2023-02-16T12:07:35-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Pastries",
+        "Bakeries and Baked Products",
+        "Recipes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16KO-01-vpbk/16KO-01-vpbk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A cream cheese glaze spread over orange rolls while they\u2019re still hot tastes fresh and citrusy.",
+          "copyright": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16KO-01-vpbk/16KO-01-vpbk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A cream cheese glaze spread over orange rolls while they\u2019re still hot tastes fresh and citrusy.",
+          "copyright": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16KO-01-vpbk/16KO-01-vpbk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A cream cheese glaze spread over orange rolls while they\u2019re still hot tastes fresh and citrusy.",
+          "copyright": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich."
+        }
+      ],
+      "short_url": "https://nyti.ms/3xro595"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "If You Love Crispy Chicken Skin, This Is the Recipe for You",
+      "abstract": "A gingery peanut sauce finishes Melissa Clark\u2019s latest, which is just as much about the skin as it is the juicy dark meat.",
+      "url": "https://www.nytimes.com/2023/02/15/dining/crispy-roast-chicken-skin-recipe.html",
+      "uri": "nyt://article/426045e6-32bf-5dc5-83ab-5d586e48e6c1",
+      "byline": "By Melissa Clark",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T00:18:55-05:00",
+      "created_date": "2023-02-15T11:55:33-05:00",
+      "published_date": "2023-02-15T11:55:33-05:00",
+      "material_type_facet": "",
+      "kicker": "A Good Appetite",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Poultry",
+        "Content Type: Service",
+        "Skin"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15appetite-chicken-cbhp/15appetite-chicken-cbhp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Letting the chicken skin dry out in the fridge yields particularly crispy skin.",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15appetite-chicken-cbhp/15appetite-chicken-cbhp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Letting the chicken skin dry out in the fridge yields particularly crispy skin.",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15appetite-chicken-cbhp/15appetite-chicken-cbhp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Letting the chicken skin dry out in the fridge yields particularly crispy skin.",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        }
+      ],
+      "short_url": "https://nyti.ms/410NvIn"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Restaurant Review: In Rockefeller Center, Jupiter Plants a Flag With Pasta",
+      "abstract": "This sprawling Italian newcomer from the owners of King has its pleasures, but struggles to find a consistent identity.",
+      "url": "https://www.nytimes.com/2023/02/14/dining/jupiter-review-rockefeller-center-pete-wells.html",
+      "uri": "nyt://article/de518b24-5491-5d9d-bafb-3e870961b1aa",
+      "byline": "By Pete Wells",
+      "item_type": "Article",
+      "updated_date": "2023-02-14T23:24:50-05:00",
+      "created_date": "2023-02-14T15:17:18-05:00",
+      "published_date": "2023-02-14T15:17:18-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Restaurants"
+      ],
+      "org_facet": [
+        "Jupiter (Manhattan, NY, Restaurant)"
+      ],
+      "per_facet": [
+        "de Boer, Clare",
+        "Shadbolt, Jess",
+        "Shi, Annie"
+      ],
+      "geo_facet": [
+        "Rockefeller Center (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15rest-jupiter-01-fvqc/14rest-jupiter-01-fvqc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1463,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jupiter specializes in pastas like agnoli filled with stewed rabbit.",
+          "copyright": "Nico Schinco for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15rest-jupiter-01-fvqc/15rest-jupiter-01-fvqc-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jupiter specializes in pastas like agnoli filled with stewed rabbit.",
+          "copyright": "Nico Schinco for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15rest-jupiter-01-fvqc/15rest-jupiter-01-fvqc-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jupiter specializes in pastas like agnoli filled with stewed rabbit.",
+          "copyright": "Nico Schinco for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3RYCKC1"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "In Majority-Black New Orleans, Chefs Are Rewriting \u2018Whitewashed\u2019 History",
+      "abstract": "A new generation is exploring how the city\u2019s celebrated food owes as much to West African and Caribbean cuisines as to French cooking.",
+      "url": "https://www.nytimes.com/2023/02/14/dining/black-chefs-new-orleans-history.html",
+      "uri": "nyt://article/766df88b-e907-5f55-b174-dbd6272fde2d",
+      "byline": "By Brett Anderson and Rita Harper",
+      "item_type": "Article",
+      "updated_date": "2023-02-15T17:14:07-05:00",
+      "created_date": "2023-02-14T05:00:53-05:00",
+      "published_date": "2023-02-14T05:00:53-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Chefs",
+        "Black People",
+        "Restaurants",
+        "Cooking and Cookbooks"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bailey, Mashama (Chef)",
+        "Compton, Nina (Chef)",
+        "Gourdet, Gregory (1975- )",
+        "Onwuachi, Kwame",
+        "Chase, Leah",
+        "Lagasse, Emeril",
+        "Prudhomme, Paul (1940-2015)",
+        "Mbaye, Serigne"
+      ],
+      "geo_facet": [
+        "New Orleans (La)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/13/multimedia/13nola-chefs01-ktfh/13nola-chefs01-ktfh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1425,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New Orleans chefs, restaurateurs and scholars have been rethinking the city\u2019s culinary history. Front row, from left: Serigne Mbaye, Afua Richardson, Nina Compton, Lisa Nelson, Zella Palmer, Martha Wiggins, Edgar Chase IV. Back row, from left: Prince Lobo, Dr. Howard Conyers, Robert Manos, Charly Pierre.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/13/multimedia/13nola-chefs01-ktfh/13nola-chefs01-ktfh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New Orleans chefs, restaurateurs and scholars have been rethinking the city\u2019s culinary history. Front row, from left: Serigne Mbaye, Afua Richardson, Nina Compton, Lisa Nelson, Zella Palmer, Martha Wiggins, Edgar Chase IV. Back row, from left: Prince Lobo, Dr. Howard Conyers, Robert Manos, Charly Pierre.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/13/multimedia/13nola-chefs01-ktfh/13nola-chefs01-ktfh-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New Orleans chefs, restaurateurs and scholars have been rethinking the city\u2019s culinary history. Front row, from left: Serigne Mbaye, Afua Richardson, Nina Compton, Lisa Nelson, Zella Palmer, Martha Wiggins, Edgar Chase IV. Back row, from left: Prince Lobo, Dr. Howard Conyers, Robert Manos, Charly Pierre.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3HV8GCV"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Gair, Serving Bar Snacks, Charcuterie and More, Opens in Dumbo",
+      "abstract": "Italian with a view of St. Patrick\u2019s Cathedral, an omakase counter from the Blue Ribbon team, and more restaurant news.",
+      "url": "https://www.nytimes.com/2023/02/22/dining/nyc-restaurant-news.html",
+      "uri": "nyt://article/dbb5d10b-7d19-5806-b880-7b88749cb52f",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T12:18:49-05:00",
+      "created_date": "2023-02-22T00:03:05-05:00",
+      "published_date": "2023-02-22T00:03:05-05:00",
+      "material_type_facet": "",
+      "kicker": "off the menu",
+      "des_facet": [
+        "Restaurants",
+        "Bars and Nightclubs"
+      ],
+      "org_facet": [
+        "Gair (Brooklyn, NY, Restaurant)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/21OFF-vwzk/21OFF-vwzk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sandblasted concrete defines Gair\u2019s interior, which includes a 36-seat central bar.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/21OFF-vwzk/21OFF-vwzk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sandblasted concrete defines Gair\u2019s interior, which includes a 36-seat central bar.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/21OFF-vwzk/21OFF-vwzk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sandblasted concrete defines Gair\u2019s interior, which includes a 36-seat central bar.",
+          "copyright": "Karsten Moran for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kgQpbe"
+    },
+    {
+      "section": "dining",
+      "subsection": "drinks",
+      "title": "20 Wines Under $20: Finding Bargains Amid Inflation",
+      "abstract": "The familiar names have risen in price, but great, unexplored values still abound.",
+      "url": "https://www.nytimes.com/2023/02/09/dining/drinks/wines-under-20-dollars-inflation.html",
+      "uri": "nyt://article/a41ba9c2-7112-57cb-8bf3-3ddcb367205e",
+      "byline": "By Eric Asimov",
+      "item_type": "Article",
+      "updated_date": "2023-02-14T23:25:59-05:00",
+      "created_date": "2023-02-09T12:46:09-05:00",
+      "published_date": "2023-02-09T12:46:09-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Wines",
+        "Shopping and Retail",
+        "Prices (Fares, Fees and Rates)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/08/multimedia/08pour-01-fmlw/08pour-01-fmlw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the $15 to $20 price point, wines made in lesser-known places, often from little-known grapes still show a soulful side.",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/08/multimedia/08pour-01-fmlw/08pour-01-fmlw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the $15 to $20 price point, wines made in lesser-known places, often from little-known grapes still show a soulful side.",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/08/multimedia/08pour-01-fmlw/08pour-01-fmlw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the $15 to $20 price point, wines made in lesser-known places, often from little-known grapes still show a soulful side.",
+          "copyright": "Tony Cenicola/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ROdyOG"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Adding Sex Appeal to the Bourbon Shelf",
+      "abstract": "Black entrepreneurs from North Carolina release PurCellos1789 straight bourbon, an ice-cream parlor opens in Prospect-Lefferts Gardens, Brooklyn, and more food news.",
+      "url": "https://www.nytimes.com/2023/02/20/dining/bourbon-brooklyn-ice-cream-parlor-food-news.html",
+      "uri": "nyt://article/f9176d5e-7dca-5bbf-8ab2-a5517dd0574b",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2023-02-20T15:59:33-05:00",
+      "created_date": "2023-02-20T05:00:25-05:00",
+      "published_date": "2023-02-20T05:00:25-05:00",
+      "material_type_facet": "",
+      "kicker": "Front Burner",
+      "des_facet": [
+        "Food",
+        "Cooking and Cookbooks",
+        "Ice Cream and Frozen Desserts",
+        "Tableware",
+        "Soups"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/20Burner-promo-pfjb/20Burner-promo-pfjb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "via PurCellos"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/20Burner-promo-pfjb/20Burner-promo-pfjb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "via PurCellos"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/20Burner-promo-pfjb/20Burner-promo-pfjb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "via PurCellos"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Z5LOaA"
+    },
+    {
+      "section": "dining",
+      "subsection": "drinks",
+      "title": "Raymond Trollat, Who Took a Hilly Wine Region to New Heights, Dies at 91",
+      "abstract": "Few knew the Northern Rh\u00f4ne Valley when he began growing grapes and making wine in the 1940s. By the time he retired, the region, and his wines, were world famous.",
+      "url": "https://www.nytimes.com/2023/02/24/dining/drinks/raymond-trollat-dead.html",
+      "uri": "nyt://article/f4b88a88-c412-5ecb-b10f-b7786dca68be",
+      "byline": "By Eric Asimov",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T09:22:28-05:00",
+      "created_date": "2023-02-24T18:58:56-05:00",
+      "published_date": "2023-02-24T18:58:56-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Wines",
+        "Agriculture and Farming",
+        "Grapes"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trollat, Raymond (1931-2023)"
+      ],
+      "geo_facet": [
+        "Rhone Valley (France)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23trollat-01-vpzl/23trollat-01-vpzl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1374,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Raymond Trollat, left, in 1983 with Kermit Lynch, G\u00e9rard Chave and Ernest Trollat, Raymond\u2019s father, in Mr. Trollat\u2019s cellar. \u201cWhat stood out about Raymond was his totally funky approach to winemaking,\u201d Mr. Lynch said.",
+          "copyright": "Gail Skoff"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23trollat-01-vpzl/23trollat-01-vpzl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Raymond Trollat, left, in 1983 with Kermit Lynch, G\u00e9rard Chave and Ernest Trollat, Raymond\u2019s father, in Mr. Trollat\u2019s cellar. \u201cWhat stood out about Raymond was his totally funky approach to winemaking,\u201d Mr. Lynch said.",
+          "copyright": "Gail Skoff"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23trollat-01-vpzl/23trollat-01-vpzl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Raymond Trollat, left, in 1983 with Kermit Lynch, G\u00e9rard Chave and Ernest Trollat, Raymond\u2019s father, in Mr. Trollat\u2019s cellar. \u201cWhat stood out about Raymond was his totally funky approach to winemaking,\u201d Mr. Lynch said.",
+          "copyright": "Gail Skoff"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IrNdS9"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "These Veggies Are Sneaky",
+      "abstract": "Ali Slagle\u2019s recipe for salad pizza with white beans and Parmesan will get you to eat your greens.",
+      "url": "https://www.nytimes.com/2023/02/24/dining/these-veggies-are-sneaky.html",
+      "uri": "nyt://article/0513dd0f-7000-5716-b6ab-8c53b094896a",
+      "byline": "By Krysten Chambrot",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T13:00:03-05:00",
+      "created_date": "2023-02-24T13:00:03-05:00",
+      "published_date": "2023-02-24T13:00:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service",
+        "Recipes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/11/dining/11Veggie-salad-pizza-a-copy/merlin_187444374_6d36e40a-9a49-46df-b32f-65c4edad94ca-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/08/11/dining/11Veggie-salad-pizza-a-copy/merlin_187444374_6d36e40a-9a49-46df-b32f-65c4edad94ca-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/08/11/dining/11Veggie-salad-pizza-a-copy/merlin_187444374_6d36e40a-9a49-46df-b32f-65c4edad94ca-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ZhNH47"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "What to Cook This Weekend",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2023/02/24/dining/what-to-cook-this-weekend.html",
+      "uri": "nyt://article/014108fe-501b-5c60-8d82-e34ee56f7462",
+      "byline": "By Sam Sifton",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T11:00:03-05:00",
+      "created_date": "2023-02-24T11:00:03-05:00",
+      "published_date": "2023-02-24T11:00:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/YK-roasted-fish-and-broccolini-with-tamarind-copy/YK-roasted-fish-and-broccolini-with-tamarind-and-black-pepper-gmzl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill. Prop Stylist: Paige Hicks."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/YK-roasted-fish-and-broccolini-with-tamarind-copy/YK-roasted-fish-and-broccolini-with-tamarind-and-black-pepper-gmzl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill. Prop Stylist: Paige Hicks."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/YK-roasted-fish-and-broccolini-with-tamarind-copy/YK-roasted-fish-and-broccolini-with-tamarind-and-black-pepper-gmzl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill. Prop Stylist: Paige Hicks."
+        }
+      ],
+      "short_url": "https://nyti.ms/3IRNfV1"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Soy, Oat and Almond Drinks Can Be Called Milk, F.D.A. Says",
+      "abstract": "Plant-based beverage makers hailed the agency\u2019s decision but objected to the recommendation for labels to specify the nutritional differences with cow\u2019s milk.",
+      "url": "https://www.nytimes.com/2023/02/23/health/soy-almond-oat-milk-fda.html",
+      "uri": "nyt://article/a0203870-a016-5722-9c4a-240e5c4edf06",
+      "byline": "By Andrew Jacobs",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T10:46:02-05:00",
+      "created_date": "2023-02-23T16:47:21-05:00",
+      "published_date": "2023-02-23T16:47:21-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Milk",
+        "Veganism",
+        "Labeling and Labels (Product)",
+        "Containers and Packaging",
+        "Diet and Nutrition"
+      ],
+      "org_facet": [
+        "Food and Drug Administration"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23MILK-ktgb/23MILK-ktgb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soy, almond and oat drinks, along with even newer plant-based options, are a popular staple on store shelves. ",
+          "copyright": "An Rong Xu for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23MILK-ktgb/23MILK-ktgb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soy, almond and oat drinks, along with even newer plant-based options, are a popular staple on store shelves. ",
+          "copyright": "An Rong Xu for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23MILK-ktgb/23MILK-ktgb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soy, almond and oat drinks, along with even newer plant-based options, are a popular staple on store shelves. ",
+          "copyright": "An Rong Xu for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IPuYHP"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "New York\u2019s New Breed of Diners",
+      "abstract": "A few new (and sometimes old) restaurants that are breathing life into the diner as we know it. ",
+      "url": "https://www.nytimes.com/interactive/2023/02/23/dining/where-to-eat-diner.html",
+      "uri": "nyt://interactive/c7d703b8-1347-5356-bd45-2f35a7999fa6",
+      "byline": "",
+      "item_type": "Interactive",
+      "updated_date": "2023-02-24T15:46:10-05:00",
+      "created_date": "2023-02-23T16:03:42-05:00",
+      "published_date": "2023-02-23T16:03:42-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/07/multimedia/07rest-s-and-p6-burst/06rest-s-and-p6-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lanna Apisukh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/12/07/multimedia/07rest-s-and-p6-burst/06rest-s-and-p6-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lanna Apisukh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/12/07/multimedia/07rest-s-and-p6-burst/06rest-s-and-p6-1-4526-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lanna Apisukh for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Kz3sQc"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "What Nutritional Yeast Can Do for You",
+      "abstract": "Nutritional yeast takes these dressings, toppings and seasoning blends up a notch.",
+      "url": "https://www.nytimes.com/2023/02/23/dining/nutritional-yeast-recipes.html",
+      "uri": "nyt://article/b3366837-004e-5577-86b2-554ebf151e05",
+      "byline": "By Tanya Sichynsky",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T13:01:59-05:00",
+      "created_date": "2023-02-23T13:00:10-05:00",
+      "published_date": "2023-02-23T13:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service",
+        "Recipes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/27/dining/27Pasta-Swiss-Chard-copy/merlin_169350135_e79fcb6e-cda0-4d5b-87d6-787b4870fbd1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/01/27/dining/27Pasta-Swiss-Chard-copy/merlin_169350135_e79fcb6e-cda0-4d5b-87d6-787b4870fbd1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/01/27/dining/27Pasta-Swiss-Chard-copy/27Pasta-Swiss-Chard-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Y1ubI6"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "Mushroom Boom: How to Plan a Foraging Adventure on the West Coast",
+      "abstract": "Thanks to an unusually wet winter, mushroom hunters in the San Francisco Bay Area and beyond will be greatly rewarded. Here\u2019s a primer for first-timers.",
+      "url": "https://www.nytimes.com/2023/02/23/travel/mushroom-foraging-west.html",
+      "uri": "nyt://article/a4353bc8-4af6-5c8a-aa4f-9e405c79fb6e",
+      "byline": "By Lauren Sloss",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T11:38:17-05:00",
+      "created_date": "2023-02-23T05:00:10-05:00",
+      "published_date": "2023-02-23T05:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Mushrooms",
+        "Travel and Vacations",
+        "Content Type: Service",
+        "Forests and Forestry"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "San Francisco Bay Area (Calif)",
+        "California",
+        "Pacific Northwestern States (US)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23travel-mushroom-foraging-cwqp/23travel-mushroom-foraging-cwqp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Will Matsuda for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23travel-mushroom-foraging-cwqp/23travel-mushroom-foraging-cwqp-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Will Matsuda for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23travel-mushroom-foraging-cwqp/23travel-mushroom-foraging-cwqp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Will Matsuda for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IkaS74"
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Want That Coffee With Olive Oil? Starbucks Thinks Italians Will.",
+      "abstract": "The company has amassed an audience in Italy, and now it is betting on two very Italian ingredients.",
+      "url": "https://www.nytimes.com/2023/02/22/world/europe/starbucks-olive-oil-coffee-italy.html",
+      "uri": "nyt://article/aca1f36d-2311-507b-9d33-6b04d382bbd1",
+      "byline": "By Elisabetta Povoledo",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T08:59:09-05:00",
+      "created_date": "2023-02-22T16:54:16-05:00",
+      "published_date": "2023-02-22T16:54:16-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Olive Oil",
+        "Coffee"
+      ],
+      "org_facet": [
+        "Starbucks Corporation"
+      ],
+      "per_facet": [
+        "Schultz, Howard D"
+      ],
+      "geo_facet": [
+        "Italy",
+        "Milan (Italy)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22italy-starbucks1-jvcg/22italy-starbucks1-jvcg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olive oil on display at a Starbucks in Milan on Wednesday. The company has introduced a line of coffee drinks that include olive oil, but the general population has yet to try them.",
+          "copyright": "Alex Fraser/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22italy-starbucks1-jvcg/22italy-starbucks1-jvcg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olive oil on display at a Starbucks in Milan on Wednesday. The company has introduced a line of coffee drinks that include olive oil, but the general population has yet to try them.",
+          "copyright": "Alex Fraser/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22italy-starbucks1-jvcg/22italy-starbucks1-jvcg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olive oil on display at a Starbucks in Milan on Wednesday. The company has introduced a line of coffee drinks that include olive oil, but the general population has yet to try them.",
+          "copyright": "Alex Fraser/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/41koyaH"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "How to Cook for Unexpected Guests",
+      "abstract": "Squash and chickpea stew, all kinds of baked potatoes and more recipes.",
+      "url": "https://www.nytimes.com/2023/02/22/dining/how-to-cook-for-unexpected-guests.html",
+      "uri": "nyt://article/b144104d-7087-59e4-8c7c-b4ee8611f9d5",
+      "byline": "By Melissa Clark",
+      "item_type": "Article",
+      "updated_date": "2023-02-22T11:00:03-05:00",
+      "created_date": "2023-02-22T11:00:03-05:00",
+      "published_date": "2023-02-22T11:00:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/13/multimedia/kc-squash-and-chickpea-stew-with-lemongrass-gmpl-copy/kc-squash-and-chickpea-stew-with-lemongrass-gmpl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bobbi Lin for The New York Times. Food Stylist: Eugene Jho."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/13/multimedia/kc-squash-and-chickpea-stew-with-lemongrass-gmpl-copy/kc-squash-and-chickpea-stew-with-lemongrass-gmpl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bobbi Lin for The New York Times. Food Stylist: Eugene Jho."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/13/multimedia/kc-squash-and-chickpea-stew-with-lemongrass-gmpl-copy/kc-squash-and-chickpea-stew-with-lemongrass-gmpl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bobbi Lin for The New York Times. Food Stylist: Eugene Jho."
+        }
+      ],
+      "short_url": "https://nyti.ms/41gBlep"
+    },
+    {
+      "section": "magazine",
+      "subsection": "",
+      "title": "This Fried Rice Is a Fridge-Raid Meal and a Party Dish",
+      "abstract": "Pepper Teigen\u2019s rolicking recipe fuses the fruity warmth of Thai chiles and the sweet tartness of fresh pineapple.",
+      "url": "https://www.nytimes.com/2023/02/22/magazine/pineapple-fried-rice-recipe.html",
+      "uri": "nyt://article/0a4d26b2-2459-57cc-844c-8af01580298c",
+      "byline": "By Eric Kim",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T07:33:50-05:00",
+      "created_date": "2023-02-22T05:00:32-05:00",
+      "published_date": "2023-02-22T05:00:32-05:00",
+      "material_type_facet": "",
+      "kicker": "Eat",
+      "des_facet": [
+        "Thai Food (Cuisine)",
+        "Cooking and Cookbooks",
+        "Recipes",
+        "Pepper (Spice)",
+        "Pineapples",
+        "audio-neutral-informative",
+        "audio-neutral-immersive"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Teigen, Chrissy"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/magazine/26mag-eat/26mag-eat-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1541,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/magazine/26mag-eat/26mag-eat-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/magazine/26mag-eat/26mag-eat-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        }
+      ],
+      "short_url": "https://nyti.ms/3ILBZJN"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "The Next Generation of New York Diners",
+      "abstract": "The aesthetics are familiar, but the menus go beyond your standard egg plate.",
+      "url": "https://www.nytimes.com/2023/02/21/dining/the-next-generation-of-new-york-diners.html",
+      "uri": "nyt://article/85b65597-18b2-54af-801f-e40b7c3c1f5e",
+      "byline": "By Nikita Richardson",
+      "item_type": "Article",
+      "updated_date": "2023-02-21T23:54:27-05:00",
+      "created_date": "2023-02-21T16:00:03-05:00",
+      "published_date": "2023-02-21T16:00:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Restaurants",
+        "internal-sub-only-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21wte-diners-02-cvlq/21wte-diners-02-cvlq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Baby Blues Luncheonette, in Brooklyn, is a modern Greek diner.",
+          "copyright": "Jacob Marsiglia"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21wte-diners-02-cvlq/21wte-diners-02-cvlq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Baby Blues Luncheonette, in Brooklyn, is a modern Greek diner.",
+          "copyright": "Jacob Marsiglia"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21wte-diners-02-cvlq/21wte-diners-02-cvlq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Baby Blues Luncheonette, in Brooklyn, is a modern Greek diner.",
+          "copyright": "Jacob Marsiglia"
+        }
+      ],
+      "short_url": "https://nyti.ms/3YSJ9kT"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Soups to Soothe the Sighs of the Season",
+      "abstract": "A ginger-tamarind vegetable soup from Yewande Komolafe is your first line of defense for the winter blahs.",
+      "url": "https://www.nytimes.com/2023/02/20/dining/soups-to-soothe-the-sighs-of-the-season.html",
+      "uri": "nyt://article/2da47fdf-e17f-538e-a142-e634ef1e2b33",
+      "byline": "By Melissa Clark",
+      "item_type": "Article",
+      "updated_date": "2023-02-20T11:00:02-05:00",
+      "created_date": "2023-02-20T11:00:02-05:00",
+      "published_date": "2023-02-20T11:00:02-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/17komolaferex-soup-czgw/17komolaferex-soup-czgw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill. Prop Stylist: Paige Hicks."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/17komolaferex-soup-czgw/17komolaferex-soup-czgw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill. Prop Stylist: Paige Hicks."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/17komolaferex-soup-czgw/17komolaferex-soup-czgw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill. Prop Stylist: Paige Hicks."
+        }
+      ],
+      "short_url": "https://nyti.ms/3kfqv7W"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "The Chefs Who Have Buenos Aires (Reluctantly) Waiting in Line",
+      "abstract": "Local Argentine ingredients are the stars on the menus in a city that feels almost jubilant after long Covid lockdowns, and of course, the victory of a certain soccer team.",
+      "url": "https://www.nytimes.com/2023/02/20/travel/buenos-aires-restaurants-chefs.html",
+      "uri": "nyt://article/b02665bc-1b3b-5582-a549-5efd3a1cb250",
+      "byline": "By Nora Walsh",
+      "item_type": "Article",
+      "updated_date": "2023-02-20T05:00:25-05:00",
+      "created_date": "2023-02-20T05:00:25-05:00",
+      "published_date": "2023-02-20T05:00:25-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Restaurants",
+        "Chefs",
+        "Travel and Vacations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Buenos Aires (Argentina)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/02/travel/00buenos-aires-dining-mengano/00buenos-aires-dining-mengano-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For Mengano, Facundo Kelemen reimagined a classic Buenos Aires neighborhood restaurant, or bodeg\u00f3n.",
+          "copyright": "Eduardo Torres"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/02/travel/00buenos-aires-dining-mengano/00buenos-aires-dining-mengano-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For Mengano, Facundo Kelemen reimagined a classic Buenos Aires neighborhood restaurant, or bodeg\u00f3n.",
+          "copyright": "Eduardo Torres"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/02/travel/00buenos-aires-dining-mengano/00buenos-aires-dining-mengano-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For Mengano, Facundo Kelemen reimagined a classic Buenos Aires neighborhood restaurant, or bodeg\u00f3n.",
+          "copyright": "Eduardo Torres"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Z6SLbF"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "What to Cook This Week",
+      "abstract": "Bacon, egg and cheese fried rice, pan-seared pork chops with charred pineapple and more recipes.",
+      "url": "https://www.nytimes.com/2023/02/19/dining/what-to-cook-this-week.html",
+      "uri": "nyt://article/295efcf3-2c70-5fdf-8ce4-058c8d51f3df",
+      "byline": "By Sam Sifton",
+      "item_type": "Article",
+      "updated_date": "2023-02-19T11:00:03-05:00",
+      "created_date": "2023-02-19T11:00:03-05:00",
+      "published_date": "2023-02-19T11:00:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/07/dining/06croissantsrex4-almond/merlin_184842117_321090da-ce3a-4c4d-9e6a-3461506a39d3-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Johnny Miller for The New York Times. Food Stylist: Laurie Ellen Pellicano."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/07/dining/06croissantsrex4-almond/merlin_184842117_321090da-ce3a-4c4d-9e6a-3461506a39d3-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Johnny Miller for The New York Times. Food Stylist: Laurie Ellen Pellicano."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/07/dining/06croissantsrex4-almond/06croissantsrex4-almond-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Johnny Miller for The New York Times. Food Stylist: Laurie Ellen Pellicano."
+        }
+      ],
+      "short_url": "https://nyti.ms/3xAstTm"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "William Greenberg Jr., Baker Who Sweetened Manhattan, Dies at 97",
+      "abstract": "He used poker winnings to open a modest bakery in 1946 that grew into an artisanal dessert empire, tempting New Yorkers of all ages.",
+      "url": "https://www.nytimes.com/2023/02/17/dining/william-greenberg-jr-dead.html",
+      "uri": "nyt://article/ef4e7608-fee4-57cb-8a77-81002e42e8c6",
+      "byline": "By Penelope Green",
+      "item_type": "Article",
+      "updated_date": "2023-02-19T22:12:11-05:00",
+      "created_date": "2023-02-17T19:47:22-05:00",
+      "published_date": "2023-02-17T19:47:22-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cakes",
+        "Deaths (Obituaries)",
+        "Bakeries and Baked Products",
+        "Cookies"
+      ],
+      "org_facet": [
+        "Greenberg, William, Desserts"
+      ],
+      "per_facet": [
+        "Greenberg, William Jr"
+      ],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16Greenberg1-tfzg/16Greenberg1-tfzg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "William Greenberg Jr. wielding his pastry gun to embellish a colossus of a cake created for President Bill Clinton\u2019s 50th birthday in 1996. Mr. Greenberg was a maestro of frosting and cake decoration.",
+          "copyright": "via Greenberg family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16Greenberg1-tfzg/16Greenberg1-tfzg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "William Greenberg Jr. wielding his pastry gun to embellish a colossus of a cake created for President Bill Clinton\u2019s 50th birthday in 1996. Mr. Greenberg was a maestro of frosting and cake decoration.",
+          "copyright": "via Greenberg family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16Greenberg1-tfzg/16Greenberg1-tfzg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "William Greenberg Jr. wielding his pastry gun to embellish a colossus of a cake created for President Bill Clinton\u2019s 50th birthday in 1996. Mr. Greenberg was a maestro of frosting and cake decoration.",
+          "copyright": "via Greenberg family"
+        }
+      ],
+      "short_url": "https://nyti.ms/3k83OSY"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "The Charm of Parm",
+      "abstract": "Kay Chun\u2019s shortcut recipe for eggplant Parmesan pasta puts the intense pleasure of the original within easy reach.",
+      "url": "https://www.nytimes.com/2023/02/17/dining/the-charm-of-parm.html",
+      "uri": "nyt://article/dfb24bb9-6e9b-5616-8908-07d44f675afc",
+      "byline": "By Emily Weinstein",
+      "item_type": "Article",
+      "updated_date": "2023-02-17T13:00:03-05:00",
+      "created_date": "2023-02-17T13:00:03-05:00",
+      "published_date": "2023-02-17T13:00:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service",
+        "Recipes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/04/05/dining/kc-eggplant-parmesan-pasta/kc-eggplant-parmesan-pasta-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dane Tashima for The New York Times. Food Stylist: Monica Pierini."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/04/05/dining/kc-eggplant-parmesan-pasta/kc-eggplant-parmesan-pasta-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dane Tashima for The New York Times. Food Stylist: Monica Pierini."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/04/05/dining/kc-eggplant-parmesan-pasta/kc-eggplant-parmesan-pasta-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dane Tashima for The New York Times. Food Stylist: Monica Pierini."
+        }
+      ],
+      "short_url": "https://nyti.ms/3Idpbdw"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "What to Cook This Weekend",
+      "abstract": "Make one-pan paprika chicken with lentils and squash, what Yotam Ottolenghi calls a \u201ctray bake.\u201d",
+      "url": "https://www.nytimes.com/2023/02/17/dining/what-to-cook-this-weekend.html",
+      "uri": "nyt://article/5de81959-9a8a-5d7c-b7df-9c8251221c5b",
+      "byline": "By Sam Sifton",
+      "item_type": "Article",
+      "updated_date": "2023-02-17T11:00:03-05:00",
+      "created_date": "2023-02-17T11:00:03-05:00",
+      "published_date": "2023-02-17T11:00:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19EAT-one-pan-paprika-chicken-qbtf-copy/19EAT-one-pan-paprika-chicken-qbtf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19EAT-one-pan-paprika-chicken-qbtf-copy/19EAT-one-pan-paprika-chicken-qbtf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19EAT-one-pan-paprika-chicken-qbtf-copy/19EAT-one-pan-paprika-chicken-qbtf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        }
+      ],
+      "short_url": "https://nyti.ms/3XE9YrJ"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Canned Tomatoes, Explained",
+      "abstract": "Whole peeled, crushed, pur\u00e9ed or paste? There\u2019s a time and a place for each.",
+      "url": "https://www.nytimes.com/2023/02/16/dining/canned-tomatoes-explained.html",
+      "uri": "nyt://article/1bbc3f56-c693-573a-afc7-c553e8aab93f",
+      "byline": "By Tanya Sichynsky",
+      "item_type": "Article",
+      "updated_date": "2023-02-21T15:23:05-05:00",
+      "created_date": "2023-02-16T13:00:04-05:00",
+      "published_date": "2023-02-16T13:00:04-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service",
+        "Recipes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/11/02/dining/26apperex-paneer-copy/merlin_214834068_c444213c-c828-463a-9824-9a4e7b1f40f9-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/11/02/dining/26apperex-paneer-copy/merlin_214834068_c444213c-c828-463a-9824-9a4e7b1f40f9-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/11/02/dining/26apperex-paneer-copy/merlin_214834068_c444213c-c828-463a-9824-9a4e7b1f40f9-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        }
+      ],
+      "short_url": "https://nyti.ms/3S3k8kq"
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "The Sculptor Crafting Works From Naturally Felled Wood",
+      "abstract": "Plus: a Cape Town ramen restaurant, an exhibition of Larry Stanton\u2019s portraits and more recommendations from T Magazine.",
+      "url": "https://www.nytimes.com/2023/02/16/t-magazine/vince-skelly-wood-sculpture.html",
+      "uri": "nyt://article/e85f7c4f-28a5-5c85-b62a-f5925935ecb1",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2023-02-16T09:00:11-05:00",
+      "created_date": "2023-02-16T09:00:11-05:00",
+      "published_date": "2023-02-16T09:00:11-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Sculpture",
+        "Noodles",
+        "Jewels and Jewelry",
+        "Hotels and Travel Lodgings"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/t-magazine/15tmag-newsletter-slide-Y2OS-copy/15tmag-newsletter-slide-Y2OS-copy-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carved from naturally felled trees, Vince Skelly\u2019s pieces bridge sculpture and function, nodding to traditions of wood carving both ancient and modern.",
+          "copyright": "Courtesy of Vince Skelly"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/t-magazine/15tmag-newsletter-slide-Y2OS-copy/15tmag-newsletter-slide-Y2OS-copy-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carved from naturally felled trees, Vince Skelly\u2019s pieces bridge sculpture and function, nodding to traditions of wood carving both ancient and modern.",
+          "copyright": "Courtesy of Vince Skelly"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/t-magazine/15tmag-newsletter-slide-Y2OS-copy/15tmag-newsletter-slide-Y2OS-copy-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carved from naturally felled trees, Vince Skelly\u2019s pieces bridge sculpture and function, nodding to traditions of wood carving both ancient and modern.",
+          "copyright": "Courtesy of Vince Skelly"
+        }
+      ],
+      "short_url": "https://nyti.ms/3XDzHAx"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "At This Mexican Restaurant, Everyone is Family",
+      "abstract": "Sarapes isn\u2019t just a place to be physically fed. It\u2019s an emotional and spiritual hub that brings a community together.",
+      "url": "https://www.nytimes.com/interactive/2023/02/16/style/mexican-family-restaurant-connecticut.html",
+      "uri": "nyt://interactive/52cc2c47-71c8-57a9-98d4-d13426464072",
+      "byline": "By Adrian Martinez Chavez and Melissa Guerrero",
+      "item_type": "Interactive",
+      "updated_date": "2023-02-23T10:40:46-05:00",
+      "created_date": "2023-02-16T05:00:04-05:00",
+      "published_date": "2023-02-16T05:00:04-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "vis-photo",
+        "Restaurants",
+        "Mexican-Americans",
+        "Family Business",
+        "Friendship",
+        "Generation Z"
+      ],
+      "org_facet": [
+        "Sarapes Mexican Restaurant (Enfield, Conn)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Enfield (Conn)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/02/multimedia/00HOME-RESTAURANT-01-vgjb/00HOME-RESTAURANT-01-vgjb-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Adrian Martinez Chavez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/02/multimedia/00HOME-RESTAURANT-01-vgjb/00HOME-RESTAURANT-01-vgjb-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Adrian Martinez Chavez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/02/multimedia/00HOME-RESTAURANT-01-vgjb/00HOME-RESTAURANT-01-vgjb-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Adrian Martinez Chavez for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3S2442m"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Sheet Cakes Are the Best Cakes (and These 11 Recipes Prove It)",
+      "abstract": "They\u2019re low fuss, feed a crowd and travel well.",
+      "url": "https://www.nytimes.com/article/best-sheet-cake-recipes.html",
+      "uri": "nyt://article/2c67c147-b595-50ee-a8a7-a03c4cf15eb9",
+      "byline": "By Margaux Laskey",
+      "item_type": "Article",
+      "updated_date": "2023-02-15T16:40:54-05:00",
+      "created_date": "2023-02-15T16:40:54-05:00",
+      "published_date": "2023-02-15T16:40:54-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cakes",
+        "Bakeries and Baked Products",
+        "Cooking and Cookbooks"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16SHEETCAKES-ROUNDUP-lgfk/16SHEETCAKES-ROUNDUP-lgfk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "These easy recipes, like the one for this yellow sheet cake with chocolate frosting, may have you making cake all the more frequently.",
+          "copyright": "Johnny Miller for The New York Times. Food Stylist: Susan Spungen."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16SHEETCAKES-ROUNDUP-lgfk/16SHEETCAKES-ROUNDUP-lgfk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "These easy recipes, like the one for this yellow sheet cake with chocolate frosting, may have you making cake all the more frequently.",
+          "copyright": "Johnny Miller for The New York Times. Food Stylist: Susan Spungen."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16SHEETCAKES-ROUNDUP-lgfk/16SHEETCAKES-ROUNDUP-lgfk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "These easy recipes, like the one for this yellow sheet cake with chocolate frosting, may have you making cake all the more frequently.",
+          "copyright": "Johnny Miller for The New York Times. Food Stylist: Susan Spungen."
+        }
+      ],
+      "short_url": "https://nyti.ms/3YCEjIC"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Winter Citrus and Harissa Chicken",
+      "abstract": "Notes on marmalade and Yewande Komolafe\u2019s new spicy recipe with caramelized dates and navel oranges.",
+      "url": "https://www.nytimes.com/2023/02/15/dining/winter-citrus-and-harissa-chicken.html",
+      "uri": "nyt://article/cad83e0d-03b3-5bd3-a651-098a19453b4b",
+      "byline": "By Melissa Clark",
+      "item_type": "Article",
+      "updated_date": "2023-02-15T11:00:05-05:00",
+      "created_date": "2023-02-15T11:00:05-05:00",
+      "published_date": "2023-02-15T11:00:05-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/13/multimedia/yk-harissa-chicken-lhtw-copy/yk-harissa-chicken-lhtw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Armando Rafael for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/13/multimedia/yk-harissa-chicken-lhtw-copy/yk-harissa-chicken-lhtw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Armando Rafael for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/13/multimedia/yk-harissa-chicken-lhtw-copy/yk-harissa-chicken-lhtw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Armando Rafael for The New York Times. Food Stylist: Simon Andrews."
+        }
+      ],
+      "short_url": "https://nyti.ms/3YPYVga"
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "Pasta That\u2019s Almost Too Pretty to Eat",
+      "abstract": "Plus: illuminated sculptures inspired by Indigenous motifs, elegant ballet slippers and more from T\u2019s cultural compendium.",
+      "url": "https://www.nytimes.com/2023/02/15/t-magazine/rainbow-pasta-ballet-slippers-klove-studio.html",
+      "uri": "nyt://article/1e34eb56-7278-5222-a5b2-fc7c09989326",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2023-02-16T22:33:09-05:00",
+      "created_date": "2023-02-15T07:00:10-05:00",
+      "published_date": "2023-02-15T07:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "People, PLaces, Things",
+      "des_facet": [
+        "Pasta",
+        "Cooking and Cookbooks",
+        "Furniture",
+        "Fashion and Apparel"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Amsterdam (Netherlands)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/t-magazine/15tmag-ppt-slide-3QDV-copy/15tmag-ppt-slide-3QDV-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left: Jennifer Tran used ingredients such as turmeric, beetroot and spinach to color her lasagna noodles. Right: Fiona Afshar\u2019s rainbow-bright paccheri.",
+          "copyright": "From left: Jennifer Tran; Fiona Afshar"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/t-magazine/15tmag-ppt-slide-3QDV-copy/15tmag-ppt-slide-3QDV-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left: Jennifer Tran used ingredients such as turmeric, beetroot and spinach to color her lasagna noodles. Right: Fiona Afshar\u2019s rainbow-bright paccheri.",
+          "copyright": "From left: Jennifer Tran; Fiona Afshar"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/t-magazine/15tmag-ppt-slide-3QDV-copy/15tmag-ppt-slide-3QDV-copy-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left: Jennifer Tran used ingredients such as turmeric, beetroot and spinach to color her lasagna noodles. Right: Fiona Afshar\u2019s rainbow-bright paccheri.",
+          "copyright": "From left: Jennifer Tran; Fiona Afshar"
+        }
+      ],
+      "short_url": "https://nyti.ms/40XKY1p"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "Exploring South Africa\u2019s Black Wine Scene",
+      "abstract": "White South Africans control a vast majority of the country\u2019s wine industry. But it\u2019s growing increasingly possible to support Black winemakers and owners.",
+      "url": "https://www.nytimes.com/2023/02/15/travel/black-south-african-wine.html",
+      "uri": "nyt://article/d1518f55-3db0-5216-a011-4f6a3f942dda",
+      "byline": "By John Eligon",
+      "item_type": "Article",
+      "updated_date": "2023-02-19T13:26:55-05:00",
+      "created_date": "2023-02-15T05:00:31-05:00",
+      "published_date": "2023-02-15T05:00:31-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Wines",
+        "Black People",
+        "Travel and Vacations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Stellenbosch (South Africa)",
+        "Cape Town (South Africa)",
+        "Franschhoek (South Africa)",
+        "Khayelitsha (South Africa)",
+        "South Africa"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15-south-african-wine-jpqb/15-south-african-wine-jpqb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fiona Masuku sniffs a wine at Great Heart Wines in Franschhoek, South Africa, as part of a tour of wineries with Black owners or winemakers.",
+          "copyright": "Samantha Reinders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15-south-african-wine-jpqb/15-south-african-wine-jpqb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fiona Masuku sniffs a wine at Great Heart Wines in Franschhoek, South Africa, as part of a tour of wineries with Black owners or winemakers.",
+          "copyright": "Samantha Reinders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15-south-african-wine-jpqb/15-south-african-wine-jpqb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fiona Masuku sniffs a wine at Great Heart Wines in Franschhoek, South Africa, as part of a tour of wineries with Black owners or winemakers.",
+          "copyright": "Samantha Reinders for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IzpbGp"
+    },
+    {
+      "section": "magazine",
+      "subsection": "",
+      "title": "Yotam Ottolenghi\u2019s Secret to Great Sheet-Pan Chicken",
+      "abstract": "This balanced paprika chicken dish is the perfect time to play with textures.",
+      "url": "https://www.nytimes.com/2023/02/15/magazine/one-pan-paprika-chicken-recipe.html",
+      "uri": "nyt://article/3518523a-4f13-53c3-90be-d820bb322d4f",
+      "byline": "By Yotam Ottolenghi",
+      "item_type": "Article",
+      "updated_date": "2023-02-17T07:17:07-05:00",
+      "created_date": "2023-02-15T05:00:23-05:00",
+      "published_date": "2023-02-15T05:00:23-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Paprika",
+        "Chickens",
+        "Recipes",
+        "Cooking and Cookbooks"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/19/magazine/19mag-eat/19mag-eat-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1540,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/19/magazine/19mag-eat/19mag-eat-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/19/magazine/19mag-eat/19mag-eat-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        }
+      ],
+      "short_url": "https://nyti.ms/3K4qEpb"
+    }
+  ]
+}

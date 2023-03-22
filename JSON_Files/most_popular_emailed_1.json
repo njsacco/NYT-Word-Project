@@ -1,0 +1,1220 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/d27c4e38-536c-5f4b-a737-459c2e57affd",
+      "url": "https://www.nytimes.com/2023/02/23/climate/renewable-energy-us-electrical-grid.html",
+      "id": 100000008564221,
+      "asset_id": 100000008564221,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 09:34:40",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "Electric Light and Power;Alternative and Renewable Energy;Solar Energy;Wind Power;Batteries;Global Warming;Greenhouse Gas Emissions;Regulation and Deregulation of Industry;Infrastructure (Public Works);United States Politics and Government;PJM Interconnection;United States",
+      "column": null,
+      "byline": "By Brad Plumer",
+      "type": "Article",
+      "title": "The U.S. Has Billions for Wind and Solar Projects. Good Luck Plugging Them In.",
+      "abstract": "An explosion in proposed clean energy ventures has overwhelmed the system for connecting new power sources to homes and businesses.",
+      "des_facet": [
+        "Electric Light and Power",
+        "Alternative and Renewable Energy",
+        "Solar Energy",
+        "Wind Power",
+        "Batteries",
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Regulation and Deregulation of Industry",
+        "Infrastructure (Public Works)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "PJM Interconnection"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pouring concrete for a wind turbine in Nebraska. More than 8,100 energy projects were waiting for permission to connect to electric grids at the end of 2021.",
+          "copyright": "Walker Pickering for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/00cli-bottlenecks-01-gvkt/00cli-bottlenecks-01-gvkt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/00cli-bottlenecks-01-gvkt/00cli-bottlenecks-01-gvkt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/00cli-bottlenecks-01-gvkt/00cli-bottlenecks-01-gvkt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4a14eedf-eec6-5720-8c12-1fe365de7715",
+      "url": "https://www.nytimes.com/2023/02/17/well/move/pelvic-floor-exercise-kegels.html",
+      "id": 100000008594278,
+      "asset_id": 100000008594278,
+      "source": "New York Times",
+      "published_date": "2023-02-17",
+      "updated": "2023-02-22 09:52:01",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Content Type: Service;Muscles;Exercise;Pregnancy and Childbirth;Pelvis;Hips;Women and Girls",
+      "column": null,
+      "byline": "By Danielle Friedman",
+      "type": "Article",
+      "title": "Every Woman Can Benefit From This Pelvic Floor Workout",
+      "abstract": "It\u2019s time to show these overlooked muscles more love.",
+      "des_facet": [
+        "Content Type: Service",
+        "Muscles",
+        "Exercise",
+        "Pregnancy and Childbirth",
+        "Pelvis",
+        "Hips",
+        "Women and Girls"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gritchelle Fallesgon for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26WNT-PELVIC-FLOOR-EXERCISES1-czbk/26WNT-PELVIC-FLOOR-EXERCISES1-czbk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26WNT-PELVIC-FLOOR-EXERCISES1-czbk/26WNT-PELVIC-FLOOR-EXERCISES1-czbk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26WNT-PELVIC-FLOOR-EXERCISES1-czbk/26WNT-PELVIC-FLOOR-EXERCISES1-czbk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0b584f7a-6770-5b15-84e4-443b5e3ff29e",
+      "url": "https://www.nytimes.com/2023/02/23/opinion/jimmy-carter-malaise-speech.html",
+      "id": 100000008784049,
+      "asset_id": 100000008784049,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 10:30:08",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Speeches and Statements;Polls and Public Opinion;Nineteen Hundred Seventies;Assassinations and Attempted Assassinations;United States Economy;United States Politics and Government;Oil (Petroleum) and Gasoline;Shortages;internal-sub-only-nl;Carter, Jimmy",
+      "column": null,
+      "byline": "By David French",
+      "type": "Article",
+      "title": "The Wisdom and Prophecy of Jimmy Carter\u2019s \u2018Malaise\u2019 Speech",
+      "abstract": "The irony is that it is better attuned to our time than to its own.",
+      "des_facet": [
+        "Speeches and Statements",
+        "Polls and Public Opinion",
+        "Nineteen Hundred Seventies",
+        "Assassinations and Attempted Assassinations",
+        "United States Economy",
+        "United States Politics and Government",
+        "Oil (Petroleum) and Gasoline",
+        "Shortages",
+        "internal-sub-only-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Carter, Jimmy"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Ricardo Tom\u00e1s; photograph by Bettmann/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/25/opinion/23french-newsletter-image/23french-newsletter-image-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/25/opinion/23french-newsletter-image/23french-newsletter-image-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/25/opinion/23french-newsletter-image/23french-newsletter-image-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/32a0e50d-1f59-5076-b3e4-c6f6579cf2d2",
+      "url": "https://www.nytimes.com/2023/02/23/arts/design/the-new-vermeer-tv-show.html",
+      "id": 100000008781531,
+      "asset_id": 100000008781531,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 12:03:10",
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "nytdsection": "arts",
+      "adx_keywords": "Television;Art;Reality Television;Vermeer, Jan;Rijksmuseum",
+      "column": null,
+      "byline": "By Nina Siegal",
+      "type": "Article",
+      "title": "How Hard Is It to Paint Like Vermeer? TV Contestants Find Out.",
+      "abstract": "Amateur and professional artists are competing to recreate some of the old master\u2019s lost works in a Dutch reality show that coincides with a blockbuster Vermeer exhibition in Amsterdam.",
+      "des_facet": [
+        "Television",
+        "Art",
+        "Reality Television"
+      ],
+      "org_facet": [
+        "Rijksmuseum"
+      ],
+      "per_facet": [
+        "Vermeer, Jan"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pieter Roelofs, a curator at the Rijksmuseum in Amsterdam and judge on \u201cThe New Vermeer,\u201d a TV show combining highbrow culture and mass entertainment that has been a sensation in the Netherlands.",
+          "copyright": "Mark de Blok/MAX",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23VERMEER-TV-01-lvzg/23VERMEER-TV-01-lvzg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23VERMEER-TV-01-lvzg/23VERMEER-TV-01-lvzg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23VERMEER-TV-01-lvzg/23VERMEER-TV-01-lvzg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f907ab65-dc83-5772-b5cf-a74cc8e481b2",
+      "url": "https://www.nytimes.com/article/winter-vegetables-recipes.html",
+      "id": 100000008781723,
+      "asset_id": 100000008781723,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-23 14:33:59",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Vegetables;Cooking and Cookbooks;Content Type: Service",
+      "column": null,
+      "byline": "By Tanya Sichynsky",
+      "type": "Article",
+      "title": "11 Winter Weeknight Vegetarian Recipes to Try Before the Season Ends",
+      "abstract": "Summer produce may get all of the glory, but these cool-weather recipes make winter vegetables exciting and bright.",
+      "des_facet": [
+        "Vegetables",
+        "Cooking and Cookbooks",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexa Weibel\u2019s creamy Swiss chard pasta with leeks, tarragon and lemon zest.",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/27/dining/22WinterVeg-Roundup-Pasta-Lede/27Pasta-Swiss-Chard-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/27/dining/22WinterVeg-Roundup-Pasta-Lede/merlin_169350135_e79fcb6e-cda0-4d5b-87d6-787b4870fbd1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/27/dining/22WinterVeg-Roundup-Pasta-Lede/merlin_169350135_e79fcb6e-cda0-4d5b-87d6-787b4870fbd1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e733fdf3-1701-5d30-95f2-048816f78604",
+      "url": "https://www.nytimes.com/2023/02/23/us/kentucky-revival-asbury-university.html",
+      "id": 100000008779823,
+      "asset_id": 100000008779823,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 10:33:47",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Christians and Christianity;Colleges and Universities;Generation Z;internal-sub-only;Asbury University;Wilmore (Ky)",
+      "column": null,
+      "byline": "By Ruth Graham and Jesse Barber",
+      "type": "Article",
+      "title": "\u2018Woodstock\u2019 for Christians: Revival Draws Thousands to Kentucky Town",
+      "abstract": "Over two weeks, more than 50,000 people descended on a small campus chapel to experience the nation\u2019s first major spiritual revival in decades \u2014 one driven by Gen Z.",
+      "des_facet": [
+        "Christians and Christianity",
+        "Colleges and Universities",
+        "Generation Z",
+        "internal-sub-only"
+      ],
+      "org_facet": [
+        "Asbury University"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Wilmore (Ky)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students leading worship inside Hughes Chapel on the campus of Asbury University.",
+          "copyright": " ",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/us/00NAT-ASBURY-REVIVAL-top/00NAT-ASBURY-REVIVAL-top-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/us/00NAT-ASBURY-REVIVAL-top/00NAT-ASBURY-REVIVAL-top-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/us/00NAT-ASBURY-REVIVAL-top/00NAT-ASBURY-REVIVAL-top-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3be7cb92-6f32-51fe-b158-3589b51d9d0c",
+      "url": "https://www.nytimes.com/2023/02/24/opinion/social-media-and-teen-depression.html",
+      "id": 100000008784066,
+      "asset_id": 100000008784066,
+      "source": "New York Times",
+      "published_date": "2023-02-24",
+      "updated": "2023-02-25 12:36:41",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Teenagers and Adolescence;Depression (Mental);Social Media;Conservatism (US Politics);Liberalism (US Politics);United States Politics and Government;Research;Haidt, Jonathan;Twenge, Jean W",
+      "column": null,
+      "byline": "By Michelle Goldberg",
+      "type": "Article",
+      "title": "Don\u2019t Let Politics Cloud Your View of What\u2019s Going On With Teens and Depression",
+      "abstract": "Josh Hawley may be right about this one thing.",
+      "des_facet": [
+        "Teenagers and Adolescence",
+        "Depression (Mental)",
+        "Social Media",
+        "Conservatism (US Politics)",
+        "Liberalism (US Politics)",
+        "United States Politics and Government",
+        "Research"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Haidt, Jonathan",
+        "Twenge, Jean W"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by The New York Times; photographs by 101Cats/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/25/opinion/24GOLDBERG_4/24GOLDBERG_4-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/25/opinion/24GOLDBERG_4/24GOLDBERG_4-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/25/opinion/24GOLDBERG_4/24GOLDBERG_4-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e92e986c-368f-5cd7-9177-a36b2b769493",
+      "url": "https://www.nytimes.com/2023/02/24/sports/spencer-boston-marathon-dog-obituary.html",
+      "id": 100000008783376,
+      "asset_id": 100000008783376,
+      "source": "New York Times",
+      "published_date": "2023-02-24",
+      "updated": "2023-02-25 13:02:07",
+      "section": "Sports",
+      "subsection": "",
+      "nytdsection": "sports",
+      "adx_keywords": "Dogs;Boston Marathon;Marathon Running;Boston (Mass)",
+      "column": null,
+      "byline": "By Talya Minsberg",
+      "type": "Article",
+      "title": "Spencer, the Dog for Whom Boston Marathoners Happily Stopped, Dies at 13",
+      "abstract": "The golden retriever drew hugs and selfies as the official dog of the Boston Marathon, and was \u201ctoo good not to share,\u201d his owner, Rich Powers, said.",
+      "des_facet": [
+        "Dogs",
+        "Boston Marathon",
+        "Marathon Running"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Boston (Mass)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rich Powers, left, with his dog Spencer and Tom Mosser, an artist who painted the dog\u2019s portrait and unveiled it earlier this year to honor his fight against cancer.",
+          "copyright": "David L. Ryan/The Boston Globe, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24running-spencer-obit-hqzb/24running-spencer-obit-hqzb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24running-spencer-obit-hqzb/24running-spencer-obit-hqzb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24running-spencer-obit-hqzb/24running-spencer-obit-hqzb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/06ff495f-e29d-5c56-8e49-65b4c6d9a3b6",
+      "url": "https://www.nytimes.com/2023/02/23/opinion/putin-ukraine-toughness.html",
+      "id": 100000008783290,
+      "asset_id": 100000008783290,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 10:08:55",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Conservatism (US Politics);Right-Wing Extremism and Alt-Right;Russian Invasion of Ukraine (2022);United States Politics and Government;Putin, Vladimir V;Republican Party;Russia;Ukraine",
+      "column": null,
+      "byline": "By Paul Krugman",
+      "type": "Article",
+      "title": "Putin and the Right\u2019s Tough-Guy Problem",
+      "abstract": "What if wokeness doesn\u2019t make you weak and swaggering does?",
+      "des_facet": [
+        "Conservatism (US Politics)",
+        "Right-Wing Extremism and Alt-Right",
+        "Russian Invasion of Ukraine (2022)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many people on the right equate being powerful with being a swaggering tough guy.",
+          "copyright": "Alexander Nemenov/Agence France-Presse &mdash; Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/24/multimedia/23krugman_1-plwh/23krugman_1-plwh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/24/multimedia/23krugman_1-plwh/23krugman_1-plwh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/24/multimedia/23krugman_1-plwh/23krugman_1-plwh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0b5ce209-b642-5e6a-817e-de9d4d4994dd",
+      "url": "https://www.nytimes.com/2023/02/24/realestate/florida-condo-deconversions-lawsuit.html",
+      "id": 100000008725020,
+      "asset_id": 100000008725020,
+      "source": "New York Times",
+      "published_date": "2023-02-24",
+      "updated": "2023-02-25 15:40:22",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Real Estate and Housing (Residential);Condominiums;Affordable Housing;Suits and Litigation (Civil);Law and Legislation;Boca Raton (Fla);Florida",
+      "column": null,
+      "byline": "By Anna Kod\u00e9",
+      "type": "Article",
+      "title": "Their Retirement Plan Did Not Include Being Forced to Sell Their Condo",
+      "abstract": "An investor-owner took over a condo board, terminated a condo declaration and is now requiring a couple to sell their condo in what one expert called \u201ca private form of eminent domain.\u201d",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Condominiums",
+        "Affordable Housing",
+        "Suits and Litigation (Civil)",
+        "Law and Legislation"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Boca Raton (Fla)",
+        "Florida"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Howard Fellman first bought the condo in 1992 for $65,000. ",
+          "copyright": "James Jackman for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26floridacondo-wqvk/26floridacondo-wqvk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26floridacondo-wqvk/26floridacondo-wqvk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26floridacondo-wqvk/26floridacondo-wqvk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2cccc97d-333b-5b51-b1d9-9dec3bfa50d1",
+      "url": "https://www.nytimes.com/2023/02/23/business/elizabeth-koch-perception-box.html",
+      "id": 100000008721731,
+      "asset_id": 100000008721731,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 23:21:41",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Content Type: Personal Profile;High Net Worth Individuals;Psychedelic and Hallucinogenic Drugs;internal-sub-only;Emotions;Psychology and Psychologists;Koch, Elizabeth Robinson;Koch, Charles G;Unlikely Collaborators Inc;Koch Industries Inc",
+      "column": null,
+      "byline": "By Brooks Barnes",
+      "type": "Article",
+      "title": "The Billionaire\u2019s Daughter Knows What You\u2019re Thinking",
+      "abstract": "Elizabeth Koch, the daughter of the right-wing political force Charles Koch, is working to bridge societal divides. Sure, roll your eyes. But also, why not her?",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "High Net Worth Individuals",
+        "Psychedelic and Hallucinogenic Drugs",
+        "internal-sub-only",
+        "Emotions",
+        "Psychology and Psychologists"
+      ],
+      "org_facet": [
+        "Unlikely Collaborators Inc",
+        "Koch Industries Inc"
+      ],
+      "per_facet": [
+        "Koch, Elizabeth Robinson",
+        "Koch, Charles G"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ms. Koch is self-conscious about coming across as one of those \u201chippy dippy woo-woo people,\u201d as she put it.",
+          "copyright": "Philip Cheung for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23Koch-03-tmzb/23Koch-03-tmzb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23Koch-03-tmzb/23Koch-03-tmzb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23Koch-03-tmzb/23Koch-03-tmzb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/edbb0f15-389e-5bbc-ae50-1dc9547793a1",
+      "url": "https://www.nytimes.com/2023/02/24/arts/dance/bob-fosse-dancin-broadway.html",
+      "id": 100000008769769,
+      "asset_id": 100000008769769,
+      "source": "New York Times",
+      "published_date": "2023-02-24",
+      "updated": "2023-02-25 01:13:22",
+      "section": "Arts",
+      "subsection": "Dance",
+      "nytdsection": "arts",
+      "adx_keywords": "Dancing;Theater;Theater (Broadway);Cilento, Wayne;Fosse, Bob;Fosse, Nicole;Music Box Theater (Manhattan, NY);Old Globe Theater Co",
+      "column": null,
+      "byline": "By Gia Kourlas and Yael Malka",
+      "type": "Article",
+      "title": "Forget About Jazz Hands, This Fosse Show Is About Dancin\u2019",
+      "abstract": "\u201cBob Fosse\u2019s Dancin\u2019,\u201d revived by the director Wayne Cilento, is back on Broadway. Its stars? An eclectic cast of dancers who are anything but machines.",
+      "des_facet": [
+        "Dancing",
+        "Theater",
+        "Theater (Broadway)"
+      ],
+      "org_facet": [
+        "Music Box Theater (Manhattan, NY)",
+        "Old Globe Theater Co"
+      ],
+      "per_facet": [
+        "Cilento, Wayne",
+        "Fosse, Bob",
+        "Fosse, Nicole"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A show for dancers: Khori Michelle Petinaud and Jacob Guzman.",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26dancin-fosse-08-wblk/26dancin-fosse-08-wblk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26dancin-fosse-08-wblk/26dancin-fosse-08-wblk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26dancin-fosse-08-wblk/26dancin-fosse-08-wblk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/77708cdf-8a88-590e-8904-3ab8dd955dad",
+      "url": "https://www.nytimes.com/2023/02/24/travel/african-american-skiers-snowboarders-vail.html",
+      "id": 100000008774213,
+      "asset_id": 100000008774213,
+      "source": "New York Times",
+      "published_date": "2023-02-24",
+      "updated": "2023-02-24 05:00:27",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Black People;Travel and Vacations;Skiing;National Brotherhood of Skiers;Vail (Colo)",
+      "column": null,
+      "byline": "By Tariro Mzezewa",
+      "type": "Article",
+      "title": "\u2018Magic\u2019 on the Slopes: In Vail, 2,000 Black Skiers Celebrate a Milestone",
+      "abstract": "The National Brotherhood of Skiers recently observed 50 years of camaraderie on the slopes with parties, parades, s\u2019mores and, of course, skiing and snowboarding.",
+      "des_facet": [
+        "Black People",
+        "Travel and Vacations",
+        "Skiing"
+      ],
+      "org_facet": [
+        "National Brotherhood of Skiers"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Vail (Colo)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Among the attendees at the recent gathering in Vail, Colo., were, clockwise from top left: Ja\u2019 Saint-Tulias, who took her first snowboarding lesson; Mackenzie Phillips, a fitness instructor; Patrick Saint-Tulias, who, with his wife, Ja\u2019, hopes to make a tradition of skiing and snowboarding; and Earl Humphries, who said, \u201cI come here to ski and to be among friends.\u201d",
+          "copyright": "Andrew Miller for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/travel/00VAIL-COMBO/00VAIL-COMBO-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/travel/00VAIL-COMBO/00VAIL-COMBO-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/16/travel/00VAIL-COMBO/00VAIL-COMBO-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3aeaa725-588c-5bde-b8b2-94b6dfb4a54d",
+      "url": "https://www.nytimes.com/2023/02/24/movies/paul-mescal-irish-baftas.html",
+      "id": 100000008780415,
+      "asset_id": 100000008780415,
+      "source": "New York Times",
+      "published_date": "2023-02-24",
+      "updated": "2023-02-24 11:00:56",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Language and Languages;Gaelic Language;Academy Awards (Oscars);Actors and Actresses;Movies;Immigration and Emigration;Bairead, Colm;Farrell, Colin;Gleeson, Brendan;Mescal, Paul (1996- );British Academy of Film and Television;British Broadcasting Corp;Dublin (Ireland);Ireland;Great Britain",
+      "column": null,
+      "byline": "By Claire Fahy",
+      "type": "Article",
+      "title": "\u2018Bursting Proud\u2019: Ireland Cheers Paul Mescal for Embracing Irish Language",
+      "abstract": "On the red carpet for the British Academy Film Awards, the Oscar-nominated actor gave an interview in Ireland\u2019s national language.",
+      "des_facet": [
+        "Language and Languages",
+        "Gaelic Language",
+        "Academy Awards (Oscars)",
+        "Actors and Actresses",
+        "Movies",
+        "Immigration and Emigration"
+      ],
+      "org_facet": [
+        "British Academy of Film and Television",
+        "British Broadcasting Corp"
+      ],
+      "per_facet": [
+        "Bairead, Colm",
+        "Farrell, Colin",
+        "Gleeson, Brendan",
+        "Mescal, Paul (1996- )"
+      ],
+      "geo_facet": [
+        "Dublin (Ireland)",
+        "Ireland",
+        "Great Britain"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paul Mescal at the British Academy Film Awards at the Royal Festival Hall in London. He spoke Irish during a red carpet interview, inspiring a conversation about use of the national language of Ireland.",
+          "copyright": "Dominic Lipinski/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/21/multimedia/00xp-mescal-cjgb/00xp-mescal-cjgb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/21/multimedia/00xp-mescal-cjgb/00xp-mescal-cjgb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/21/multimedia/00xp-mescal-cjgb/00xp-mescal-cjgb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/15e063b9-5da3-55df-9643-8ba204760679",
+      "url": "https://www.nytimes.com/2023/02/24/nyregion/sick-sea-turtles-new-york.html",
+      "id": 100000008776218,
+      "asset_id": 100000008776218,
+      "source": "New York Times",
+      "published_date": "2023-02-24",
+      "updated": "2023-02-25 13:21:25",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Turtles and Tortoises;Endangered and Extinct Species;Fish and Other Marine Life;Global Warming;New York Marine Rescue Center;Long Island (NY)",
+      "column": null,
+      "byline": "By Dodai Stewart and Anna Watts",
+      "type": "Article",
+      "title": "Where New York\u2019s Sick Sea Turtles Go for Rehab and Squid Snacks",
+      "abstract": "At New York State\u2019s only sea turtle rehabilitation center, workers are nursing a record number of sick patients back to health.",
+      "des_facet": [
+        "Turtles and Tortoises",
+        "Endangered and Extinct Species",
+        "Fish and Other Marine Life",
+        "Global Warming"
+      ],
+      "org_facet": [
+        "New York Marine Rescue Center"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Long Island (NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A green sea turtle patient at the New York Marine Rescue Center. ",
+          "copyright": "Anna Watts for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24ny-turtle-hjpm/24ny-turtle-hjpm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24ny-turtle-hjpm/24ny-turtle-hjpm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24ny-turtle-hjpm/24ny-turtle-hjpm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/31c115a2-0b3e-5adf-9371-66183952092c",
+      "url": "https://www.nytimes.com/2023/02/20/business/bridgewater-ray-dalio-retire.html",
+      "id": 100000008738216,
+      "asset_id": 100000008738216,
+      "source": "New York Times",
+      "published_date": "2023-02-20",
+      "updated": "2023-02-21 15:15:19",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Hedge Funds;High Net Worth Individuals;Appointments and Executive Changes;Content Type: Personal Profile;internal-regi-only;Dalio, Raymond (1949- );Bar Dea, Nir;Bertolini, Mark T;Bridgewater Associates",
+      "column": null,
+      "byline": "By Rob Copeland and Maureen Farrell",
+      "type": "Article",
+      "title": "Hedge Fund Billionaire Extracts Billions More to Retire",
+      "abstract": "Bridgewater\u2019s founder, Ray Dalio, retired last year after months of negotiations that guaranteed him a gigantic exit package.",
+      "des_facet": [
+        "Hedge Funds",
+        "High Net Worth Individuals",
+        "Appointments and Executive Changes",
+        "Content Type: Personal Profile",
+        "internal-regi-only"
+      ],
+      "org_facet": [
+        "Bridgewater Associates"
+      ],
+      "per_facet": [
+        "Dalio, Raymond (1949- )",
+        "Bar Dea, Nir",
+        "Bertolini, Mark T"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ray Dalio founded Bridgewater more than four decades ago. The hedge fund manages money for pensions, sovereign wealth funds and other big investors.",
+          "copyright": "Tamir Kalifa for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/multimedia/00dalio-qvwb/00dalio-qvwb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/multimedia/00dalio-qvwb/00dalio-qvwb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/multimedia/00dalio-qvwb/00dalio-qvwb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a1980427-180c-5c01-b029-c805618b1cbc",
+      "url": "https://www.nytimes.com/2023/02/23/sports/cycling/ashton-lambie-cycling.html",
+      "id": 100000008356269,
+      "asset_id": 100000008356269,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 00:01:10",
+      "section": "Sports",
+      "subsection": "Cycling",
+      "nytdsection": "sports",
+      "adx_keywords": "Cycling, Track;Cycling, Road;Sailboats and Sailing;Content Type: Personal Profile;Lambie, Ashton",
+      "column": null,
+      "byline": "By Kevin Draper",
+      "type": "Article",
+      "title": "The Cycling Champion Who Doesn\u2019t Have to Win to Be Satisfied",
+      "abstract": "Ashton Lambie won a world championship in individual pursuit 16 months ago. Winning was great, he said, but now he just wants to explore.",
+      "des_facet": [
+        "Cycling, Track",
+        "Cycling, Road",
+        "Sailboats and Sailing",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lambie, Ashton"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Smith for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23lambie-01-mfjc/23lambie-01-mfjc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23lambie-01-mfjc/23lambie-01-mfjc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23lambie-01-mfjc/23lambie-01-mfjc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b5b9e596-db29-53cb-a2da-6e66a47e0dce",
+      "url": "https://www.nytimes.com/2023/02/24/world/europe/ukraine-war-anniversary-photos.html",
+      "id": 100000008750883,
+      "asset_id": 100000008750883,
+      "source": "New York Times",
+      "published_date": "2023-02-24",
+      "updated": "2023-02-24 10:03:08",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Defense and Military Forces;Civilian Casualties;Refugees and Displaced Persons;Russia;Ukraine",
+      "column": null,
+      "byline": "By The New York Times",
+      "type": "Article",
+      "title": "Our Photographers in Ukraine on the Images They Can\u2019t Forget",
+      "abstract": "In a year of war, New York Times photographers have reported from the front line, from cities and villages and in the footsteps of refugees. These pictures stayed with them.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Defense and Military Forces",
+        "Civilian Casualties",
+        "Refugees and Displaced Persons"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b2ff3cd4-dfcf-5e25-b5c7-e19dd59505de",
+      "url": "https://www.nytimes.com/2023/02/24/arts/music/delbert-anderson-trio-jazz.html",
+      "id": 100000008766372,
+      "asset_id": 100000008766372,
+      "source": "New York Times",
+      "published_date": "2023-02-24",
+      "updated": "2023-02-25 01:53:11",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Jazz;Native Americans;Content Type: Personal Profile;Navajo Indians;audio-neutral-informative;Anderson, Delbert (Musician);McCluhan, Michael (1967- );Lucero, Nick (Musician);Delbert Anderson Trio (Music Group);New Mexico",
+      "column": null,
+      "byline": "By Michael Powell",
+      "type": "Article",
+      "title": "Delbert Anderson\u2019s Mission: Putting \u2018Native Sound Back Into Jazz\u2019",
+      "abstract": "The trumpeter\u2019s trio takes inspiration from traditional Navajo songs. Its work has stirred up global interest, as well as conversations about the responsibilities of Indigenous artists.",
+      "des_facet": [
+        "Jazz",
+        "Native Americans",
+        "Content Type: Personal Profile",
+        "Navajo Indians",
+        "audio-neutral-informative"
+      ],
+      "org_facet": [
+        "Delbert Anderson Trio (Music Group)"
+      ],
+      "per_facet": [
+        "Anderson, Delbert (Musician)",
+        "McCluhan, Michael (1967- )",
+        "Lucero, Nick (Musician)"
+      ],
+      "geo_facet": [
+        "New Mexico"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Delbert Anderson saw a jazz combo on the stage of his elementary school auditorium and became obsessed with the music.",
+          "copyright": "Brad Trone for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26NAVAJO-JAZZ-tzpg/26NAVAJO-JAZZ-tzpg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26NAVAJO-JAZZ-tzpg/26NAVAJO-JAZZ-tzpg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26NAVAJO-JAZZ-tzpg/26NAVAJO-JAZZ-tzpg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3fcba044-9aec-51fe-9656-9469f4ec7dc5",
+      "url": "https://www.nytimes.com/2023/02/24/well/eat/ozempic-side-effects-alcohol.html",
+      "id": 100000008735527,
+      "asset_id": 100000008735527,
+      "source": "New York Times",
+      "published_date": "2023-02-24",
+      "updated": "2023-02-25 13:54:45",
+      "section": "Well",
+      "subsection": "Eat",
+      "nytdsection": "well",
+      "adx_keywords": "Ozempic (Drug);Alcoholic Beverages;Diabetes;Weight;Research",
+      "column": null,
+      "byline": "By Dani Blum",
+      "type": "Article",
+      "title": "Some People on Ozempic Lose the Desire to Drink. Scientists Are Asking Why.",
+      "abstract": "As the diabetes drug gains more attention, a surprising side effect has emerged.",
+      "des_facet": [
+        "Ozempic (Drug)",
+        "Alcoholic Beverages",
+        "Diabetes",
+        "Weight",
+        "Research"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Derek Abella",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/well/17-OZEMPIC-ALCOHOL/17-OZEMPIC-ALCOHOL-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/well/17-OZEMPIC-ALCOHOL/17-OZEMPIC-ALCOHOL-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/17/well/17-OZEMPIC-ALCOHOL/17-OZEMPIC-ALCOHOL-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

@@ -1,0 +1,2069 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+  "section": "Arts",
+  "last_updated": "2023-02-24T17:59:01-05:00",
+  "num_results": 33,
+  "results": [
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "In the Wild Tale of \u2018Cocaine Bear,\u2019 an Apex Predator Is the True Star",
+      "abstract": "The horror-comedy is based on a real story from 1985, but the director Elizabeth Banks and writer Jimmy Warden gave their furry lead a different ending.",
+      "url": "https://www.nytimes.com/2023/02/24/movies/cocaine-bear-making-of.html",
+      "uri": "nyt://article/6c36c814-fffd-5d0d-a994-8948be551d0a",
+      "byline": "By Kathryn Shattuck",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T14:07:54-05:00",
+      "created_date": "2023-02-24T15:28:43-05:00",
+      "published_date": "2023-02-24T15:28:43-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Cocaine Bear (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Warden, Jimmy (Screenwriter)",
+        "Banks, Elizabeth",
+        "Russell, Keri",
+        "Liotta, Ray"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/multimedia/05COCAINE-BEAR-01-blph/05COCAINE-BEAR-01-blph-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1002,
+          "width": 1505,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The true star of \u201cCocaine Bear\u201d was computer-generated. The director Elizabeth Banks and her crew affectionately called him Cokey.",
+          "copyright": "Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/multimedia/05COCAINE-BEAR-01-blph/05COCAINE-BEAR-01-blph-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 399,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The true star of \u201cCocaine Bear\u201d was computer-generated. The director Elizabeth Banks and her crew affectionately called him Cokey.",
+          "copyright": "Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/03/05/multimedia/05COCAINE-BEAR-01-blph/05COCAINE-BEAR-01-blph-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The true star of \u201cCocaine Bear\u201d was computer-generated. The director Elizabeth Banks and her crew affectionately called him Cokey.",
+          "copyright": "Universal Pictures"
+        }
+      ],
+      "short_url": "https://nyti.ms/3KJ92zg"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "\u2018The Consultant\u2019 Review: When Your Start-Up Goes to Hell",
+      "abstract": "Christoph Waltz plays a very, very bad boss in a dark tech-industry satire from Amazon Prime Video.",
+      "url": "https://www.nytimes.com/2023/02/24/arts/television/the-consultant-review.html",
+      "uri": "nyt://article/2c2a9163-97dd-5256-8d19-4f440b55be35",
+      "byline": "By Mike Hale",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T12:52:46-05:00",
+      "created_date": "2023-02-24T14:40:34-05:00",
+      "published_date": "2023-02-24T14:40:34-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "The Consultant (TV Program)"
+      ],
+      "org_facet": [
+        "Amazon.com Inc"
+      ],
+      "per_facet": [
+        "Basgallop, Tony",
+        "Waltz, Christoph",
+        "O'Grady, Brittany (1996- )",
+        "Wolff, Nat",
+        "Shakman, Matt"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24consultant-clmf/24consultant-clmf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Christoph Waltz plays an evil boss in \u201cThe Consultant.\u201d",
+          "copyright": "Prime Video"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24consultant-clmf/24consultant-clmf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Christoph Waltz plays an evil boss in \u201cThe Consultant.\u201d",
+          "copyright": "Prime Video"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24consultant-clmf/24consultant-clmf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Christoph Waltz plays an evil boss in \u201cThe Consultant.\u201d",
+          "copyright": "Prime Video"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IthvEe"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Delbert Anderson\u2019s Mission: Putting \u2018Native Sound Back Into Jazz\u2019",
+      "abstract": "The trumpeter\u2019s trio takes inspiration from traditional Navajo songs. Its work has stirred up global interest, as well as conversations about the responsibilities of Indigenous artists.",
+      "url": "https://www.nytimes.com/2023/02/24/arts/music/delbert-anderson-trio-jazz.html",
+      "uri": "nyt://article/b2ff3cd4-dfcf-5e25-b5c7-e19dd59505de",
+      "byline": "By Michael Powell",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T01:53:11-05:00",
+      "created_date": "2023-02-24T05:00:30-05:00",
+      "published_date": "2023-02-24T05:00:30-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Jazz",
+        "Native Americans",
+        "Content Type: Personal Profile",
+        "Navajo Indians",
+        "audio-neutral-informative"
+      ],
+      "org_facet": [
+        "Delbert Anderson Trio (Music Group)"
+      ],
+      "per_facet": [
+        "Anderson, Delbert (Musician)",
+        "McCluhan, Michael (1967- )",
+        "Lucero, Nick (Musician)"
+      ],
+      "geo_facet": [
+        "New Mexico"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26NAVAJO-JAZZ-tzpg/26NAVAJO-JAZZ-tzpg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1536,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Delbert Anderson saw a jazz combo on the stage of his elementary school auditorium and became obsessed with the music.",
+          "copyright": "Brad Trone for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26NAVAJO-JAZZ-tzpg/26NAVAJO-JAZZ-tzpg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Delbert Anderson saw a jazz combo on the stage of his elementary school auditorium and became obsessed with the music.",
+          "copyright": "Brad Trone for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26NAVAJO-JAZZ-tzpg/26NAVAJO-JAZZ-tzpg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Delbert Anderson saw a jazz combo on the stage of his elementary school auditorium and became obsessed with the music.",
+          "copyright": "Brad Trone for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xOFKYx"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Review: He Needs Your Help. And She\u2019s Trapped Under a Mound.",
+      "abstract": "In Dean Moss\u2019s \u201cYour marks and surface,\u201d at Danspace, images of softness and struggle coexist.",
+      "url": "https://www.nytimes.com/2023/02/24/arts/dance/review-dean-moss-danspace.html",
+      "uri": "nyt://article/b8d43c5f-5d28-534e-af44-598581231378",
+      "byline": "By Siobhan Burke",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T16:21:55-05:00",
+      "created_date": "2023-02-24T16:13:55-05:00",
+      "published_date": "2023-02-24T16:13:55-05:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Dancing",
+        "Your marks and surface (Dance)"
+      ],
+      "org_facet": [
+        "Danspace Project"
+      ],
+      "per_facet": [
+        "Moss, Dean",
+        "Fukuoka, Sawami"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24dean-moss-1-bfjh/24dean-moss-1-bfjh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dean Moss in his \u201cYour marks and surface\u201d at Danspace Project.",
+          "copyright": "Ian Douglas"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24dean-moss-1-bfjh/24dean-moss-1-bfjh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dean Moss in his \u201cYour marks and surface\u201d at Danspace Project.",
+          "copyright": "Ian Douglas"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24dean-moss-1-bfjh/24dean-moss-1-bfjh-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dean Moss in his \u201cYour marks and surface\u201d at Danspace Project.",
+          "copyright": "Ian Douglas"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IU7W2I"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "This Year, the Berlin Film Festival Sparkles",
+      "abstract": "After two years of pandemic disruptions, the festival returns in full, with Kristen Stewart as the jury president and gems like Celine Song\u2019s \u201cPast Lives.\u201d",
+      "url": "https://www.nytimes.com/2023/02/24/movies/berlin-film-festival-kristen-stewart.html",
+      "uri": "nyt://article/3ae0c2b8-5697-5f7a-bd67-2c82534c68cf",
+      "byline": "By Jessica Kiang",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T17:57:46-05:00",
+      "created_date": "2023-02-24T17:57:46-05:00",
+      "published_date": "2023-02-24T17:57:46-05:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Movies",
+        "Berlin International Film Festival",
+        "Past Lives (Movie)",
+        "Tar (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Blanchett, Cate",
+        "Aviles, Lila",
+        "Beer, Paula (1995- )",
+        "de Heer, Rolf",
+        "Lee, Greta",
+        "Stewart, Kristen"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24berlin-notebook-qvhp/24berlin-notebook-qvhp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Greta Lee and Teo Yoo in the film \u201cPast Lives,\u201d which screened at this year\u2019s Berlin International Film Festival.",
+          "copyright": "Jon Pack"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24berlin-notebook-qvhp/24berlin-notebook-qvhp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Greta Lee and Teo Yoo in the film \u201cPast Lives,\u201d which screened at this year\u2019s Berlin International Film Festival.",
+          "copyright": "Jon Pack"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24berlin-notebook-qvhp/24berlin-notebook-qvhp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Greta Lee and Teo Yoo in the film \u201cPast Lives,\u201d which screened at this year\u2019s Berlin International Film Festival.",
+          "copyright": "Jon Pack"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xTdO5Y"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Watch a Harrowing Battle Scene in \u2018All Quiet on the Western Front.\u2019",
+      "abstract": "The director Edward Berger narrates a sequence from his drama, nominated for nine Academy Awards and winner of best film at the BAFTAs.",
+      "url": "https://www.nytimes.com/2023/02/24/movies/all-quiet-on-the-western-front-clip.html",
+      "uri": "nyt://article/565e3c96-5003-5f4c-a9d6-ee6e45de4353",
+      "byline": "By Mekado Murphy",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T16:36:25-05:00",
+      "created_date": "2023-02-24T16:07:09-05:00",
+      "published_date": "2023-02-24T16:07:09-05:00",
+      "material_type_facet": "",
+      "kicker": "Anatomy of a Scene",
+      "des_facet": [
+        "Movies",
+        "Academy Awards (Oscars)",
+        "All Quiet on the Western Front (2022) (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Berger, Edward (1970- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/all-quiet-anatomy1-fkjg/all-quiet-anatomy1-fkjg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Felix Kammerer in \u201cAll Quiet on the Western Front.\u201d",
+          "copyright": "Reiner Bajo/Netflix, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/all-quiet-anatomy1-fkjg/all-quiet-anatomy1-fkjg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Felix Kammerer in \u201cAll Quiet on the Western Front.\u201d",
+          "copyright": "Reiner Bajo/Netflix, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/all-quiet-anatomy1-fkjg/all-quiet-anatomy1-fkjg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Felix Kammerer in \u201cAll Quiet on the Western Front.\u201d",
+          "copyright": "Reiner Bajo/Netflix, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/41pV3o3"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "On Broadway, \u2018Bad Cinderella\u2019 Is a Rebel With a Brooklyn Accent",
+      "abstract": "Linedy Genao brings her whole Latina self to Andrew Lloyd Webber\u2019s new musical, which also stars the stage veteran Carolee Carmello as her evil stepmother.",
+      "url": "https://www.nytimes.com/2023/02/24/theater/bad-cinderella-broadway.html",
+      "uri": "nyt://article/22b9ab36-89a4-5161-a116-f96a24a40a0d",
+      "byline": "By Sarah Bahr",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T01:11:42-05:00",
+      "created_date": "2023-02-24T05:00:25-05:00",
+      "published_date": "2023-02-24T05:00:25-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Theater (Broadway)",
+        "Content Type: Personal Profile",
+        "Actors and Actresses",
+        "Bad Cinderella (Play)"
+      ],
+      "org_facet": [
+        "Imperial Theater (Manhattan, NY)"
+      ],
+      "per_facet": [
+        "Carmello, Carolee",
+        "Genao, Linedy",
+        "Lloyd Webber, Andrew",
+        "Connor, Laurence",
+        "Fennell, Emerald"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26BAD-CINDERELLA-gfct/26BAD-CINDERELLA-gfct-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1463,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In \u201cBad Cinderella,\u201d Carolee Carmello, left, plays the evil stepmother, and Linedy Genao, right, is the rebellious title character. They both found their way to the stage after earning business degrees.",
+          "copyright": "Evelyn Freja for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26BAD-CINDERELLA-gfct/26BAD-CINDERELLA-gfct-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In \u201cBad Cinderella,\u201d Carolee Carmello, left, plays the evil stepmother, and Linedy Genao, right, is the rebellious title character. They both found their way to the stage after earning business degrees.",
+          "copyright": "Evelyn Freja for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26BAD-CINDERELLA-gfct/26BAD-CINDERELLA-gfct-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In \u201cBad Cinderella,\u201d Carolee Carmello, left, plays the evil stepmother, and Linedy Genao, right, is the rebellious title character. They both found their way to the stage after earning business degrees.",
+          "copyright": "Evelyn Freja for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3knPZQq"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "A Dave Brubeck Cantata Boasts Star Soloists: His Sons",
+      "abstract": "\u201cThe Gates of Justice,\u201d a large-scale 1969 choral work about relations between Black and Jewish Americans, is being performed in Los Angeles.",
+      "url": "https://www.nytimes.com/2023/02/24/arts/music/dave-brubeck-cantata-the-gates-of-justice.html",
+      "uri": "nyt://article/3c671490-fbfa-5cf5-998f-656db9dcebcf",
+      "byline": "By Zachary Woolfe",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T17:45:38-05:00",
+      "created_date": "2023-02-24T12:43:23-05:00",
+      "published_date": "2023-02-24T12:43:23-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Classical Music",
+        "Black People",
+        "Jews and Judaism",
+        "Jazz",
+        "The Gates of Justice (Musical Work)"
+      ],
+      "org_facet": [
+        "University of California, Los Angeles"
+      ],
+      "per_facet": [
+        "Brubeck, Dave"
+      ],
+      "geo_facet": [
+        "Los Angeles (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/24BRUBECK3-hvlt/24BRUBECK3-hvlt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Dan, Chris and Darius Brubeck are for the first time forming the central trio in \u201cThe Gates of Justice,\u201d a 1969 cantata about race and religion by their father, the jazz eminence Dave Brubeck.",
+          "copyright": "Alex Welsh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/24BRUBECK3-hvlt/24BRUBECK3-hvlt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Dan, Chris and Darius Brubeck are for the first time forming the central trio in \u201cThe Gates of Justice,\u201d a 1969 cantata about race and religion by their father, the jazz eminence Dave Brubeck.",
+          "copyright": "Alex Welsh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/24BRUBECK3-hvlt/24BRUBECK3-hvlt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Dan, Chris and Darius Brubeck are for the first time forming the central trio in \u201cThe Gates of Justice,\u201d a 1969 cantata about race and religion by their father, the jazz eminence Dave Brubeck.",
+          "copyright": "Alex Welsh for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Ss3Ly4"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Cocaine Bear\u2019 Review: She Never Forgets Her Lines",
+      "abstract": "The greatest joke of this blood-spattered horror-comedy from Elizabeth Banks is that it exists.",
+      "url": "https://www.nytimes.com/2023/02/24/movies/cocaine-bear-review.html",
+      "uri": "nyt://article/1519d0c3-8693-5234-95f3-081e31fb94dd",
+      "byline": "By Jason Zinoman",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T17:57:36-05:00",
+      "created_date": "2023-02-24T11:15:40-05:00",
+      "published_date": "2023-02-24T11:15:40-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Cocaine Bear (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Banks, Elizabeth",
+        "Russell, Keri",
+        "Liotta, Ray",
+        "Martindale, Margo",
+        "Whitlock, Isiah Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/cocaine-bear1-fqzg/cocaine-bear1-fqzg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1076,
+          "width": 1912,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Keri Russell in \u201cCocaine Bear.\u201d",
+          "copyright": "Pat Redmond/Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/cocaine-bear1-fqzg/cocaine-bear1-fqzg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Keri Russell in \u201cCocaine Bear.\u201d",
+          "copyright": "Pat Redmond/Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/cocaine-bear1-fqzg/cocaine-bear1-fqzg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Keri Russell in \u201cCocaine Bear.\u201d",
+          "copyright": "Pat Redmond/Universal Pictures"
+        }
+      ],
+      "short_url": "https://nyti.ms/3EAcqce"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "\u2018Liaison\u2019: Vincent Cassel and Eva Green Simmer as Global Tensions Boil",
+      "abstract": "For Apple TV+\u2019s new geopolitical thriller, the two French stars finally joined powers. The sparks between them may fly faster than the bullets.",
+      "url": "https://www.nytimes.com/2023/02/25/arts/television/liaison-vincent-cassel-and-eva-green.html",
+      "uri": "nyt://article/c1cc3347-9f96-58f8-8eeb-384740a67d55",
+      "byline": "By Elisabeth Vincentelli",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T11:21:30-05:00",
+      "created_date": "2023-02-25T08:00:07-05:00",
+      "published_date": "2023-02-25T08:00:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Liaison (TV Program)"
+      ],
+      "org_facet": [
+        "Apple TV Plus"
+      ],
+      "per_facet": [
+        "Green, Eva (1980- )",
+        "Cassel, Vincent",
+        "Brac, Virginie"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24liaison1a-ckpf/24liaison1a-ckpf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vincent Cassel, right, said he waited 15 years for a chance to work with Eva Green. They got their chance with \u201cLiaison,\u201d Apple TV+\u2019s first French-Anglo production.",
+          "copyright": "Julien Mignot for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24liaison1a-ckpf/24liaison1a-ckpf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vincent Cassel, right, said he waited 15 years for a chance to work with Eva Green. They got their chance with \u201cLiaison,\u201d Apple TV+\u2019s first French-Anglo production.",
+          "copyright": "Julien Mignot for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24liaison1a-ckpf/24liaison1a-ckpf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vincent Cassel, right, said he waited 15 years for a chance to work with Eva Green. They got their chance with \u201cLiaison,\u201d Apple TV+\u2019s first French-Anglo production.",
+          "copyright": "Julien Mignot for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kvPuUz"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Self-Study, Becoming American and the Art of Translation",
+      "abstract": "An editor recommends old and new books",
+      "url": "https://www.nytimes.com/2023/02/25/books/read-like-wind-book-recommendations.html",
+      "uri": "nyt://article/5bdeee24-1a4d-5b38-93a4-dcc06218ea3c",
+      "byline": "By Gregory Cowles",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T07:50:02-05:00",
+      "created_date": "2023-02-25T07:50:02-05:00",
+      "published_date": "2023-02-25T07:50:02-05:00",
+      "material_type_facet": "",
+      "kicker": "Read Like the Wind",
+      "des_facet": [
+        "Books and Literature",
+        "internal-sub-only-nl",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1901,
+          "width": 1576,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cLezende jongen,\u201d by Frans Hals",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cLezende jongen,\u201d by Frans Hals",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cLezende jongen,\u201d by Frans Hals",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3KHMDTj"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "\u2018Mama, I Want to Sing!\u2019 Returns for 40th Anniversary",
+      "abstract": "Gospel soul returns to the stage as the long-running musical is revived for Black History Month at El Museo\u2019s El Teatro.",
+      "url": "https://www.nytimes.com/2023/02/24/theater/mama-i-want-to-sing-40th-anniversary.html",
+      "uri": "nyt://article/61e39614-af46-531e-a134-6e9818649e6a",
+      "byline": "By Kalia Richardson",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T08:34:28-05:00",
+      "created_date": "2023-02-24T18:28:47-05:00",
+      "published_date": "2023-02-24T18:28:47-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Mama, I Want to Sing! (Play)",
+        "Rhythm and Blues (Music)",
+        "Gospel Music",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "El Museo del Barrio"
+      ],
+      "per_facet": [
+        "Higginsen, Vy",
+        "Higginson, Ahmaya Knoelle",
+        "Troy, Doris"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24mama-sing-03-zjpc/24mama-sing-03-zjpc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1663,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ahmaya Knoelle Higginson and her mother, Vy Higginsen, in Harlem. As director of a revival of \u201cMama, I Want to Sing!,\u201d Higginson carries on a family legacy.",
+          "copyright": "Scott Rossi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24mama-sing-03-zjpc/24mama-sing-03-zjpc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ahmaya Knoelle Higginson and her mother, Vy Higginsen, in Harlem. As director of a revival of \u201cMama, I Want to Sing!,\u201d Higginson carries on a family legacy.",
+          "copyright": "Scott Rossi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24mama-sing-03-zjpc/24mama-sing-03-zjpc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ahmaya Knoelle Higginson and her mother, Vy Higginsen, in Harlem. As director of a revival of \u201cMama, I Want to Sing!,\u201d Higginson carries on a family legacy.",
+          "copyright": "Scott Rossi for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/41nfRwz"
+    },
+    {
+      "section": "books",
+      "subsection": "booksupdate",
+      "title": "How Well Do You Know These Page-Turners Set in Washington, D.C.?",
+      "abstract": "Along with its memorials and monuments, the nation\u2019s capital has been a frequent location for many spine-tingling novels. Take this week\u2019s quiz to see how many plots and places you recognize!",
+      "url": "https://www.nytimes.com/interactive/2023/02/24/books/booksupdate/washington-dc-novels-quiz.html",
+      "uri": "nyt://interactive/59886685-6ab7-5a60-ad7c-cc79fd8b9810",
+      "byline": "By J. D. Biersdorfer",
+      "item_type": "Interactive",
+      "updated_date": "2023-02-24T15:50:03-05:00",
+      "created_date": "2023-02-24T15:50:03-05:00",
+      "published_date": "2023-02-24T15:50:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Washington (DC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/books/review/24Quiz-DC/24Quiz-DC-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ben Hickey"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/books/review/24Quiz-DC/24Quiz-DC-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ben Hickey"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/books/review/24Quiz-DC/24Quiz-DC-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ben Hickey"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IlX6ko"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Obie Awards Honor \u2018English\u2019 as Best New Play",
+      "abstract": "A ceremony for the awards, celebrating work Off and Off Off Broadway, will be held Monday, but organizers decided to announce the winners in advance.",
+      "url": "https://www.nytimes.com/2023/02/24/theater/obie-awards-english.html",
+      "uri": "nyt://article/729f4b7f-394a-57ee-a25d-e5fcb54a0772",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T17:56:52-05:00",
+      "created_date": "2023-02-24T12:02:41-05:00",
+      "published_date": "2023-02-24T12:02:41-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Theater (Off Broadway)",
+        "Awards, Decorations and Honors",
+        "Coronavirus Reopenings",
+        "English (Play)"
+      ],
+      "org_facet": [
+        "American Theater Wing"
+      ],
+      "per_facet": [
+        "Toossi, Sanaz"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/24obies-tvmw/24obies-tvmw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Tala Ashe, Hadi Tabbal, Marjan Neshat, Ava Lalezarzadeh and Pooya Mohseni in \u201cEnglish,\u201d the best new play winner, at the Atlantic Theater Company.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/24obies-tvmw/24obies-tvmw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Tala Ashe, Hadi Tabbal, Marjan Neshat, Ava Lalezarzadeh and Pooya Mohseni in \u201cEnglish,\u201d the best new play winner, at the Atlantic Theater Company.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/24obies-tvmw/24obies-tvmw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Tala Ashe, Hadi Tabbal, Marjan Neshat, Ava Lalezarzadeh and Pooya Mohseni in \u201cEnglish,\u201d the best new play winner, at the Atlantic Theater Company.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/41qdOb6"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "U.S. Girls\u2019 Luxuriously Absurd Disco, and 9 More New Songs",
+      "abstract": "Hear tracks by Gracie Abrams, Ashley McBryde and Skrillex.",
+      "url": "https://www.nytimes.com/2023/02/24/arts/music/playlist-us-girls-skrillex-gracie-abrams.html",
+      "uri": "nyt://article/b24f3914-7086-51c1-8eb5-87a84f1308f3",
+      "byline": "By Jon Pareles and Lindsay Zoladz",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T13:54:26-05:00",
+      "created_date": "2023-02-24T11:45:54-05:00",
+      "published_date": "2023-02-24T11:45:54-05:00",
+      "material_type_facet": "",
+      "kicker": "The Playlist",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Jazz"
+      ],
+      "org_facet": [
+        "Fishbone (Music Group)",
+        "Bernice (Music Group)",
+        "Zoon (Music Group)",
+        "IzangoMa (Music Group)"
+      ],
+      "per_facet": [
+        "Remy, Meg (US Girls)",
+        "Skrillex",
+        "Bourelly, Bibi (1994- )",
+        "Jadagu, Hannah",
+        "McBryde, Ashley",
+        "Abrams, Gracie (1999- )",
+        "Ismaily, Shahzad",
+        "Aftab, Arooj",
+        "Iyer, Vijay"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/arts/24playlist/24playlist-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1014,
+          "width": 677,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The latest U.S. Girls album, the upbeat and provocative \u201cBless This Mess,\u201d is out on Friday.",
+          "copyright": "Emma McIntyre"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/arts/24playlist/24playlist-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The latest U.S. Girls album, the upbeat and provocative \u201cBless This Mess,\u201d is out on Friday.",
+          "copyright": "Emma McIntyre"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/arts/24playlist/24playlist-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The latest U.S. Girls album, the upbeat and provocative \u201cBless This Mess,\u201d is out on Friday.",
+          "copyright": "Emma McIntyre"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IwjvLZ"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Five Action Movies to Stream Now",
+      "abstract": "From rousing war films to gory massacres, this month\u2019s action picks are bloodier than usual.",
+      "url": "https://www.nytimes.com/2023/02/24/movies/action-movies-streaming.html",
+      "uri": "nyt://article/96c2b68b-d5ff-51f2-ad06-92085d1a985d",
+      "byline": "By Robert Daniels",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T11:21:32-05:00",
+      "created_date": "2023-02-24T11:00:05-05:00",
+      "published_date": "2023-02-24T11:00:05-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "The Last Deal (Movie)",
+        "Narvik (Movie)",
+        "Paid in Blood (Movie)",
+        "The Pilot (Movie)",
+        "Project Wolf Hunting (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/arts/last-deal1/last-deal1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 858,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anthony Molinari and Jeffri Lauren in \u201cThe Last Deal.\u201d",
+          "copyright": "L.A.N.E. 38"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/arts/last-deal1/last-deal1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anthony Molinari and Jeffri Lauren in \u201cThe Last Deal.\u201d",
+          "copyright": "L.A.N.E. 38"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/arts/last-deal1/last-deal1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anthony Molinari and Jeffri Lauren in \u201cThe Last Deal.\u201d",
+          "copyright": "L.A.N.E. 38"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IRNeAr"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Ricardo Dar\u00edn: Argentina\u2019s Lucky Charm at the Oscars",
+      "abstract": "When the country has a nominated film, it has usually starred this veteran. But the actor says other people have believed in his talent more than he has.",
+      "url": "https://www.nytimes.com/2023/02/24/movies/ricardo-darin-argentina-1985.html",
+      "uri": "nyt://article/1fcf03bb-1330-5ae2-aa6e-acaba8fbb6d3",
+      "byline": "By Carlos Aguilar",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T10:27:19-05:00",
+      "created_date": "2023-02-24T10:10:02-05:00",
+      "published_date": "2023-02-24T10:10:02-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Movies",
+        "Content Type: Personal Profile",
+        "Actors and Actresses",
+        "Academy Awards (Oscars)",
+        "Argentina, 1985 (Movie)",
+        "The Secret in Their Eyes (Movie)",
+        "Wild Tales (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Darin, Ricardo",
+        "Mitre, Santiago"
+      ],
+      "geo_facet": [
+        "Argentina"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/17RICARDO-DARIN-01-mbgv/17RICARDO-DARIN-01-mbgv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1463,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A working actor since he was a child, Ricardo Dar\u00edn said, \u201cI often think, \u2018Do I deserve all that?\u2019\u201d",
+          "copyright": "David Billet for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/17RICARDO-DARIN-01-mbgv/17RICARDO-DARIN-01-mbgv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A working actor since he was a child, Ricardo Dar\u00edn said, \u201cI often think, \u2018Do I deserve all that?\u2019\u201d",
+          "copyright": "David Billet for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/17RICARDO-DARIN-01-mbgv/17RICARDO-DARIN-01-mbgv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A working actor since he was a child, Ricardo Dar\u00edn said, \u201cI often think, \u2018Do I deserve all that?\u2019\u201d",
+          "copyright": "David Billet for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3XWGKoc"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "In \u2018The Quiet Girl,\u2019 an Irish Loneliness Rarely Seen Onscreen",
+      "abstract": "The first Irish-language film to be nominated for an Oscar, directed by Colm Bair\u00e9ad, tells a gentle story of cultural reticence.",
+      "url": "https://www.nytimes.com/2023/02/24/movies/the-quiet-girl-us-ireland.html",
+      "uri": "nyt://article/f302bb9e-1c9d-589e-9f52-9e6b539b6dae",
+      "byline": "By Roisin Lanigan",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T17:56:21-05:00",
+      "created_date": "2023-02-24T10:01:49-05:00",
+      "published_date": "2023-02-24T10:01:49-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Loneliness",
+        "Gaelic Language",
+        "Foster (Book)",
+        "The Quiet Girl (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Ireland"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24QUIET-GIRL-01-pwml/24QUIET-GIRL-01-pwml-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1440,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In \u201cThe Quiet Girl,\u201d Catherine Clinch plays C\u00e1it, who is shuttled from her chaotic family home to live with relatives for the summer.",
+          "copyright": "Super, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24QUIET-GIRL-01-pwml/24QUIET-GIRL-01-pwml-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In \u201cThe Quiet Girl,\u201d Catherine Clinch plays C\u00e1it, who is shuttled from her chaotic family home to live with relatives for the summer.",
+          "copyright": "Super, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24QUIET-GIRL-01-pwml/24QUIET-GIRL-01-pwml-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In \u201cThe Quiet Girl,\u201d Catherine Clinch plays C\u00e1it, who is shuttled from her chaotic family home to live with relatives for the summer.",
+          "copyright": "Super, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3KBhyAC"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "His Shows Take On Big Issues. They\u2019re Also Good Yarns.",
+      "abstract": "The British writer and director Alexander Zeldin is bringing \u201cLove,\u201d a European hit set at a temporary-housing\u00a0facility, to the Park Avenue Armory.",
+      "url": "https://www.nytimes.com/2023/02/24/theater/alexander-zeldin-love-park-avenue-armory.html",
+      "uri": "nyt://article/ddacb870-eb23-5b45-99af-54a569e3d45f",
+      "byline": "By Elisabeth Vincentelli",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T17:51:38-05:00",
+      "created_date": "2023-02-24T10:00:08-05:00",
+      "published_date": "2023-02-24T10:00:08-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Writing and Writers",
+        "Content Type: Personal Profile",
+        "Love (Play)",
+        "Theater (Off Broadway)"
+      ],
+      "org_facet": [
+        "Park Avenue Armory (Manhattan, NY)"
+      ],
+      "per_facet": [
+        "Zeldin, Alexander"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/24ZELDIN-01-wfbg/24ZELDIN-01-wfbg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexander Zeldin leads a rehearsal in London with the cast of \u201cLove.\u201d",
+          "copyright": "Lauren Fleishman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/24ZELDIN-01-wfbg/24ZELDIN-01-wfbg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexander Zeldin leads a rehearsal in London with the cast of \u201cLove.\u201d",
+          "copyright": "Lauren Fleishman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/25/multimedia/24ZELDIN-01-wfbg/24ZELDIN-01-wfbg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexander Zeldin leads a rehearsal in London with the cast of \u201cLove.\u201d",
+          "copyright": "Lauren Fleishman for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Zelc7u"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Tina Barney: The Photographer\u2019s Origin Story",
+      "abstract": "With a show at Kasmin and a new book of rediscovered photographs, both called \u201cThe Beginning,\u201d the ethnographer of the elite reflects on finding her voice.",
+      "url": "https://www.nytimes.com/2023/02/24/arts/design/tina-barney-book-kasmin-gallery-photographer.html",
+      "uri": "nyt://article/2cbe8604-e03a-5f20-8375-580f873c5b1b",
+      "byline": "By Hilarie M. Sheets",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T01:55:35-05:00",
+      "created_date": "2023-02-24T09:00:11-05:00",
+      "published_date": "2023-02-24T09:00:11-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Museums",
+        "Art",
+        "Photography",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Museum of Modern Art",
+        "Paul Kasmin Gallery"
+      ],
+      "per_facet": [
+        "Barney, Tina"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26tina-barney1-gtqb/26tina-barney1-gtqb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tina Barney\u2019s self-portrait, 2023, in her Watch Hill, R.I. home, taken with her 8-by-10-inch view camera. She finds still-lifes at her home a relief; she doesn\u2019t have to chase people to get them to pose.",
+          "copyright": "Tina Barney; via Kasmin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26tina-barney1-gtqb/26tina-barney1-gtqb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tina Barney\u2019s self-portrait, 2023, in her Watch Hill, R.I. home, taken with her 8-by-10-inch view camera. She finds still-lifes at her home a relief; she doesn\u2019t have to chase people to get them to pose.",
+          "copyright": "Tina Barney; via Kasmin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26tina-barney1-gtqb/26tina-barney1-gtqb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tina Barney\u2019s self-portrait, 2023, in her Watch Hill, R.I. home, taken with her 8-by-10-inch view camera. She finds still-lifes at her home a relief; she doesn\u2019t have to chase people to get them to pose.",
+          "copyright": "Tina Barney; via Kasmin"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kneXiZ"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Bursting Proud\u2019: Ireland Cheers Paul Mescal for Embracing Irish Language",
+      "abstract": "On the red carpet for the British Academy Film Awards, the Oscar-nominated actor gave an interview in Ireland\u2019s national language.",
+      "url": "https://www.nytimes.com/2023/02/24/movies/paul-mescal-irish-baftas.html",
+      "uri": "nyt://article/3aeaa725-588c-5bde-b8b2-94b6dfb4a54d",
+      "byline": "By Claire Fahy",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T11:00:56-05:00",
+      "created_date": "2023-02-24T08:57:52-05:00",
+      "published_date": "2023-02-24T08:57:52-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Language and Languages",
+        "Gaelic Language",
+        "Academy Awards (Oscars)",
+        "Actors and Actresses",
+        "Movies",
+        "Immigration and Emigration"
+      ],
+      "org_facet": [
+        "British Academy of Film and Television",
+        "British Broadcasting Corp"
+      ],
+      "per_facet": [
+        "Bairead, Colm",
+        "Farrell, Colin",
+        "Gleeson, Brendan",
+        "Mescal, Paul (1996- )"
+      ],
+      "geo_facet": [
+        "Dublin (Ireland)",
+        "Ireland",
+        "Great Britain"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/00xp-mescal-cjgb/00xp-mescal-cjgb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paul Mescal at the British Academy Film Awards at the Royal Festival Hall in London. He spoke Irish during a red carpet interview, inspiring a conversation about use of the national language of Ireland.",
+          "copyright": "Dominic Lipinski/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/00xp-mescal-cjgb/00xp-mescal-cjgb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paul Mescal at the British Academy Film Awards at the Royal Festival Hall in London. He spoke Irish during a red carpet interview, inspiring a conversation about use of the national language of Ireland.",
+          "copyright": "Dominic Lipinski/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/00xp-mescal-cjgb/00xp-mescal-cjgb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paul Mescal at the British Academy Film Awards at the Royal Festival Hall in London. He spoke Irish during a red carpet interview, inspiring a conversation about use of the national language of Ireland.",
+          "copyright": "Dominic Lipinski/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Zl16Iy"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Forget About Jazz Hands, This Fosse Show Is About Dancin\u2019",
+      "abstract": "\u201cBob Fosse\u2019s Dancin\u2019,\u201d revived by the director Wayne Cilento, is back on Broadway. Its stars? An eclectic cast of dancers who are anything but machines.",
+      "url": "https://www.nytimes.com/2023/02/24/arts/dance/bob-fosse-dancin-broadway.html",
+      "uri": "nyt://article/edbb0f15-389e-5bbc-ae50-1dc9547793a1",
+      "byline": "By Gia Kourlas and Yael Malka",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T01:13:22-05:00",
+      "created_date": "2023-02-24T05:00:38-05:00",
+      "published_date": "2023-02-24T05:00:38-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dancing",
+        "Theater",
+        "Theater (Broadway)",
+        "Bob Fosse's Dancin' (Play)"
+      ],
+      "org_facet": [
+        "Music Box Theater (Manhattan, NY)",
+        "Old Globe Theater Co"
+      ],
+      "per_facet": [
+        "Cilento, Wayne",
+        "Fosse, Bob",
+        "Fosse, Nicole"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26dancin-fosse-08-wblk/26dancin-fosse-08-wblk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A show for dancers: Khori Michelle Petinaud and Jacob Guzman.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26dancin-fosse-08-wblk/26dancin-fosse-08-wblk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A show for dancers: Khori Michelle Petinaud and Jacob Guzman.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26dancin-fosse-08-wblk/26dancin-fosse-08-wblk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A show for dancers: Khori Michelle Petinaud and Jacob Guzman.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3SnKkXj"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "A Publishing Superstar Whose Memoir Shuns Glitz to Explore Private Torment",
+      "abstract": "In \u201cThe Absent Moon,\u201d Luiz Schwarcz, a legendary Brazilian publisher and global tastemaker, shares little of the glamorous life, focusing instead on the lifelong pain of clinical depression.",
+      "url": "https://www.nytimes.com/2023/02/24/books/memoir-depression-luiz-schwarcz.html",
+      "uri": "nyt://article/28b44514-2e2f-5492-8284-0324663e9308",
+      "byline": "By Sadie Stein",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T10:20:31-05:00",
+      "created_date": "2023-02-24T05:00:24-05:00",
+      "published_date": "2023-02-24T05:00:24-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "Book Trade and Publishing",
+        "Content Type: Personal Profile",
+        "Depression (Mental)",
+        "The Absent Moon: A Memoir of a Short Childhood and a Long Depression (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Schwarcz, Luiz"
+      ],
+      "geo_facet": [
+        "Brazil"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15schwarcz-kvmf/15schwarcz-kvmf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1367,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWhen I wrote the book, I said that it was for helping others,\u201d says Luiz Schwarcz of his memoir. \u201cThen I realized it\u2019s mainly for me.\u201d",
+          "copyright": "Victor Moriyama for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15schwarcz-kvmf/15schwarcz-kvmf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWhen I wrote the book, I said that it was for helping others,\u201d says Luiz Schwarcz of his memoir. \u201cThen I realized it\u2019s mainly for me.\u201d",
+          "copyright": "Victor Moriyama for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15schwarcz-kvmf/15schwarcz-kvmf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWhen I wrote the book, I said that it was for helping others,\u201d says Luiz Schwarcz of his memoir. \u201cThen I realized it\u2019s mainly for me.\u201d",
+          "copyright": "Victor Moriyama for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xL6glH"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "5 Things to Do This Weekend",
+      "abstract": "Selections from the Weekend section, including a preview of the Metropolitan Opera's new staging of \"Lohengrin.\"",
+      "url": "https://www.nytimes.com/interactive/2023/02/24/arts/weekend-editors-picks-lohengrin.html",
+      "uri": "nyt://interactive/4c694d99-1687-5fdf-a52f-fb62de25f29d",
+      "byline": "By Danielle Dowling",
+      "item_type": "Interactive",
+      "updated_date": "2023-02-24T05:00:02-05:00",
+      "created_date": "2023-02-24T05:00:02-05:00",
+      "published_date": "2023-02-24T05:00:02-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Classical Music",
+        "Opera",
+        "Movies",
+        "Comedy and Humor",
+        "Television",
+        "Party Down (TV Program)",
+        "The Consultant (TV Program)"
+      ],
+      "org_facet": [
+        "Metropolitan Opera",
+        "Starz",
+        "Netflix Inc"
+      ],
+      "per_facet": [
+        "Goerke, Christine",
+        "Harbour, David",
+        "Nezet-Seguin, Yannick",
+        "Waltz, Christoph",
+        "Wagner, Richard"
+      ],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24wkd-ttd-LOHENGRIN-cover2/24wkd-ttd-LOHENGRIN-cover2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24wkd-ttd-LOHENGRIN-cover2/24wkd-ttd-LOHENGRIN-cover2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24wkd-ttd-LOHENGRIN-cover2/24LOHENGRIN-wjfv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xR2abw"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "MacDowell Names Chiwoniso Kaitano Its Next Executive Director",
+      "abstract": "Kaitano, the first Black person in the role at the artists\u2019 residency, will focus on identifying underrepresented artistic voices and intensifying outreach.",
+      "url": "https://www.nytimes.com/2023/02/24/arts/chiwoniso-kaitano-macdowell-director.html",
+      "uri": "nyt://article/5df1bb56-9e13-5a33-a672-7c0fc2bb47ef",
+      "byline": "By Maya Salam",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T12:50:41-05:00",
+      "created_date": "2023-02-24T00:01:05-05:00",
+      "published_date": "2023-02-24T00:01:05-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Culture (Arts)",
+        "Appointments and Executive Changes",
+        "Race and Ethnicity",
+        "Black People"
+      ],
+      "org_facet": [
+        "MacDowell Colony"
+      ],
+      "per_facet": [
+        "Kaitano, Chiwoniso",
+        "Himberg, Philip"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/arts/24macdowell-director-art/24macdowell-director-art-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chiwoniso Kaitano will take over as MacDowell\u2019s executive director in March, replacing Philip Himberg.",
+          "copyright": "Julie Bridgham"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/arts/24macdowell-director-art/24macdowell-director-art-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chiwoniso Kaitano will take over as MacDowell\u2019s executive director in March, replacing Philip Himberg.",
+          "copyright": "Julie Bridgham"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/arts/24macdowell-director-art/24macdowell-director-art-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chiwoniso Kaitano will take over as MacDowell\u2019s executive director in March, replacing Philip Himberg.",
+          "copyright": "Julie Bridgham"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IRJdfo"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018We Have a Ghost\u2019 Review: Me and My Boo",
+      "abstract": "David Harbour stars as an apparition haunting a family\u2019s home in this supernatural Netflix comedy.",
+      "url": "https://www.nytimes.com/2023/02/23/movies/we-have-a-ghost-review.html",
+      "uri": "nyt://article/7211cbb4-3493-5d73-9dd4-4f4f93073381",
+      "byline": "By Amy Nicholson",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T21:00:05-05:00",
+      "created_date": "2023-02-23T21:00:05-05:00",
+      "published_date": "2023-02-23T21:00:05-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "We Have a Ghost (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Harbour, David",
+        "Landon, Christopher B"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/ghost1-hjpq/ghost1-hjpq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1180,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In \u201cWe Have a Ghost,\u201d a father (Anthony Mackie) and son (Jahi Winston) have opposing ideas on what to do about the ghost (David Harbour) in the house. ",
+          "copyright": "Netflix"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/ghost1-hjpq/ghost1-hjpq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In \u201cWe Have a Ghost,\u201d a father (Anthony Mackie) and son (Jahi Winston) have opposing ideas on what to do about the ghost (David Harbour) in the house. ",
+          "copyright": "Netflix"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/ghost1-hjpq/ghost1-hjpq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In \u201cWe Have a Ghost,\u201d a father (Anthony Mackie) and son (Jahi Winston) have opposing ideas on what to do about the ghost (David Harbour) in the house. ",
+          "copyright": "Netflix"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Zhc81z"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "Hogwarts Legacy Sells 12 Million Copies During Dispute Over Rowling",
+      "abstract": "The video game generated $850 million in sales in two weeks. Online discussion before its release was largely about the \u201cHarry Potter\u201d creator J.K. Rowling\u2019s comments on transgender issues.",
+      "url": "https://www.nytimes.com/2023/02/23/arts/hogwarts-legacy-sales-rowling.html",
+      "uri": "nyt://article/dd99bc76-7471-5148-b758-40eef5f48372",
+      "byline": "By Julia Jacobs",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T00:22:07-05:00",
+      "created_date": "2023-02-23T19:16:59-05:00",
+      "published_date": "2023-02-23T19:16:59-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Computer and Video Games",
+        "Hogwarts Legacy (Video Game)",
+        "Harry Potter (Fictional Character)",
+        "Boycotts"
+      ],
+      "org_facet": [
+        "Warner Brothers"
+      ],
+      "per_facet": [
+        "Rowling, J K"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/arts/23hogwarts-sales/23hogwarts-sales-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hogwarts Legacy was released for computers, the PlayStation 5 and the Xbox Series X and Series S. It will come out for older consoles in April and July.",
+          "copyright": "Warner Bros. Games"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/arts/23hogwarts-sales/23hogwarts-sales-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hogwarts Legacy was released for computers, the PlayStation 5 and the Xbox Series X and Series S. It will come out for older consoles in April and July.",
+          "copyright": "Warner Bros. Games"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/arts/23hogwarts-sales/23hogwarts-sales-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hogwarts Legacy was released for computers, the PlayStation 5 and the Xbox Series X and Series S. It will come out for older consoles in April and July.",
+          "copyright": "Warner Bros. Games"
+        }
+      ],
+      "short_url": "https://nyti.ms/3m784Ta"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Linda King Newell, Feminist Scholar of Mormon History, Dies at 82",
+      "abstract": "Her work exploring the idea of female subservience within the church won acclaim. But it also led to her being blacklisted by Mormon leaders.",
+      "url": "https://www.nytimes.com/2023/02/23/books/linda-king-newell-dead.html",
+      "uri": "nyt://article/7e2311ee-a531-5ed4-b737-a4ae8c6f5dea",
+      "byline": "By Clay Risen",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T12:06:54-05:00",
+      "created_date": "2023-02-23T18:11:49-05:00",
+      "published_date": "2023-02-23T18:11:49-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Mormons (Church of Jesus Christ of Latter-Day Saints)",
+        "Women's Rights",
+        "Books and Literature",
+        "Writing and Writers"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Newell, Linda King (1941-2023)",
+        "Smith, Joseph (1805-44)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/obituaries/23newell-03/23newell-03-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1552,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Linda King Newell in 1985. She argued that Mormon women had once held significant power, but that they were sidelined as the church became more bureaucratic.",
+          "copyright": "via Newell family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/obituaries/23newell-03/23newell-03-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Linda King Newell in 1985. She argued that Mormon women had once held significant power, but that they were sidelined as the church became more bureaucratic.",
+          "copyright": "via Newell family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/obituaries/23newell-03/23newell-03-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Linda King Newell in 1985. She argued that Mormon women had once held significant power, but that they were sidelined as the church became more bureaucratic.",
+          "copyright": "via Newell family"
+        }
+      ],
+      "short_url": "https://nyti.ms/3m5YmR1"
+    },
+    {
+      "section": "obituaries",
+      "subsection": "",
+      "title": "Overlooked No More: Clara Driscoll, Designer of Visions in Glass for Tiffany",
+      "abstract": "She oversaw the Tiffany girls, a group of glass cutters and artisans who created elaborate, colorful lamps that are still in demand.",
+      "url": "https://www.nytimes.com/2023/02/23/obituaries/clara-driscoll-overlooked.html",
+      "uri": "nyt://article/5f5ea34e-116a-5014-a32b-a2388ac4058e",
+      "byline": "By Elaine Louie",
+      "item_type": "Article",
+      "updated_date": "2023-02-25T00:37:02-05:00",
+      "created_date": "2023-02-23T18:05:36-05:00",
+      "published_date": "2023-02-23T18:05:36-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Lamps and Lampshades",
+        "Design",
+        "Glass",
+        "Women and Girls",
+        "Art",
+        "Biographical Information"
+      ],
+      "org_facet": [
+        "Tiffany & Company"
+      ],
+      "per_facet": [
+        "Driscoll, Clara (1861-1944)"
+      ],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/27/multimedia/21overlooked-driscoll-01-hcqt-print1/21overlooked-driscoll-01-hcqt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2006,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The designer Clara Driscoll around 1900. The New-York Historical Society\u2019s museum has about 100 Tiffany lamps on view, 63 of which are attributed to her.",
+          "copyright": "Courtesy of Linda D. Alexander and David Fenn"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/27/multimedia/21overlooked-driscoll-01-hcqt-print1/21overlooked-driscoll-01-hcqt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The designer Clara Driscoll around 1900. The New-York Historical Society\u2019s museum has about 100 Tiffany lamps on view, 63 of which are attributed to her.",
+          "copyright": "Courtesy of Linda D. Alexander and David Fenn"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/27/multimedia/21overlooked-driscoll-01-hcqt-print1/21overlooked-driscoll-01-hcqt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The designer Clara Driscoll around 1900. The New-York Historical Society\u2019s museum has about 100 Tiffany lamps on view, 63 of which are attributed to her.",
+          "copyright": "Courtesy of Linda D. Alexander and David Fenn"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ZjRVrQ"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "How Much Watching Time Do You Have This Weekend?",
+      "abstract": "Our TV critic recommends checking out a scrappy one-season wonder, an escape room series for children and a sunny British mystery series.",
+      "url": "https://www.nytimes.com/2023/02/23/arts/television/how-much-watching-time-do-you-have-this-weekend.html",
+      "uri": "nyt://article/500c4ff8-39ef-5562-9dfb-f9625870403a",
+      "byline": "By Margaret Lyons",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T16:53:39-05:00",
+      "created_date": "2023-02-23T16:10:53-05:00",
+      "published_date": "2023-02-23T16:10:53-05:00",
+      "material_type_facet": "",
+      "kicker": "The Watching Newsletter",
+      "des_facet": [
+        "Television",
+        "internal-sub-only-nl",
+        "Florida Girls (TV Program)",
+        "Create the Escape (TV Program)",
+        "The Madame Blanc Mysteries (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/23Watching-Florida-fjgc/23Watching-Florida-fjgc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Laci Mosley, Laura Chinn, Patty Guggenheim and Melanie Field star in \u201cFlorida Girls.\u201d",
+          "copyright": "Pop TV"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/23Watching-Florida-fjgc/23Watching-Florida-fjgc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Laci Mosley, Laura Chinn, Patty Guggenheim and Melanie Field star in \u201cFlorida Girls.\u201d",
+          "copyright": "Pop TV"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/23Watching-Florida-fjgc/23Watching-Florida-fjgc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Laci Mosley, Laura Chinn, Patty Guggenheim and Melanie Field star in \u201cFlorida Girls.\u201d",
+          "copyright": "Pop TV"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kmXbfA"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "Alec Baldwin Pleads Not Guilty to Involuntary Manslaughter",
+      "abstract": "Baldwin was holding a gun on the set of the film \u201cRust\u201d when it discharged, killing the movie\u2019s cinematographer. The movie\u2019s armorer made her first virtual court appearance on Friday.",
+      "url": "https://www.nytimes.com/2023/02/23/arts/alec-baldwin-pleads-not-guilty.html",
+      "uri": "nyt://article/d0e4f05e-53c2-54a9-959c-3dada3eca773",
+      "byline": "By Julia Jacobs",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T13:51:52-05:00",
+      "created_date": "2023-02-23T15:18:20-05:00",
+      "published_date": "2023-02-23T15:18:20-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides",
+        "Rust (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Baldwin, Alec",
+        "Hutchins, Halyna (1979-2021)"
+      ],
+      "geo_facet": [
+        "New Mexico"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23baldwin-plea-mlpw/23baldwin-plea-mlpw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1379,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alec Baldwin was also a producer on \u201cRust,\u201d which is scheduled to continue filming in Montana this spring.",
+          "copyright": "Angela Weiss/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23baldwin-plea-mlpw/23baldwin-plea-mlpw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alec Baldwin was also a producer on \u201cRust,\u201d which is scheduled to continue filming in Montana this spring.",
+          "copyright": "Angela Weiss/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23baldwin-plea-mlpw/23baldwin-plea-mlpw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alec Baldwin was also a producer on \u201cRust,\u201d which is scheduled to continue filming in Montana this spring.",
+          "copyright": "Angela Weiss/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3SrOpcI"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "A New \u2018Lohengrin,\u2019 Threatened by War in Ukraine, Comes to the Met",
+      "abstract": "Fran\u00e7ois Girard\u2019s staging, originally a co-production with the Bolshoi Theater, arrives a year after its Moscow premiere, which coincided with Russia\u2019s invasion of Ukraine.",
+      "url": "https://www.nytimes.com/2023/02/23/arts/music/lohengrin-met-opera-ukraine-russia.html",
+      "uri": "nyt://article/17244337-57bf-5b9c-aa10-143575bd833a",
+      "byline": "By Joshua Barone",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T11:36:02-05:00",
+      "created_date": "2023-02-23T14:54:10-05:00",
+      "published_date": "2023-02-23T14:54:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Opera",
+        "Lohengrin (Opera)",
+        "Russian Invasion of Ukraine (2022)"
+      ],
+      "org_facet": [
+        "Metropolitan Opera",
+        "Bolshoi Theater"
+      ],
+      "per_facet": [
+        "Wagner, Richard",
+        "Girard, Francois",
+        "Nezet-Seguin, Yannick",
+        "Beczala, Piotr (1966- )",
+        "Gelb, Peter"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Ukraine"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24Lohengrin-Preview-Cover-vwql/24Lohengrin-Preview-Cover-vwql-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Piotr Beczala as the title character in Wagner\u2019s \u201cLohengrin\u201d at the Metropolitan Opera. The production\u2019s scenery had to be rebuilt from scratch; the originals could not leave Russia because of U.S. sanctions in response to the war in Ukraine.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24Lohengrin-Preview-Cover-vwql/24Lohengrin-Preview-Cover-vwql-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Piotr Beczala as the title character in Wagner\u2019s \u201cLohengrin\u201d at the Metropolitan Opera. The production\u2019s scenery had to be rebuilt from scratch; the originals could not leave Russia because of U.S. sanctions in response to the war in Ukraine.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24Lohengrin-Preview-Cover-vwql/24Lohengrin-Preview-Cover-vwql-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Piotr Beczala as the title character in Wagner\u2019s \u201cLohengrin\u201d at the Metropolitan Opera. The production\u2019s scenery had to be rebuilt from scratch; the originals could not leave Russia because of U.S. sanctions in response to the war in Ukraine.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3YYvngA"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Algiers Blasts Songs of Damage and Redemption on \u2018Shook\u2019",
+      "abstract": "On its fourth album, the Atlanta band welcomes guest voices and pushes itself even harder.",
+      "url": "https://www.nytimes.com/2023/02/23/arts/music/algiers-shook-review.html",
+      "uri": "nyt://article/32792820-349f-5551-a9d2-51f5a110e228",
+      "byline": "By Jon Pareles",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T12:52:49-05:00",
+      "created_date": "2023-02-23T14:02:18-05:00",
+      "published_date": "2023-02-23T14:02:18-05:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Shook (Album)"
+      ],
+      "org_facet": [
+        "Algiers (Music Group)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23algiers-review-kpfm/23algiers-review-kpfm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 800,
+          "width": 1200,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Portents of apocalypse and furious resistance have coursed through the music of the Atlanta-based Algiers since its 2015 debut.",
+          "copyright": "Ebru Yildiz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23algiers-review-kpfm/23algiers-review-kpfm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Portents of apocalypse and furious resistance have coursed through the music of the Atlanta-based Algiers since its 2015 debut.",
+          "copyright": "Ebru Yildiz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23algiers-review-kpfm/23algiers-review-kpfm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Portents of apocalypse and furious resistance have coursed through the music of the Atlanta-based Algiers since its 2015 debut.",
+          "copyright": "Ebru Yildiz"
+        }
+      ],
+      "short_url": "https://nyti.ms/3m3c2MV"
+    }
+  ]
+}
