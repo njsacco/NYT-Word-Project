@@ -17,20 +17,25 @@ Make sure you are in Python 3.10 or earlier as 3.11 would not work at the time o
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the application
 
-WordCloud Word Density
+### WordCloud Word Density
 
 ![WordDensity](https://user-images.githubusercontent.com/35784016/227059195-e6af8315-9188-456a-939a-3e9e7056b26d.gif)
 
 
-Changing Color of Wordcloud
+### Changing Color of Wordcloud
+
 ![ColorChange](https://user-images.githubusercontent.com/35784016/227059324-cf219b06-54fe-4d51-aa11-41654def930e.gif)
 
-Frequency Distribution of Words
+
+### Frequency Distribution of Words
+
 ![FreqDistFull](https://user-images.githubusercontent.com/35784016/227059377-a9ddc377-2dbd-4093-8bef-01289c89b4cc.gif)
 
-Most Popular Articles Time Filter
+
+### Most Popular Articles Time Filter
+
 ![PopArticles](https://user-images.githubusercontent.com/35784016/227059483-f599e4dc-87c8-4753-a6f5-82e2e68a3391.gif)
 
 
